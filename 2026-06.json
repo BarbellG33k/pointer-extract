@@ -1,0 +1,1325 @@
+[
+ {
+  "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+  "title": "Fast Is Better Than Slow",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "CareerGrowth Productivity",
+  "categories": [
+   "CareerGrowth",
+   "Productivity"
+  ],
+  "author": "Patrick Dubroy",
+  "summary": "“About 10 years ago, I realized all the best programmers I had worked with had something in common: they were fast. By that I mean that they moved quickly: we’d discuss a problem and an hour or two later they’d already have a patch ready or a prototype to show off.",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/eq-is-not-just-about-what-you-say",
+  "title": "EQ Is Not Just About What You Say. It’s Your Body Language Too.",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "Leadership Communication",
+  "categories": [
+   "Leadership",
+   "Communication"
+  ],
+  "author": "Wes Kao",
+  "summary": "“Your message isn’t just the content of what you say. When your facial expressions and body language don’t match your message, you diminish your ability to convey your point. The impact is you might come across as insincere. When you’re mindful of your body language, you help set the emotional tone,",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://jobs.fidelity.com/en/technology-careers",
+  "title": "Build The Future Of Tech At Fidelity",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": null,
+  "summary": "Rethink what it means to work in fintech. At Fidelity, we’re building the next generation of tools and products. Discover a vibrant tech community where your work impacts millions. It’s the energy of a startup with the resources of an industry leader. Bring your curiosity and your craft to a team th",
+  "sponsored": true,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564",
+  "title": "The Last Technical Interview",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "DeepDive Hiring",
+  "categories": [
+   "DeepDive",
+   "Hiring"
+  ],
+  "author": "Steve Yegge",
+  "summary": "Steve draws on 35 years of conducting technical interviews at Amazon and Google to argue the process is bordering on pseudoscience. He offers alternative approaches, including replacing interviews with campfires - short paid stints doing real work on real codebases - where candidates walk away with",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://www.elidedbranches.com/2026/05/guidelines-for-respectful-use-of-ai.html",
+  "title": "Guidelines For Respectful Use Of AI",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "Leadership Management AI",
+  "categories": [
+   "Leadership",
+   "Management",
+   "AI"
+  ],
+  "author": "Camille Fournier",
+  "summary": "“As companies adopt AI tools, a lot of time is spent on thinking about AI policies from a security, compliance, or even cost-focused angle. But many leaders are neglecting to address how their teams should work with AI in the context of the team as a whole. This creates a lot of unresolved tension,",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://uplevelteam.com",
+  "title": "Most AI Productivity Claims Are Anecdotal",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "Productivity AI",
+  "categories": [
+   "Productivity",
+   "AI"
+  ],
+  "author": null,
+  "summary": "Developers ship faster. PRs close quicker. But org-level throughput? Deployment frequency? Business value? Flat. StackUp is a free 10-minute diagnostic that shows you what's actually moving and what's stuck in your systems. See how you compare to your peers and learn the pattern that explains what c",
+  "sponsored": true,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html",
+  "title": "Things You Didn't Know About Indexes",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "Database PostgreSQL Tips",
+  "categories": [
+   "Database",
+   "PostgreSQL",
+   "Tips"
+  ],
+  "author": "John Charter",
+  "summary": "Jon walks through lesser-known tricks - why column order in composite indexes matters more than you think, how functional indexes save you from wrapping every query in LOWER(), when partial indexes can drastically shrink your index size, and how covering indexes let Postgres answer queries without e",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://tomtunguz.com/harnessing-ai/",
+  "title": "Software After AI",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "SystemDesign AI",
+  "categories": [
+   "SystemDesign",
+   "AI"
+  ],
+  "author": "Tomasz Tunguz",
+  "summary": "Tomasz breaks the harness into seven disciplines: context & memory, tools & action, orchestration, state & persistence, sandboxing, observability, and cost optimization. What happens when every company has access to the same model?",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://www.lucavall.in/blog/ai-engineering-for-developers",
+  "title": "AI Engineering For Developers",
+  "issue": 721,
+  "date": "2026-06-02",
+  "date_display": "2 June 2026",
+  "category": "Guide AI",
+  "categories": [
+   "Guide",
+   "AI"
+  ],
+  "author": "Luca Cavallin",
+  "summary": "“This post is what I wish someone had handed me the first time I had to ship an AI feature. I spent fifteen years writing backends, operating Kubernetes clusters, debugging Terraform, and arguing about API design. Then LLMs landed in production and a lot of the rules I trusted stopped applying.”",
+  "sponsored": false,
+  "source_thread_id": "19e886d1683c41c4"
+ },
+ {
+  "url": "https://mollyg.substack.com/p/memorable-is-useable",
+  "title": "Make It Memorable",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Leadership Management Communication",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Communication"
+  ],
+  "author": "Molly Graham",
+  "summary": "“It sounds almost insultingly simple: make things memorable. But I’ve watched smart leaders at good companies invest enormous energy into goals and values that don’t actually have any effect on behavior — not because they got the strategy wrong, but because they made things too complex for it to sti",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://cpojer.net/posts/modern-engineering-values",
+  "title": "Modern Engineering Values",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Management AI",
+  "categories": [
+   "Management",
+   "AI"
+  ],
+  "author": "Christoph Nakazawa",
+  "summary": "I’ve been trying to wrap my head around engineering values and principles that matter for 2026 and beyond that will help individuals and organizations move faster. Looking at my engineering workflow it feels like on one hand everything changed, and on the other, not that much.",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://us06web.zoom.us/webinar/register/7017804079179/WN_zRWuGhZ5ReWsPPw24cbpgg",
+  "title": "Free Gauntlet AI Night School: AI-First Product Development: Planning, Prompting, and Shipping With AI - Wednesday June 10 5CT",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Event AI",
+  "categories": [
+   "Event",
+   "AI"
+  ],
+  "author": null,
+  "summary": "Join Derek Peters as he breaks down how engineers and product managers can use AI-first workflows to plan more clearly, prompt more intentionally, and move from idea to execution without losing control of the product. In this session, you’ll learn how to: (1) Understand how AI is changing the role o",
+  "sponsored": true,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against",
+  "title": "AI Enthusiasts Are In A Race Against Time, AI Skeptics Are In A Race Against Entropy",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Leadership Strategy AI",
+  "categories": [
+   "Leadership",
+   "Strategy",
+   "AI"
+  ],
+  "author": "Charity Majors",
+  "summary": "“I am writing for relatively high-performing teams that are transforming from pre-AI to AI-native. These are teams with engineering discipline and skill who care deeply, who are struggling precisely because there are so many legitimate, competing threats and no obvious answers.”",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://registerspill.thorstenball.com/p/building-software-is-learning",
+  "title": "Building Software Is Learning",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "DevEx Product",
+  "categories": [
+   "DevEx",
+   "Product"
+  ],
+  "author": "Thorsten Ball",
+  "summary": "“If someone says “we need this feature”, don’t go “yes, let me build it” and hack on something for 4 weeks only for the other person to ultimately go “that’s not what I meant.” No. Instead, embrace that we need to learn, that we need to try and play around with this idea as fast as possible, in a wa",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://www.propelauth.com/post/oauth2-in-simple-terms",
+  "title": "OAuth 2.1 In Simple Terms",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Security",
+  "categories": [
+   "Security"
+  ],
+  "author": "Andrew Israel",
+  "summary": "OAuth 2.1 is used in everything from Sign in with Google to integrating with third parties to MCP server authentication. Learn how it works with this article.",
+  "sponsored": true,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://www.seangoedecke.com/weird-projects-i-shipped-with-ai/",
+  "title": "Weird Projects I Shipped With AI",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Entertaining Productivity AI",
+  "categories": [
+   "Entertaining",
+   "Productivity",
+   "AI"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "“I definitely would not have done all of these by hand. I might have found the time to do one or two of them, but based on my pre-AI track record they would probably have stayed in the “GitHub repo with a few commits” stage. This list is a kind of existence proof: a bunch of weird projects, useful t",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://kristoff.it/blog/fix-your-asserts/",
+  "title": "You Must Fix Your Asserts",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "Debugging CodeQuality",
+  "categories": [
+   "Debugging",
+   "CodeQuality"
+  ],
+  "author": "Loris Cro",
+  "summary": "I think “disabling asserts in prod” is a pretty common technique, yeah? As far as I know that is probably a correct statement, but I believe it to be an irredeemably bad practice.",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://newsletter.techworld-with-milan.com/p/best-software-engineering-books-2026",
+  "title": "The Software Engineering Books I Keep Recommending",
+  "issue": 722,
+  "date": "2026-06-05",
+  "date_display": "5 June 2026",
+  "category": "CareerGrowth Books",
+  "categories": [
+   "CareerGrowth",
+   "Books"
+  ],
+  "author": "Dr Milan Milanović",
+  "summary": "“Some of these books are really old, like 15-20 years or more, but they are still valid because they contain evergreen knowledge. But there are some new ones which I believe will become evergreen in the future. You will notice they are mostly tech-agnostic, so they can be relevant in many fields.”",
+  "sponsored": false,
+  "source_thread_id": "19e97a98e0d4cfa1"
+ },
+ {
+  "url": "https://tidyfirst.substack.com/p/trust-factory",
+  "title": "Trust Factory",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "Leadership Management TeamHealth",
+  "categories": [
+   "Leadership",
+   "Management",
+   "TeamHealth"
+  ],
+  "author": "Kent Beck",
+  "summary": "“Trust is as tricky as code. Both are asymmetrical. Code works or it doesn’t. One mistake in a long string of good decisions is the same as just a mistake. Trust accumulates slowly & evaporates in an instant. The difference is that in software sometimes you can repair the mistake in time proportiona",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://usefulfictions.substack.com/p/find-a-way",
+  "title": "Find A Way",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": "Cate Hall",
+  "summary": "“We humans are unfortunately hardwired to readily reject options that will require effort when we think the chances are good that we won’t succeed. Flipping the script from “that won’t work” to “how do I make this work?” can help you discover degrees of agency you didn’t realize you had”",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://watch.getcontrast.io/register/context-maturity",
+  "title": "8 Levels Of Context Maturity In AI-Native Engineering",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "Event AI Agents",
+  "categories": [
+   "Event",
+   "AI",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "AI shows up in 60% of engineering work. Only about a fifth of it can be handed off without someone babysitting the output. That’s because agents are still missing the context you have. Join live June 24 (FREE) to find out how teams pulling ahead are using a context layer to level up.",
+  "sponsored": true,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://shreyasdoshi.substack.com/p/on-mid-career-satisfaction",
+  "title": "On Mid-Career (Dis)satisfaction",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "CareerGrowth Wellbeing",
+  "categories": [
+   "CareerGrowth",
+   "Wellbeing"
+  ],
+  "author": "Shreyas Doshi",
+  "summary": "“Your imagined audience doesn’t know you at all, doesn’t understand you, and doesn’t even care about you. The audience does judge you, but that judging is just for soothing its own insecurities and fears.”",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/8-myths-on-software-engineering-and",
+  "title": "8 Myths On Software Engineering And AI",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "DevEx Metrics AI",
+  "categories": [
+   "DevEx",
+   "Metrics",
+   "AI"
+  ],
+  "author": "Brian Houck",
+  "summary": "“The eight myths fall into three groups: how developers actually spend their time, how to measure AI’s impact, and how AI gets adopted in real organizations. The through-line is that the gap between AI’s promise and its measured impact has less to do with the models and more to do with the surroundi",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://agentfield.ai/github/pr-af/",
+  "title": "The Open-Source Code Reviewer Built For AI-Written Diffs",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "OpenSource AI CodeReview",
+  "categories": [
+   "OpenSource",
+   "AI",
+   "CodeReview"
+  ],
+  "author": null,
+  "summary": "AI now writes a large share of your team's pull requests - and AI-written code fails differently than code review tooling expects. AgentField open-sourced pr-af, a multi-agent reviewer that designs a review lens per PR instead of running a fixed checklist. Your team sets what blocks a merge vs. what",
+  "sponsored": true,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
+  "title": "You Don't Love Systemd Timers Enough",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "DeepDive DevOps Linux",
+  "categories": [
+   "DeepDive",
+   "DevOps",
+   "Linux"
+  ],
+  "author": "Tyler Langlois",
+  "summary": "“A systemd timer is a type of unit that schedules other units on a particular schedule. Timers are effectively a functional replacement for a traditional cron daemon (though you could conceivably run both), and timer calendar settings offer some similarities to help bridge the gap from traditional c",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+  "title": "How Claude Code Works In Large Codebases: Best Practices And Where To Start",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "Guide DevEx AI",
+  "categories": [
+   "Guide",
+   "DevEx",
+   "AI"
+  ],
+  "author": null,
+  "summary": "This article covers the patterns we've observed that have led to successful adoption of Claude Code at scale. We use large codebase to refer to a wide range of deployments: monorepos with millions of lines, legacy systems built over decades, dozens of microservices across separate repositories, or a",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+  "title": "Life Is Too Short For A Slow Terminal",
+  "issue": 723,
+  "date": "2026-06-09",
+  "date_display": "9 June 2026",
+  "category": "Guide DevEx Tools+Setup",
+  "categories": [
+   "Guide",
+   "DevEx",
+   "Tools+Setup"
+  ],
+  "author": "Mijndert Stuij",
+  "summary": "“There was never some big optimization project behind this either; I've just always kept my shell minimal and fast and over the years that turned into a habit. Here's how I go about it, and all of it can be found in my dotfiles.”",
+  "sponsored": false,
+  "source_thread_id": "19eac93d7679b35d"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/fundamentals-how-to-share-your-point",
+  "title": "How To Share Your Point Of View",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "CareerGrowth Communication Tips",
+  "categories": [
+   "CareerGrowth",
+   "Communication",
+   "Tips"
+  ],
+  "author": "Wes Kao",
+  "summary": "Luckily, you can build the muscle of speaking up and sharing your point of view. Here are 6 principles that helped me: (1) The more controversial the idea, the higher the burden of proof. (2) Update your assumptions about how you add value. (3) Share where your hunch is coming from because it’s comi",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://rdel.substack.com/p/rdel-147-how-does-genai-change-when",
+  "title": "How Does GenAI Change When And How Teammates Talk To Each Other?",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "Management TeamHealth AI",
+  "categories": [
+   "Management",
+   "TeamHealth",
+   "AI"
+  ],
+  "author": "Lizzie Matusov",
+  "summary": "“Most discussion of AI coding tools centers on how they change an individual’s output, but they are also quietly rewiring how people on a team turn to one another. This week we ask: how does GenAI change when and how members of a software development team interact?”",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://riverside.com/webinar/registration/eyJldmVudElkIjoiNmEyMGE4ZjI3ZWUzM2RjNmE3MzRiZDI3Iiwic2x1ZyI6ImdhdW50bGV0LWhxIn0=",
+  "title": "Free Gauntlet AI Night School: Planning, Specs, And Decision Logs: What Separates AI Engineers From Vibe",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "Event AI Agents",
+  "categories": [
+   "Event",
+   "AI",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "In this Night School, Ash Tilawat breaks down why AI-native development is moving toward a document-driven workflow. He'll show how specs act like contracts with AI agents, why planning is becoming the most important part of the build, and how decision logs create a shared constitution for architect",
+  "sponsored": true,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://muratbuffalo.blogspot.com/2026/06/writing-code-vs-shipping-code.html",
+  "title": "Writing Code vs. Shipping Code: Productivity Effects Across Generations Of AI Coding Tools",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "Management DevEx AI",
+  "categories": [
+   "Management",
+   "DevEx",
+   "AI"
+  ],
+  "author": "Murat Demirbas",
+  "summary": "“The core of the paper rests on this monotonic decay argument. The sheer task-level velocity gains we see from AI coding tools start to bleed out as they move up the production hierarchy.”",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://alifeengineered.substack.com/p/when-was-the-last-time-you-did-just",
+  "title": "When Was the Last Time You Did Just One Thing?",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "Tips Productivity Wellbeing",
+  "categories": [
+   "Tips",
+   "Productivity",
+   "Wellbeing"
+  ],
+  "author": "Steve Huynh",
+  "summary": "“You don’t need another productivity system, or more hours in the day. All you need is to choose to do one thing at a time, to be fully in it, especially when something in you is itching to be somewhere else.” Steve provides actionable things you can do to reach this goal.",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://lore.link/",
+  "title": "For Teams That Talk To Claude More Than Each Other",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "Tools+Setup KnowledgeManagement AI",
+  "categories": [
+   "Tools+Setup",
+   "KnowledgeManagement",
+   "AI"
+  ],
+  "author": null,
+  "summary": "Lore saves your team's Claude Code, Codex, and Cowork conversations in one place, so you don't lose all that work. Get shareable URLs for sessions showing what worked (or didn’t work) across prompts, skills, and tool calls. Search decisions, related work, and context across your team without waiting",
+  "sponsored": true,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure",
+  "title": "Predicting AI Job Exposure",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "IndustryTrends AI",
+  "categories": [
+   "IndustryTrends",
+   "AI"
+  ],
+  "author": "Benedict Evans",
+  "summary": "“Many people would like to analyse which jobs, companies and industries are most exposed to AI, and assign scores, build charts, and map that against the progress of LLMs. I think this is mostly impossible: you don’t know how the jobs will change, you don’t know what else will change around this, an",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+  "title": "How LLMs Actually Work",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "DeepDive AI",
+  "categories": [
+   "DeepDive",
+   "AI"
+  ],
+  "author": null,
+  "summary": "“Most modern LLMs share the same transformer-family skeleton. The differences come from what each one was trained on, the scale and configuration choices, and the post-training done on top. By the end, you should be able to read many modern LLM papers or model cards and know which piece of the archi",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://testing.googleblog.com/2026/06/choosing-values-for-robust-tests.html",
+  "title": "Choosing Values For Robust Tests",
+  "issue": 724,
+  "date": "2026-06-12",
+  "date_display": "12 June 2026",
+  "category": "Testing CodeQuality",
+  "categories": [
+   "Testing",
+   "CodeQuality"
+  ],
+  "author": "Radion Khait",
+  "summary": "“A test passes. Great! But does it really mean your code is working as expected? Not necessarily. Sometimes the values you choose in your tests can create a false sense of security, especially when dealing with default values.”",
+  "sponsored": false,
+  "source_thread_id": "19ebbedc0c1ae882"
+ },
+ {
+  "url": "https://andiroberts.com/leadership-questions/how-to-build-influence-without-authority-matrix-organisation",
+  "title": "How Do I Build Influence Across Functions And Departments?",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "Leadership Influence CareerGrowth",
+  "categories": [
+   "Leadership",
+   "Influence",
+   "CareerGrowth"
+  ],
+  "author": "Andi Roberts",
+  "summary": "“Research consistently supports this. People are influenced not only by the strength of an argument but also by trust, credibility, relationship, and perceived relevance. Before people commit to an initiative, they need confidence in both the message and the messenger. They need to feel understood b",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://news.theuncommonexecutive.com/p/how-calibration-sessions-mess-with",
+  "title": "What Most People Miss About Performance Reviews",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "Staff+ PerformanceReviews",
+  "categories": [
+   "Staff+",
+   "PerformanceReviews"
+  ],
+  "author": "Yue Zhao",
+  "summary": "“Your manager’s view of your performance is critical, but insufficient at senior levels in securing a specific rating. What becomes more important is that your performance is well understood by all the broader organization and teams you don’t regularly collaborate with, especially those who might ho",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://turbopuffer.com",
+  "title": "Retrieve Every Byte To Build Smarter AI Agents",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "AI Agents",
+  "categories": [
+   "AI",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "Good context is the difference between an AI agent that can move mountains and an agent that is frustratingly dumb. That’s why Cursor, Notion, and Atlassian use turbopuffer to connect AI to data. Thanks to turbopuffer’s object-storage-native design, you can index far more data, and retrieve just the",
+  "sponsored": true,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+  "title": "AI Demands More Engineering Discipline. Not Less",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "AI CodeQuality IndustryTrends",
+  "categories": [
+   "AI",
+   "CodeQuality",
+   "IndustryTrends"
+  ],
+  "author": "Charity Majors",
+  "summary": "“But value is backed by durability, not disposability, and I don’t see that changing. Bits are cheap and fast and governed by the rules of logic and language, but anything with value must ultimately resolve with physical systems: persistence on the one side, user experience on the other.”",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://louisedeason.substack.com/p/nine-questions-i-now-ask-in-interviews",
+  "title": "Nine Questions I Now Ask In Interviews That I Wish I'd Asked Five Years Ago",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "InterviewAdvice",
+  "categories": [
+   "InterviewAdvice"
+  ],
+  "author": "Louise Deason",
+  "summary": "“Here are nine questions that have served me well. Some of them are diagnostic. Some of them are trapdoors. All of them have, at one point or another, told me something the company did not realise they were telling me.”",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://www.sonarsource.com/resources/gartner-magic-quadrant-2026/?s_category=Paid&s_source=Paid+Other&s_origin=pointer",
+  "title": "Gartner® Predicts 80% Of Tech Debt Will Be Architectural By 2027. AI Is Driving It Higher.",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "AI TechDebt",
+  "categories": [
+   "AI",
+   "TechDebt"
+  ],
+  "author": null,
+  "summary": "AI agents are generating massive pull requests without context on your architecture, your standards, or your existing codebase. That's how architectural debt compounds 2.8x faster than code-level debt. Sonar was named a Leader in the 2026 Gartner® Magic Quadrant™ for Technical Debt Management and pl",
+  "sponsored": true,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/",
+  "title": "Agentic Testing: Where Agents Fit In The E2E Testing Stack",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "CaseStudy AI Testing",
+  "categories": [
+   "CaseStudy",
+   "AI",
+   "Testing"
+  ],
+  "author": "Sergii Gorbachov",
+  "summary": "Agent-driven end-to-end (E2E) tests add a new exploratory layer to testing, but should they replace traditional deterministic tests? We ran more than 200 agentic E2E workflows in test workspaces using non-production data to find out how agentic testing could fit into both our and your testing stacks",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://antirez.com/news/168",
+  "title": "A New Era For Software Testing",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "AI Agents Testing",
+  "categories": [
+   "AI",
+   "Agents",
+   "Testing"
+  ],
+  "author": "Salvatore Sanfilippo",
+  "summary": "“The idea is to create a markdown file where an AI agent is asked to work as a QA engineer, performing a number of manual testings on the new release. For instance, in the case of DwarfStar (an inference engine for open weights LLMs) I use the following approach. In the markdown file, the agent is a",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://blog.forter.dev/making-agents-easy-13-lessons-from-forters-agentic-ai-sprint/",
+  "title": "13 Lessons From Our Agentic AI Sprint",
+  "issue": 725,
+  "date": "2026-06-16",
+  "date_display": "16 June 2026",
+  "category": "CaseStudy AI Agents",
+  "categories": [
+   "CaseStudy",
+   "AI",
+   "Agents"
+  ],
+  "author": "Ben Maraney",
+  "summary": "“Run a two-week program in which everyone across R&D could get experience building an agent. The hope was that this hands-on experience would get us all planning for the future and help us build good intuition about where and how to use AI agents. We had only five weeks to prepare the infrastructure",
+  "sponsored": false,
+  "source_thread_id": "19ed04ead0b6ad22"
+ },
+ {
+  "url": "https://lethain.com/revised-rules-of-engineering-leadership/",
+  "title": "Revised Rules Of Engineering Leadership",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Will Larson",
+  "summary": "“This post documents the new rules I’ve revised my approach to engineering leadership around, and then talks through the specific projects I’ve worked on over the past year that caused me to believe in these rules.”",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://staysaasy.com/startups/2026/06/16/stacked-weaknesses.html",
+  "title": "Don't Stack Weaknesses",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "Management Hiring",
+  "categories": [
+   "Management",
+   "Hiring"
+  ],
+  "author": "Yue Zhao",
+  "summary": "“The real damage happens when you stack weaknesses - when a leader is weak at something and their direct reports are weak at the same thing. This is a disaster, and it happens far more often than you’d think. Part of the reason for this is that leaders tend to hire people with the same skills they h",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://uplevelteam.com/stackup",
+  "title": "AI Spend Is Under Scrutiny. Know What It's Buying You.",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "Leadership AI Metrics",
+  "categories": [
+   "Leadership",
+   "AI",
+   "Metrics"
+  ],
+  "author": null,
+  "summary": "StackUp is a 10-minute diagnostic that shows you where your AI investment is producing returns and where it's stalling — across the organizational dimensions that actually determine whether AI pays off. No tool integration, no infosec review required. Qualified engineering leaders get a 30-minute se",
+  "sponsored": true,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://alifeengineered.substack.com/p/why-spreading-yourself-thin-feels",
+  "title": "Why Spreading Yourself Thin Feels Like Winning",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "CareerGrowth DecisionMaking Wellbeing",
+  "categories": [
+   "CareerGrowth",
+   "DecisionMaking",
+   "Wellbeing"
+  ],
+  "author": "Steve Huynh",
+  "summary": "“Every “yes” is a check written against the future that has to be cleared. And clearing checks written by “powerful Us” is especially tough. Why? Because, by definition, we are only average most of the time. This article provides a guide to recognizing overextension in ourselves, so that, before we",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://www.scottkennedy.us/new-grads",
+  "title": "The Worst Take In Tech: New Grad Hiring",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "IndustryTrends AI Hiring",
+  "categories": [
+   "IndustryTrends",
+   "AI",
+   "Hiring"
+  ],
+  "author": "Scott Kennedy",
+  "summary": "“In this generation we call them “AI Natives”. The advantage is that there are no old habits to break or reframe. Many experienced folks are open minded and can do it, but many resist. New grads don’t know the difference, their learning came in parallel to having these tools.”",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://agentfield.ai/blog/ai-native-code-review/",
+  "title": "Your Team Reviews AI's Code Now. What Should Block A Merge?",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "Management CodeReview AI",
+  "categories": [
+   "Management",
+   "CodeReview",
+   "AI"
+  ],
+  "author": null,
+  "summary": "Most pull requests on your team no longer start with a human author - but the review bar was built for when they did. AgentField's engineering write-up lays out the four jobs code review has always done quietly, the three that get heavier the moment AI writes the first draft, and how to decide what",
+  "sponsored": true,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+  "title": "Why Is Meta Destroying Its Engineering Organization?",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "IndustryTrends Leadership",
+  "categories": [
+   "IndustryTrends",
+   "Leadership"
+  ],
+  "author": "Gergely Orosz",
+  "summary": "“In this article, we walk through what’s happened, and ask what’s going through the minds of leadership who are reducing software engineering there from the profit center that it was between 2004 until very recently, to the disdained cost center that it has become in just a few weeks.”",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://andersmurphy.com/2026/06/07/sqlite-improving-performance-with-pre-sort.html",
+  "title": "SQLite Improving Performance With Pre-Sort",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "Database DeepDive Performance",
+  "categories": [
+   "Database",
+   "DeepDive",
+   "Performance"
+  ],
+  "author": "Anders Murphy",
+  "summary": "“The defining characteristic of a B+ Tree is that it is ordered. Sequential writes are fast. Random data works against this thrashing pages, causing page splits and tree re-balancing. It's not a good time. But, we are batching the data already. So what if we sort it before we insert?”",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://addyosmani.com/blog/agentic-code-review/",
+  "title": "Agentic Code Review",
+  "issue": 726,
+  "date": "2026-06-19",
+  "date_display": "19 June 2026",
+  "category": "CodeReview AI Agents",
+  "categories": [
+   "CodeReview",
+   "AI",
+   "Agents"
+  ],
+  "author": "Addy Osmani",
+  "summary": "“Stop reviewing everything to the same depth. Spend scarce human attention only where being wrong is costly, and let cheap deterministic gates and AI reviewers handle the rest. The organizing idea is to match review effort to the cost of being wrong, push the cheap deterministic work as early as pos",
+  "sponsored": false,
+  "source_thread_id": "19edfc21990ce589"
+ },
+ {
+  "url": "https://andiroberts.com/leadership-questions/how-to-build-powerful-internal-network-matrix-organisation",
+  "title": "How Do I Build A Powerful Internal Network?",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "Leadership Management CareerGrowth",
+  "categories": [
+   "Leadership",
+   "Management",
+   "CareerGrowth"
+  ],
+  "author": "Andi Roberts",
+  "summary": "“What separates the leaders who create momentum from those who spend their time managing friction is rarely authority or technical expertise. It is network. Not the size of it. The quality, the positioning, and the deliberate investment that went into building it before it was needed.”",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://longform.asmartbear.com/confidence/",
+  "title": "Lost Confidence",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "DecisionMaking Product Estimation",
+  "categories": [
+   "DecisionMaking",
+   "Product",
+   "Estimation"
+  ],
+  "author": "Jason Cohen",
+  "summary": "“RICE and other confidence-based frameworks are mostly noise. Here’s how to make decisions without pretending to know the unknowable.”",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://watch.getcontrast.io/register/context-maturity",
+  "title": "[Webinar] 8 Levels Of Context Maturity In AI-Native Engineering",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "Agents AI Event",
+  "categories": [
+   "Agents",
+   "AI",
+   "Event"
+  ],
+  "author": null,
+  "summary": "AI is in your engineering workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. This free webinar maps the 8 levels of context maturity: where most teams are stuck, what the ceiling looks like at each stage, and what",
+  "sponsored": true,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://yewjin.substack.com/p/note-to-my-younger-self",
+  "title": "Note To My Younger Self",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": "Yew Jin Lim",
+  "summary": "“These lessons came through trial, error, and observing countless brilliant people. Simple doesn’t mean easy, and knowing doesn’t mean doing. Youth, as they say, is wasted on the young.”",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai",
+  "title": "Growing As An Engineer In A World Of AI",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "AI CareerGrowth",
+  "categories": [
+   "AI",
+   "CareerGrowth"
+  ],
+  "author": "Norberto Lopes",
+  "summary": "“There’s a lot of buzz that AI means companies only want seniors now. That there’s no room left for early career engineers. I don’t think that’s true. The thing actually worth worrying about isn’t whether you’ll get hired, it’s whether you keep learning in a world of AI, now that it removes the fric",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://www.propelauth.com/post/autn-for-internal-mcp-servers",
+  "title": "Authentication And Authorization For Internal MCP Servers",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "AI Security",
+  "categories": [
+   "AI",
+   "Security"
+  ],
+  "author": "Paul Vatterott",
+  "summary": "Your internal MCP server can give LLMs access to everything by default, with no auth layer to stop them. This post shows how to lock it down with roles, granular scopes, and Enterprise SSO so employees and their AI assistants only reach the data they're cleared for.",
+  "sponsored": true,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+  "title": "Building Reliable Agentic AI Systems",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "CaseStudy AI Agents",
+  "categories": [
+   "CaseStudy",
+   "AI",
+   "Agents"
+  ],
+  "author": "Sarang Kulkarni",
+  "summary": "“In this post, we share that journey — how Bayer's early investment in generative AI has resulted in PRINCE, an agentic AI system built on Agentic RAG. This case study explores the technical architecture, engineering decisions, and lessons learned in transforming preclinical data retrieval from a ch",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+  "title": "p99 0 ms* Autocomplete For 240 Million Domain Names",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "SystemDesign DeepDive Performance",
+  "categories": [
+   "SystemDesign",
+   "DeepDive",
+   "Performance"
+  ],
+  "author": "Ruurtjan Pul",
+  "summary": "“There are a ton of sites that offer this (growing faster than ever thanks to vibe coding), so I need a way to stand out. I picked tool quality / usefulness and UX. The autocomplete is the main way to navigate Wirewiki, so it should be as complete, accurate and fast as possible. I want it to be inst",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://muratbuffalo.blogspot.com/2026/06/our-collective-bike-shed-moment.html",
+  "title": "Our Collective Bike Shed Moment",
+  "issue": 727,
+  "date": "2026-06-23",
+  "date_display": "23 June 2026",
+  "category": "IndustryTrends",
+  "categories": [
+   "IndustryTrends"
+  ],
+  "author": "Murat Demirbas",
+  "summary": "“In 1957, Parkinson postulated his Law of Triviality using a fictitious committee reviewing plans for a nuclear power plant. The reactor design gets 10 minutes because nobody understands it, so nobody argues. The bike shed gets 45 minutes because everyone has opinions about the paint color.”",
+  "sponsored": false,
+  "source_thread_id": "19ef45bd20075c05"
+ },
+ {
+  "url": "https://staysaasy.com/strategy/2026/06/22/riding-technology-waves.html",
+  "title": "Riding Technology Waves",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "Leadership CareerGrowth",
+  "categories": [
+   "Leadership",
+   "CareerGrowth"
+  ],
+  "author": null,
+  "summary": "“A lot of senior leaders, even “leaders” at tech companies, are fundamentally insecure about technology. They’re either not technical by training or so out of practice that they don’t know how their products work. This is especially true in fields where projecting confidence is a key part of the job",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://theengineeringmanager.substack.com/p/who-will-be-the-senior-engineers",
+  "title": "Who Will Be The Senior Engineers Of 2035?",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "Leadership Management CareerGrowth",
+  "categories": [
+   "Leadership",
+   "Management",
+   "CareerGrowth"
+  ],
+  "author": "James Stanier",
+  "summary": "“We’ll start by looking at the pipeline we used to have: how senior engineers traditionally emerged through years of mistakes, mentorship, and low-stakes learning. Then we’ll examine what’s replacing it, and hypothesise whether AI will actually fill the gap. We’ll explore three possible scenarios fo",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://jobs.fidelity.com/en/technology-careers",
+  "title": "Keep Building Your Tech Career",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": null,
+  "summary": "Tech moves fast, but we ensure you stay ahead. At Fidelity, we don't just use the latest tech - we give our technologists the dedicated time, backing, and platforms to explore and adopt it at scale. Want to champion new stacks and grow your career with our support? See how we invest in you at Tech.F",
+  "sponsored": true,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/what-being-inspiring-actually-means",
+  "title": "What Being “Inspiring\" Actually Means",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "Leadership Communication",
+  "categories": [
+   "Leadership",
+   "Communication"
+  ],
+  "author": "Wes Kao",
+  "summary": "“Being inspiring is not about how passionate your delivery is. You don’t have to get up in front of everyone, or try to cosplay what a bold leader sounds like. You can sound like yourself. Perhaps the most articulate and clear-eyed version of yourself, but still yourself.”",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://muratbuffalo.blogspot.com/2026/06/5-lessons-at-50.html",
+  "title": "5 Lessons At 50",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "CareerGrowth Wellbeing",
+  "categories": [
+   "CareerGrowth",
+   "Wellbeing"
+  ],
+  "author": "Murat Demirbas",
+  "summary": "(1) Caution is warranted. (2) Realism helps you understand how the world runs (3) Competence is bliss (4) Do what you like (5). Your attitude determines your success.",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://lore.link/blog/stuff-nobody-tells-you-about-claude-skills",
+  "title": "Your Claude Skills Don't Work The Way You Think",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "Guide AI",
+  "categories": [
+   "Guide",
+   "AI"
+  ],
+  "author": "Kaia Colban",
+  "summary": "Most people treat a Claude skill like a solid thing that lives somewhere obvious and does what it says. It isn't, and misunderstanding how they work screwed me over a few too many times. Here's what I learned: how a skill's description alone decides whether it fires, how two of my skills quietly can",
+  "sponsored": true,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://larahogan.me/blog/identify-new-role/",
+  "title": "Find A New Role - Worksheet",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "CareerGrowth Guide",
+  "categories": [
+   "CareerGrowth",
+   "Guide"
+  ],
+  "author": "Lara Hogan",
+  "summary": "Lara built a worksheet to help you identify: what do I want in a new role? How can I make sure I find the right place? Where do I even start?",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://addyo.substack.com/p/loop-engineering",
+  "title": "Loop Engineering",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "AI Architecture Agents",
+  "categories": [
+   "AI",
+   "Architecture",
+   "Agents"
+  ],
+  "author": "Addy Osmani",
+  "summary": "“Loop engineering is replacing yourself as the person who prompts the agent. You design the system that does it instead. A loop here can be thought of a recursive goal where you define a purpose and the AI iterates until complete. It’s roughly five building blocks and Claude Code and Codex both have",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon",
+  "title": "I Stored A Website In A Favicon",
+  "issue": 728,
+  "date": "2026-06-26",
+  "date_display": "26 June 2026",
+  "category": "Entertaining",
+  "categories": [
+   "Entertaining"
+  ],
+  "author": "Tim Wehrle",
+  "summary": "“Every website has a favicon. It's that little icon in your browser tab. Usually you upload it once and then never think about it again. But. A favicon is just an image. An image is just pixels. And pixels are just bytes. So of course I wondered if I could store something inside one.”",
+  "sponsored": false,
+  "source_thread_id": "19f04052bcf78f86"
+ },
+ {
+  "url": "https://coderabbit.link/pointer",
+  "title": "Review The Actual Change, Not The File List.",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "CodeReview AI",
+  "categories": [
+   "CodeReview",
+   "AI"
+  ],
+  "author": null,
+  "summary": "AI writes more code than ever. Reviewing it shouldn’t mean scrolling forty files in alphabetical order. CodeRabbit Review reorganizes any pull request from a flat file list into a structured, layer-by-layer walkthrough - the logical reading order of the change, not the order your platform happens to",
+  "sponsored": true,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://yewjin.substack.com/p/always-be-curious",
+  "title": "The 80/20 Rule For Your Whole Life",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": "Yew Jin Lim",
+  "summary": "“The best investment framework isn’t the one that maximizes returns. The best career strategy isn’t the one that eliminates risk. The best contemplative practice isn’t the one that promises instant transformation. The best framework is the one you’ll stick with. For me, that’s been a boring foundati",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://randsinrepose.com/archives/three-bad-managers",
+  "title": "Three Bad Managers",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Michael Lopp",
+  "summary": "“I worked for each of these humans. They either hired or promoted me. I worked for them for many years. As is my way, I’ve vastly altered the details of each human, but the core issue I describe is the core issue. Also, each of these humans is very smart. No dummies.”",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://philcalcado.com/2026/06/01/cross_team_pragmatics.html",
+  "title": "Cross-Team Pragmatics",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "Leadership Communication",
+  "categories": [
+   "Leadership",
+   "Communication"
+  ],
+  "author": "Phil Calçado",
+  "summary": "“I’ve been in this industry for twenty-five years and have seen all sorts of companies and projects. You know what I have never heard? Someone saying, “You know what I really like about working here? Cross-team collaboration.”",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+  "title": "How To Write An Effective Software Design Document",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "KnowledgeManagement Guide",
+  "categories": [
+   "KnowledgeManagement",
+   "Guide"
+  ],
+  "author": "Michael Lynch",
+  "summary": "“I’ve written design docs as a developer at Google, Microsoft, and within my own companies. The specifics vary, but the underlying principles remain the same. A design doc should articulate the hard problems you’re solving and help your teammates give you feedback. Below, I share my approach to crea",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://shopify.engineering/catalog-clustering",
+  "title": "Clustering Billions Of Products For Agentic Commerce",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "AI Scale CaseStudy",
+  "categories": [
+   "AI",
+   "Scale",
+   "CaseStudy"
+  ],
+  "author": "Mariya Mansurova",
+  "summary": "Shopify's global Catalog organizes billions of products across millions of merchants into a single, searchable intelligence layer. As part of their Spring '26 Edition, Shopify Engineering breaks down the LLM-powered pipeline behind product clustering: how it matches related products across merchants",
+  "sponsored": true,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+  "title": "Stop Using Conventional Commits",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "Tools+Setup",
+  "categories": [
+   "Tools+Setup"
+  ],
+  "author": "Sumner Evans",
+  "summary": "“Even though it is used by a large number of popular open source projects, Conventional Commits is an actively bad standard which encourages focus on the wrong things and fails to deliver on its promises.”",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+  "title": "Running Local Models Is Good Now",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "AI Agents",
+  "categories": [
+   "AI",
+   "Agents"
+  ],
+  "author": "Vicki Boykis",
+  "summary": "With the most recent releases from Google in the Gemma 4, family, I’ve finally been able to do agentic coding locally and have loops work at about ~75% the accuracy/speed of frontier models, which is incredible.",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ },
+ {
+  "url": "https://w.pitula.me/fintech-engineering-handbook/",
+  "title": "Fintech Engineering Handbook",
+  "issue": 729,
+  "date": "2026-06-30",
+  "date_display": "30 June 2026",
+  "category": "Guide SystemDesign",
+  "categories": [
+   "Guide",
+   "SystemDesign"
+  ],
+  "author": "Voytek Pitula",
+  "summary": "“This resource aims to describe the most important patterns used in software engineering, where money is the primary focus of the system. It can be read in full to get a comprehensive understanding or in parts when dealing with a particular problem.”",
+  "sponsored": false,
+  "source_thread_id": "19f18d7ba9744fcb"
+ }
+]

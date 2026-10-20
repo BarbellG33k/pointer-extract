@@ -1,0 +1,1130 @@
+[
+  {
+    "url": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
+    "title": "What Actually Makes You Senior",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Matheus Lima",
+    "summary": "“People love to describe senior engineers with a big checklist: architecture, communication, ownership, leadership, etc. But if you strip away the title, the salary, and the years of experience, there’s one core skill that separates senior+ engineers from everyone else: reducing ambiguity.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://staysaasy.com/strategy/2025/11/25/own-a-graph.html",
+    "title": "Own A Graph",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": null,
+    "summary": "“If you are a senior engineer or PM or designer, you should own a graph. One of the quickest ways to get better at your job is to own a graph. There are many ways to do work that don’t matter and there are many ways to do work that matters but fail to articulate that value well.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://workos.com/blog/enterprise-ai-agent-playbook-what-anthropic-and-openai-reveal-about-building-production-ready-systems",
+    "title": "The Enterprise AI Agent Playbook",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Guide Agents",
+    "categories": [
+      "Guide",
+      "Agents"
+    ],
+    "author": "Zack Proser",
+    "summary": "Most enterprise AI agents fail before production due to complex architectures, no evaluation framework, and poor security. This playbook shares five proven patterns from real deployments and explains how secure agent authorization with WorkOS using OAuth 2.1 helps teams get agents safely into produc",
+    "sponsored": true,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://mikefisher.substack.com/p/the-success-trap",
+    "title": "The Success Trap",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Mike Fisher",
+    "summary": "“For individuals, it looks like this: you start your career exploring, learning, trying everything. Then success hits, and suddenly you’re the “expert.” The system rewards consistency, not curiosity. You stop tinkering, because tinkering feels risky when you’re at the top.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html",
+    "title": "Tech Predictions For 2026 And Beyond",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Trends",
+    "categories": [
+      "Trends"
+    ],
+    "author": "Werner Vogels",
+    "summary": "“In the coming year, we will begin the transition into a new era of AI in the human loop, not the other way around. This cycle will create massive opportunities to solve problems that truly matter. And it starts by addressing one of the unintended consequences of our hyperconnected world.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://go.clerk.com/79Kdtxy",
+    "title": "Turn Your Single-User App Into A Team-Ready B2B Platform This Afternoon",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Guide",
+    "categories": [
+      "Guide"
+    ],
+    "author": "Brian Morrison",
+    "summary": "B2B users expect team workspaces, not just personal accounts. This guide shows you how to add secure multi-tenancy with Clerk, Lovable, and Supabase. Complete with organization switching, invites, and scoped data access. No manual JWT parsing required.",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://marcgg.com/blog/2025/10/24/minimum-viable-postmortem/",
+    "title": "Minimum Viable Post Mortem Process",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Leadership Management Postmortem",
+    "categories": [
+      "Leadership",
+      "Management",
+      "Postmortem"
+    ],
+    "author": "Marc Gauthier",
+    "summary": "“Post mortems can be a daunting process to setup for software teams. What metrics to track? How to run the various meetings? What should be the resulting documentation? How do you even track followup actions? There is a ton of literature out there and it’s hard to know what is actually relevant.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://www.humanlayer.dev/blog/writing-a-good-claude-md",
+    "title": "Writing A Good CLAUDE.md",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "BestPractices AI",
+    "categories": [
+      "BestPractices",
+      "AI"
+    ],
+    "author": "Matthew Frail, Kyle Petroski",
+    "summary": "“LLMs are stateless functions. Their weights are frozen by the time they're used for inference, so they don't learn over time. The only thing that the model knows about your codebase is the tokens you put into it.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns",
+    "title": "We Should All Be Using Dependency Cooldowns",
+    "issue": 671,
+    "date": "2025-12-02",
+    "date_display": "2 December 2025",
+    "category": "Tools",
+    "categories": [
+      "Tools"
+    ],
+    "author": "William Woodruff",
+    "summary": "“Dependency cooldowns are a free, easy, and incredibly effective way to mitigate the large majority of open source supply chain attacks. More individual projects should apply cooldowns to their dependencies, and packaging ecosystems should invest in first-class support for cooldowns.”",
+    "sponsored": false,
+    "source_thread_id": "19adf9873c66bcd7"
+  },
+  {
+    "url": "https://addyo.substack.com/p/21-lessons-from-14-years-at-google",
+    "title": "21 Lessons From 14 Years At Google",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Addy Osmani",
+    "summary": "“These lessons are what I wish I’d known earlier. Some would have saved me months of frustration. Others took years to fully understand. None of them are about specific technologies - those change too fast to matter. They’re about the patterns that keep showing up, project after project, team after",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://newsletter.getdx.com/p/applying-ai-where-it-matters",
+    "title": "Applying AI Where It Matters",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Leadership Management AI",
+    "categories": [
+      "Leadership",
+      "Management",
+      "AI"
+    ],
+    "author": "Abi Noda",
+    "summary": "“Leaders want to integrate AI where developers need it, and this has been an ongoing area of research. However, while recent studies have explored which tasks developers want automated, the authors of this paper saw an opportunity to dig deeper into questions of where in their workflow developers ac",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://www.augmentcode.com/resources/ai-engineering-leader-imperative",
+    "title": "The Engineering Leader AI Imperative",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Leadership Management AI",
+    "categories": [
+      "Leadership",
+      "Management",
+      "AI"
+    ],
+    "author": null,
+    "summary": "Augment Code's The Engineering Leader AI Imperative features real frameworks to lead your engineering team to systematic transformation, including 30% faster PR velocity, 40% reduction in merge times, and 10x task speed-ups across teams. Learn from CTOs at Drata, Webflow, and Tilt.",
+    "sponsored": true,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://marcgg.com/blog/2025/11/17/cross-team-work/",
+    "title": "Startup Engineering Team Organisation",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Marc Gauthier",
+    "summary": "“Note that there is no perfect organisation that will work for all situations… only tradeoffs and choices you’ll have to make depending on your circumstances. I’m not showcasing the logical progression. Instead I want to highlight how a team organisation can progress over time when facing limitation",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://justoffbyone.com/posts/math-of-why-you-cant-focus-at-work/",
+    "title": "The Math Of Why You Can't Focus At Work",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Productivity",
+    "categories": [
+      "Productivity"
+    ],
+    "author": "Can Duruk",
+    "summary": "“In this post, I’ll show you what interruption-driven work looks like when you model it with math. Three simple parameters determine whether your day is productive or a write-off. We’ll simulate hundreds of days and build a map of the entire parameter space so you can see exactly where you are and w",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://byo.propelauth.com/post/session-theft-and-dpop",
+    "title": "Using DPoP To Prevent Session Theft",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Security Tools",
+    "categories": [
+      "Security",
+      "Tools"
+    ],
+    "author": "Andrew Israel",
+    "summary": "When an attacker steals a session token, they can take actions as if they are your user. This post walks through the details of DPoP which can make those stolen tokens useless without wrecking your user’s experience.",
+    "sponsored": true,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://kb.databasedesignbook.com/posts/sql-joins/",
+    "title": "A Modern Guide To SQL JOINs",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "SQL Guide",
+    "categories": [
+      "SQL",
+      "Guide"
+    ],
+    "author": null,
+    "summary": "“There are many SQL JOINs guides and tutorials, but this one takes a different approach. We try to avoid misleading wording and imagery, and we structure the material in a different way. The goal of this article is to clarify your mental model.”",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://www.iankduncan.com/engineering/2025-12-01-punycode",
+    "title": "Punycode: My New Favorite Algorithm",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Algo",
+    "categories": [
+      "Algo"
+    ],
+    "author": "Ian Duncan",
+    "summary": "“Punycode has turned out to be one of the cleverest algorithms I’ve encountered in a while. As an implementor it’s deceptively simple on the surface, but there’s real sophistication in how it manages to work around the constraints and optimization problems inherent in encoding arbitrary Unicode with",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://www.uber.com/en-IN/blog/evolution-and-scale-of-ubers-delivery-search-platform/",
+    "title": "Evolution And Scale Of Uber’s Delivery Search Platform",
+    "issue": 672,
+    "date": "2025-12-05",
+    "date_display": "5 December 2025",
+    "category": "Architecture Search",
+    "categories": [
+      "Architecture",
+      "Search"
+    ],
+    "author": null,
+    "summary": "“Establishing semantic search at scale for industry applications is more than training a model, but instead a whole tech stack including model deployment, ANN (Approximate Nearest Neighbor) index serving at scale, monitoring, version control, and so on.”",
+    "sponsored": false,
+    "source_thread_id": "19aeeec1a099aedf"
+  },
+  {
+    "url": "https://review.firstround.com/the-25-micro-habits-of-high-impact-managers",
+    "title": "The 25 Micro-Habits Of High-Impact Managers",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": null,
+    "summary": "(1) Don't swerve around a debate. (2) Be generous with your ideas. (3) Think of yourself as the team captain, not the head coach. (4) Set the tone with cross-functional partners. (5) Write down what makes you tick. (6) Shine a light on failure. (7) Pull back the curtain. And more.",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://lalitm.com/software-engineering-outside-the-spotlight/",
+    "title": "Why I Ignore The Spotlight As A Staff Engineer",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Lalit Maganti",
+    "summary": "“Treating engineers as fungible assets destroys context. You might gain fresh eyes, but you lose the implicit knowledge of how systems actually break. Stewardship, staying with a system long-term, unlocks compounding returns that are impossible to achieve on a short rotation.”",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+    "title": "Modern RPC For JavaScript",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "JS Tools",
+    "categories": [
+      "JS",
+      "Tools"
+    ],
+    "author": "Steve Faulkner, Kenton Varda",
+    "summary": "Cap’n Web is a compact TypeScript RPC system built for browsers, Node, and edge runtimes. It supports callback passing, remote object references, and pipelined calls, cutting down API surface and coordination overhead. The post shows how these patterns simplify real-time, distributed JavaScript appl",
+    "sponsored": true,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://muratbuffalo.blogspot.com/2025/12/optimize-for-momentum.html",
+    "title": "Optimize For Momentum",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Murat Demirbas",
+    "summary": "“This is where I find LLMs help tremendously. When you face a large messy problem, ask the model to break it into a sequence of concrete subtasks: \"List the next ten actions for the experiment\" or \"Suggest a structure for this section\". Then ask the LLM to do one of the easiest tasks in this list.”",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://newsletter.techworld-with-milan.com/p/5-books-behind-my-growth-as-a-cto",
+    "title": "5 Books That Changed My Engineering Career Forever",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Books",
+    "categories": [
+      "Books"
+    ],
+    "author": "Dr Milan Milanović",
+    "summary": "“In this newsletter issue, I want to share five books that influenced my journey from engineer to CTO the most. Each of these books contributed beyond just technical knowledge; they challenged my assumptions, introduced new mental models, and ultimately changed how I work and lead teams.”",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://www.descope.com/blog/post/b2b-saas-enterprise-readiness",
+    "title": "The B2B SaaS Guide To Enterprise Readiness",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Guide",
+    "categories": [
+      "Guide"
+    ],
+    "author": "Rishi Bhargava",
+    "summary": "Growth-stage SaaS teams often hit a wall when larger customers start asking for controls that were never built: SSO, RBAC and fine-grained access, audit logs, delegated admin, reliability guarantees, etc. In this article, we'll lay out the engineering groundwork required to clear your next enterpris",
+    "sponsored": true,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://www.seangoedecke.com/bad-code-at-big-companies/",
+    "title": "How Good Engineers Write Bad Code At Big Companies",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Sean Goedecke",
+    "summary": "“Every couple of years somebody notices that large tech companies sometimes produce surprisingly sloppy code. If you haven’t worked at a big company, it might be hard to understand how this happens. Big tech companies pay well enough to attract many competent engineers.”",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://jimmyhmiller.com/easiest-way-to-build-type-checker",
+    "title": "The Easiest Way to Build a Type Checker",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Guide",
+    "categories": [
+      "Guide"
+    ],
+    "author": "Jimmy Miller",
+    "summary": "“Type checkers are a piece of software that feel incredibly simple, yet incredibly complex...I have discovered a setup for type checking that is so conceptually simple it demystified the whole thing for me. It goes by the name Bidirectional Type Checking.”",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://slack.engineering/streamlining-security-investigations-with-agents/",
+    "title": "Streamlining Security Investigations With Agents",
+    "issue": 673,
+    "date": "2025-12-09",
+    "date_display": "9 December 2025",
+    "category": "Security Agents",
+    "categories": [
+      "Security",
+      "Agents"
+    ],
+    "author": "Dominic Marks",
+    "summary": "“We’re going to show you how we’re using AI agents to optimize our working efficiency and strengthen Slack’s security defenses. This post is the first in a series that will unpack some of the design choices we’ve made and the many things we’ve learnt along the way.”",
+    "sponsored": false,
+    "source_thread_id": "19b036b3eeb93221"
+  },
+  {
+    "url": "https://lethain.com/company-ai-adoption/",
+    "title": "Facilitating AI adoption At Imprint",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Will Larson",
+    "summary": "“I’ve been working on internal “AI” adoption, which is really LLM-tooling and agent adoption, for the past 18 months or so. This is a problem that I think is, at minimum, a side-quest for every engineering leader in the current era. Given the sheer number of folks working on this problem within thei",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://matklad.github.io/2025/12/06/mechanical-habits.html",
+    "title": "Mechanical Habits",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "CareerAdvice Productivity",
+    "categories": [
+      "CareerAdvice",
+      "Productivity"
+    ],
+    "author": "Alex Kladov",
+    "summary": "“My schtick as a software engineer is establishing automated processes — mechanically enforced patterns of behavior. I have collected a Santa Claus bag of specific tricks I’ve learned from different people, and want to share them in turn.”",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://byo.propelauth.com/post/session-theft-and-dpop",
+    "title": "Using DPoP To Prevent Session Theft",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Security Tools",
+    "categories": [
+      "Security",
+      "Tools"
+    ],
+    "author": "Andrew Israel",
+    "summary": "When an attacker steals a session token, they can take actions as if they are your user. This post walks through the details of DPoP which can make those stolen tokens useless without wrecking your user’s experience.",
+    "sponsored": true,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://www.reddit.com/r/RedditEng/comments/1oi13fx/reddits_engineering_excellence_survey/",
+    "title": "Reddit’s Engineering Excellence Survey",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Leadership Management Survey",
+    "categories": [
+      "Leadership",
+      "Management",
+      "Survey"
+    ],
+    "author": "Ken Struys",
+    "summary": "“If you’re considering adding surveys to your engineering team that’s around our size and want to do something lightweight, we’ve learned a lot of best practices over the last 3 years running the survey and wanted to share them.”",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time",
+    "title": "Scripts I Wrote That I Use All The Time",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Scripts",
+    "categories": [
+      "Scripts"
+    ],
+    "author": "Evan Hahn",
+    "summary": "“In my decade-plus of maintaining my dotfiles, I’ve written a lot of little shell scripts. Here’s a big list of my personal favorites.”",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://go.clerk.com/XRipwas",
+    "title": "Essential User Management Features For Startups In 2025",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Guide",
+    "categories": [
+      "Guide"
+    ],
+    "author": "Jeff Escalante",
+    "summary": "This guide covers the core user management features every startup needs: authentication methods (passwords, social logins, passwordless), authorization and role-based access control, profile management, and security essentials like MFA and session handling. It explains why these features matter for",
+    "sponsored": true,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://rfd.shared.oxide.computer/rfd/0576",
+    "title": "Using LLMs At Oxide",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Bryan Cantrill",
+    "summary": "“Large language models (LLMs) are an indisputable breakthrough of the last five years, potentially profoundly changing the way that we work. As with any extraordinarily powerful tool, LLM use has both promise and peril — and that they are so general-purpose leaves real questions about how and when t",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
+    "title": "How Google Maps Quietly Allocates Survival Across London’s Restaurants - And How I Built A Dashboard To See Through It",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "Data",
+    "categories": [
+      "Data"
+    ],
+    "author": "Lauren Leek",
+    "summary": "“It started as a very reasonable problem. I was tired of doom-scrolling Google Maps, trying to disentangle genuinely good food from whatever the algorithm had decided to push at me that day. Somewhere along the way, the project stopped being about dinner and became about something slightly more unhi",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://read.perspectiveship.com/p/pareto",
+    "title": "Pareto Principle: The Significant 20%",
+    "issue": 674,
+    "date": "2025-12-12",
+    "date_display": "12 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Michał Poczwardowski",
+    "summary": "“This is the Pareto Principle, known as the 80/20 rule. Where 80% of results come from 20% of inputs. Understanding which 20% matters can change how you work. This simple rule can help you tremendously with planning, prioritising, and focusing.”",
+    "sponsored": false,
+    "source_thread_id": "19b12e006f24fd3c"
+  },
+  {
+    "url": "https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better",
+    "title": "The Bet On Juniors Just Got Better",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Kent Beck",
+    "summary": "\"The standard model says junior developers are expensive. You pay senior salaries for negative productivity while they learn. They ask questions. They break things. They need code review. In an augmented development world, the difference between juniors & seniors is just too large & the cost of the",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://theengineeringmanager.substack.com/p/use-it-or-lose-it",
+    "title": "Use It Or Lose It",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "James Stanier",
+    "summary": "“The tenet of use it or lose it is best summarized by the quote from the Polish pianist Ignacy Jan Paderewski: “If I miss one day’s practice, I notice it. If I miss two days, the critics notice it. If I miss three days, the audience notices it.””",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://www.astronomer.io/ebooks/data-observability-build-or-buy-a-guide-for-executives/",
+    "title": "What Every Leader Should Know About Data Observability",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Leadership Management Observability",
+    "categories": [
+      "Leadership",
+      "Management",
+      "Observability"
+    ],
+    "author": null,
+    "summary": "Data teams rely on observability to deliver accurate and reliable data. But should you build your own custom tool or invest in a platform? This guide cuts through the noise and helps you decide. You’ll learn: (1) The pros and cons of homegrown versus vendor solutions. (2) Must-have capabilities for",
+    "sponsored": true,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://rdel.substack.com/p/rdel-122-how-do-daily-stand-ups-boost",
+    "title": "How Do Daily Stand-Ups Boost Team Performance?",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Lizzie Matusov",
+    "summary": "“Daily stand-ups have become ubiquitous in software teams, with 87% of agile teams holding these 15-minute check-ins every day. Yet despite their widespread adoption, we have surprisingly little quantitative evidence about whether they actually work—and if so, how.”",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://peter.gillardmoss.me.uk/blog/2025/02/12/the-decision-triangle/",
+    "title": "The Decision Triangle: A Simple Way To Improve Decision Making",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Peter Gillard-Moss",
+    "summary": "“This triangle visualises the tension and relationship between these three things. What caused us to make the decision, the future we desired and the action we took. Every single decision includes these three things.”",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://clerk.com/articles/complete-guide-to-embeddable-uis-for-user-management",
+    "title": "The Complete Guide To Embeddable UIs For User Management",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Guide",
+    "categories": [
+      "Guide"
+    ],
+    "author": "Jeff Escalante",
+    "summary": "Embeddable Is let you add pre-built sign-in, profile, and account management components directly into your app without building from scratch. This guide covers implementation patterns, customization options, security considerations, and when embedded components make sense versus building custom flow",
+    "sponsored": true,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/",
+    "title": "Modernizing Reddit's Comment Backend Infrastructure",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Architecture",
+    "categories": [
+      "Architecture"
+    ],
+    "author": null,
+    "summary": "At Reddit, we have four Core Models that power pretty much all use cases: Comments, Accounts, Posts and Subreddits. These four models were being served out of a legacy Python service, with ownership split across different teams. By 2024, the legacy Python service had a history of reliability and per",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://www.uber.com/en-IN/blog/ceilometer-ubers-adaptive-benchmarking-framework/",
+    "title": "Ceilometer: Uber’s Adaptive Benchmarking Framework",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Architecture Tests",
+    "categories": [
+      "Architecture",
+      "Tests"
+    ],
+    "author": null,
+    "summary": "At Uber, scale and reliability define our infrastructure. Every new server type, kernel upgrade, and configuration change must be rigorously vetted before it touches production. Historically, this qualification process was manual and time-consuming, forcing engineers to stitch together ad hoc benchm",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://simonwillison.net/2025/Dec/10/html-tools/",
+    "title": "Useful Patterns For Building HTML Tools",
+    "issue": 675,
+    "date": "2025-12-16",
+    "date_display": "16 December 2025",
+    "category": "Tools AI",
+    "categories": [
+      "Tools",
+      "AI"
+    ],
+    "author": "Simon Willison",
+    "summary": "“I’ve started using the term HTML tools to refer to HTML applications that I’ve been building which combine HTML, JavaScript, and CSS in a single file and use them to provide useful functionality. I have built over 150 of these in the past two years, almost all of them written by LLMs.”",
+    "sponsored": false,
+    "source_thread_id": "19b27b0ccefef330"
+  },
+  {
+    "url": "https://frederickvanbrabant.com/blog/2025-06-13-choosing-where-to-spend-my-teams-effort",
+    "title": "Choosing Where To Spend My Team’s Effort",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Frederick Vanbrabant",
+    "summary": "Frederick shares how he converges strategy into projects. “I like to use a bastardization of Teresa Torres’s opportunity solution tree. It’s a startup thing, but it works just fine in the grand halls of enterprise.” He illustrates this with a visual example.",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://blog.staysaasy.com/p/the-compensation-commandments",
+    "title": "The Compensation Commandments",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Leadership Management Compensation",
+    "categories": [
+      "Leadership",
+      "Management",
+      "Compensation"
+    ],
+    "author": null,
+    "summary": "“Compensation is difficult. Even more than that, it is sensitive, business critical, and often has almost nothing to do with the rest of your job as a leader. Here are some rules for making compensation decisions effectively and efficiently.”",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://www.shopify.com/news/winter-26-edition-dev",
+    "title": "Shopify’s Winter ‘26 Edition: 150+ Product Updates, Built For The AI Renaissance",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Tools AI",
+    "categories": [
+      "Tools",
+      "AI"
+    ],
+    "author": null,
+    "summary": "Shopify just launched its Winter ‘26 Edition, with over 150 product updates and enhancements. AI is now embedded as a fundamental part of the Shopify platform. These updates include a Dev Dashboard for Agents to build agentic commerce flows with Shopify Catalog.",
+    "sponsored": true,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://www.allthingsdistributed.com/2025/12/a-little-bit-uncomfortable.html",
+    "title": "A Little Bit Uncomfortable",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Andrew Warfield",
+    "summary": "“As we move on in our careers and into leadership roles, our relationship with fear shifts. It’s no longer just about your own bravery, but also helping others take risks. If you think back on those anxious moments that have shaped you, I’m sure you can agree that they’ve also helped you grow.”",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://survey.stackoverflow.co/2025/",
+    "title": "2025 Developer Survey",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Survey",
+    "categories": [
+      "Survey"
+    ],
+    "author": null,
+    "summary": "The 2025 Developer Survey is the definitive report on the state of software development. In its fifteenth year, Stack Overflow received over 49,000+ responses from 177 countries across 62 questions focused on 314 different technologies, including new focus on AI agent tools, LLMs and community platf",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://go.clerk.com/Ukr7DMR",
+    "title": "Multi-Tenant vs Single-Tenant: Choosing The Right SaaS Architecture",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Architecture",
+    "categories": [
+      "Architecture"
+    ],
+    "author": "Alex Rapp",
+    "summary": "Choosing between multi-tenant and single-tenant architecture impacts everything from infrastructure costs to customer isolation and compliance requirements. This guide compares both models across key dimensions: scalability, cost efficiency, data isolation, customization flexibility, and operational",
+    "sponsored": true,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://www.greptile.com/state-of-ai-coding-2025",
+    "title": "The State Of AI Coding",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Survey",
+    "categories": [
+      "Survey"
+    ],
+    "author": null,
+    "summary": "(1) Engineering Team Velocity: Measuring productivity gains across development workflows. (2) AI Tool Adoption: Tracking the rise of AI-powered development tools. (3) Model Growth Trends: How AI models have scaled and evolved. (4) Model Snapshot: Performance benchmarks across latency, cost, and toke",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://resonantcomputing.org/",
+    "title": "The Resonant Computing Manifesto",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "Trends AI",
+    "categories": [
+      "Trends",
+      "AI"
+    ],
+    "author": null,
+    "summary": "“With the emergence of artificial intelligence, we stand at a crossroads. This technology holds genuine promise. It could just as easily pour gasoline on existing problems. If we continue to sleepwalk down the path of hyper-scale and centralization, future generations are sure to inherit a world far",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://azmr.uk/dyn/",
+    "title": "A Survey Of Dynamic Array Structures",
+    "issue": 676,
+    "date": "2025-12-19",
+    "date_display": "19 December 2025",
+    "category": "DataStructure",
+    "categories": [
+      "DataStructure"
+    ],
+    "author": "Andrew Reece",
+    "summary": "“You use arrays all the time. The number of elements they need is often determined at runtime. There many different alternatives for representing these, with different characteristics. Let's discuss these.”",
+    "sponsored": false,
+    "source_thread_id": "19b3722b8d951110"
+  },
+  {
+    "url": "https://newsletter.getdx.com/p/ai-and-productivity-year-in-review",
+    "title": "AI And Productivity: Year-In-Review With Microsoft, Google, And GitHub Researchers",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Laura Tacho",
+    "summary": "“Looking back at 2025, we’ve learned a lot as an industry about how AI is changing the way software gets made. To close out the year, I hosted a research roundtable with prominent voices in the AI and developer productivity research space.”",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://www.annashipman.co.uk/jfdi/never-split-the-difference.html",
+    "title": "Never Split The Difference",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Anna Shipman",
+    "summary": "“Never split the difference” is a book on negotiation by a former FBI hostage negotiator. Anna found it to be a useful and practical guide to communication in general, sharing some notes.",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://resolve.ai/blog/role-of-multi-agent-systems-AI-native-engineering",
+    "title": "Making Software Engineers AI-Native",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "Leadership Management AI",
+    "categories": [
+      "Leadership",
+      "Management",
+      "AI"
+    ],
+    "author": null,
+    "summary": "As system complexity increases, individual AI tools face exponential growth in context requirements. This is where multi-agent systems can scale by combining coordination and individual domain specialization. During incident response, when AI agents handle log analysis, metric correlation, and deplo",
+    "sponsored": true,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://blog.staysaasy.com/p/advice-for-individual-contributors",
+    "title": "Advice For Individual Contributors",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": null,
+    "summary": "Individual contributors can create outsized impact by taking calculated risks to deliver breakthroughs, acting as unbiased leaders, and owning specific goals. Regular written updates, proactive communication with senior leaders, and clear accountability build credibility, accelerate progress, and tu",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://strategizeyourcareer.com/p/goal-setting-for-productive-engineers",
+    "title": "Goal Setting For Productive Engineers",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Fran Soto",
+    "summary": "Struggling to stay motivated with long term engineering goals? This guide shows how SMART goals and tiny experiments together create progress that actually sticks.",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://www.sonarsource.com/the-coding-personalities-of-leading-llms/leaderboard/?s_category=Paid&s_source=Paid%20Other&s_origin=pointer",
+    "title": "LLM Code Quality Leaderboard: How Does Your Preferred Model Score?",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "LLM",
+    "categories": [
+      "LLM"
+    ],
+    "author": null,
+    "summary": "Interested to learn how different LLMs perform for coding? New research on models like GPT-5.2 High and Gemini 3.0 Pro reveals trade-offs in structural quality and security. Learn more about the reliability, security, and maintainability of code written by the latest models with Sonar’s LLM Leaderbo",
+    "sponsored": true,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://abseil.io/fast/hints.html",
+    "title": "Performance Hints",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "Performance",
+    "categories": [
+      "Performance"
+    ],
+    "author": "Sanjay Ghemawat, Jeffrey Dean",
+    "summary": "“Over the years, we have done a fair bit of diving into performance tuning of various pieces of code, and improving the performance of our software has been important from the very earliest days of Google, since it lets us do more for more users.”",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://loggingsucks.com/",
+    "title": "Logging Sucks",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "Logging",
+    "categories": [
+      "Logging"
+    ],
+    "author": "Boris Tane",
+    "summary": "“You've probably spent hours grep-ing through logs trying to understand why a user couldn't check out, why that webhook failed, or why your p99 latency spiked at 3am. You found nothing useful. Just timestamps and vague messages that mock you with their uselessness.”",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html",
+    "title": "What Does A Database For SSDs Look Like?",
+    "issue": 677,
+    "date": "2025-12-23",
+    "date_display": "23 December 2025",
+    "category": "Database",
+    "categories": [
+      "Database"
+    ],
+    "author": "Marc Brooker",
+    "summary": "Databases like Postgres were built for slow spinning disks. Modern SSDs, fast networks, and cloud deployments change those constraints. Marc argues we should keep relational models and SQL, but rethink caching, page sizes, durability, and replication as distributed problems rather than single-machin",
+    "sponsored": false,
+    "source_thread_id": "19b4bc80d9deb338"
+  },
+  {
+    "url": "https://simonsinek.com/stories/5-things-managers-do-that-leaders-never-would-according-to-simon",
+    "title": "5 Things Managers Do That Leaders Never Would",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Simon Sinek",
+    "summary": "“It’s a pattern at so many organizations: when the heat is on, people either retreat into management mode or step up into leadership. The difference isn’t about job titles or org charts - it’s about fundamental choices in how we treat people when it matters most.”",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://mikefisher.substack.com/p/when-change-outruns-us",
+    "title": "When Change Outruns Us",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Mike Fisher",
+    "summary": "“Eventually motion becomes the story leaders tell themselves to avoid confronting a harder truth: they have confused velocity with direction. Speed becomes an alibi for clarity. The organization keeps spinning, confident that enough activity will eventually add up to progress.”",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
+    "title": "AI Is Forcing Us To Write Good Code",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "Leadership Management Tools",
+    "categories": [
+      "Leadership",
+      "Management",
+      "Tools"
+    ],
+    "author": "Steve Krenzel",
+    "summary": "AI agents need good code to thrive. Logic's team enforces 100% test coverage, thoughtful file organization, and end-to-end typing: not as nice-to-haves, but as essential guardrails. When your codebase becomes the agent's working environment, best practices stop being optional.",
+    "sponsored": true,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://rdel.substack.com/p/rdel-123-how-differently-do-software",
+    "title": "How Differently Do Software Developers Perceive The Same Communication?",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Lizzie Matusov",
+    "summary": "“Every engineering leader has witnessed it: a message intended as neutral feedback lands as harsh criticism, or an encouraging comment gets dismissed as unprofessional. These miscommunications aren’t just awkward—they can derail team dynamics and project success.”",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://www.rubick.com/calendar-rules/",
+    "title": "Calendar Rules I Learned From An EA",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Jade Rubick",
+    "summary": "“I once asked an executive assistant to help me be better at calendaring. Of course, she was a complete expert and pro at this, and I learned a lot. I’d like to share some of the things she taught me.”",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://resolve.ai/resources/ebook/ai-for-production-systems",
+    "title": "AI For Prod: Improve MTTR By 70% And Optimize Cost, Infra, And Performance",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "Performance AI",
+    "categories": [
+      "Performance",
+      "AI"
+    ],
+    "author": null,
+    "summary": "This free eBook breaks down why eng teams at MSCI, Toast, and Zscaler use AI for prod rather than a dressed-up LLM. It covers multi-agent coordination, why LLMs and single agents break, how AI for prod changes core workflows, and how teams evolve when agents coordinate investigations, persist knowle",
+    "sponsored": true,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://www.uber.com/en-IN/blog/how-uber-indexes-streaming-data-with-pull-based-ingestion-in-opensearch/",
+    "title": "How Uber Indexes Streaming Data With Pull-Based Ingestion In OpenSearch",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "DeepDive Architecture",
+    "categories": [
+      "DeepDive",
+      "Architecture"
+    ],
+    "author": null,
+    "summary": "“In this blog, we’ll take you on a deep dive into the pull-based ingestion model that powers our architecture. We’ll share the journey of contributing pull-based indexing to OpenSearch and explain how this enables us to migrate our in-house search systems to the open-source platform.”",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://sushantdhiman.substack.com/p/cs-books-ill-be-reading-in-2026",
+    "title": "CS Books I'll Be Reading In 2026",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "Books",
+    "categories": [
+      "Books"
+    ],
+    "author": "Sushant Dhiman",
+    "summary": "“I’ve a deep interest in learning how computers work; that’s why in my 2026 books collection I’ve added books that cover computer science, not any particular language or technology.”",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  },
+  {
+    "url": "https://matklad.github.io/2025/12/28/parsing-advances.html",
+    "title": "Parsing Advances",
+    "issue": 678,
+    "date": "2025-12-30",
+    "date_display": "30 December 2025",
+    "category": "Guide",
+    "categories": [
+      "Guide"
+    ],
+    "author": "Alex Kladov",
+    "summary": "\"I find myself writing yet another toy parser, as one does during a Christmas break. It roughly follows Resilient LL Parsing Tutorial. Not because I need resilience, but mostly because I find producing a syntax tree and a collection of diagnostics a more natural fit for the problem than bailing out.",
+    "sponsored": false,
+    "source_thread_id": "19b6fc7cc0815a1b"
+  }
+]

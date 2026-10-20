@@ -1,0 +1,1122 @@
+[
+ {
+  "url": "https://newsletter.weskao.com/p/picking-your-battles-hyper-rational",
+  "title": "Picking Your Battles When You Are Hyper-rational",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Wes Kao",
+  "summary": "When you notice a small mistake or miscommunication, your urge might be to correct your colleague, because you are technically right. But this can derail the main point and cause a distraction. I have to remind myself: keep the bigger picture in mind.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://tidyfirst.substack.com/p/measuring-programmer-influence-kinda",
+  "title": "Measuring Programmer Influence, Kinda Sorta",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Kent Beck",
+  "summary": "Can we use data to figure out who among a large team contributes most? No, if what we are looking for is a reliable, definitive answer. Data, however, may give us hints of pockets of certain kinds of impact resulting from certain kinds of behavior.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://knock.app/blog/guide-to-notification-systems-and-tooling-2025",
+  "title": "The Developer's Guide To Notification System Tooling In 2025",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "Management Guide",
+  "categories": [
+   "Management",
+   "Guide"
+  ],
+  "author": "Chris Bell",
+  "summary": "If you opened this blog post, you’re probably about to wade into the complicated ecosystem of notification and customer engagement tooling. It can feel like a daunting task. In this post we’re here to walk you through the basics of notification systems and the ecosystem of tools, frameworks, and vendors that surround them.",
+  "sponsored": true,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://review.firstround.com/this-90-day-plan-turns-engineering-leaders-back-into-frontline-developers/",
+  "title": "This 90-Day Plan Turns Engineering Leaders Back Into Frontline Developers",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "David Loftesness",
+  "summary": "David Loftesness, engineering leader at Amazon, Twitter and Eero, wants to remind managers itching to get back to the technical trenches that this option is on the table, and it’s not a step backward. But there will be organizational, communication, and psychological hurdles ahead.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://grantslatton.com/how-to-design-document",
+  "title": "How To Write A Good Design Document",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "Design BestPractices",
+  "categories": [
+   "Design",
+   "BestPractices"
+  ],
+  "author": "Grant Slatton",
+  "summary": "Think of a design document like a proof in mathematics. The goal of a proof is to convince the reader that the theorem is true. The goal of a design document is to convince the reader the design is optimal given the situation. The most important person to convince is the author.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://dub.link/point-feb4",
+  "title": "Don't Make These Feature Flag Mistakes",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "BestPractices",
+  "categories": [
+   "BestPractices"
+  ],
+  "author": "Ian Vanagas",
+  "summary": "Badly managed flags have caused huge outages, a mountain of tech debt and, on one infamous occasion, almost bankrupted a company. Complexity creates confusion. Embedded and interlinked flags create many potential states that can quickly become untestable and unpredictable.",
+  "sponsored": true,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://blog.nelhage.com/post/personal-software-with-claude/",
+  "title": "Building Personal Software With Claude",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "AI",
+  "categories": [
+   "AI"
+  ],
+  "author": "Nelson Elhage",
+  "summary": "This experience has shifted a bunch of my thinking about the role of LLMs in software engineering and in my own work. These thoughts are still unfolding, but this piece is an attempt to capture my experience, and to think aloud as I ponder how to update my behaviors and beliefs.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://cefboud.com/posts/image-formats/",
+  "title": "How Are Images Really Stored?",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "Images",
+  "categories": [
+   "Images"
+  ],
+  "author": "Moncef Abboud",
+  "summary": "This post is me indulging in a rabbit hole. It’s common knowledge that images are either grayscale or RGB, that mixing red, green, and blue creates new colors. But there’s certainly more to storing an image than just aligning three-byte RGB values.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs",
+  "title": "How To (And How Not To) Design REST APIs",
+  "issue": 587,
+  "date": "2025-02-04",
+  "date_display": "4 February 2025",
+  "category": "BestPractices API",
+  "categories": [
+   "BestPractices",
+   "API"
+  ],
+  "author": "Jeff Schnitzer",
+  "summary": "In my career, I have consumed hundreds of REST APIs and produced dozens. Since I often see the same mistakes repeated in API design, I thought it might be nice to write down a set of best practices. Much of this may be duh, but there might be a few rules you haven’t considered yet.",
+  "sponsored": false,
+  "source_thread_id": "194d14566f47e819"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/stop-apologizing-for-reasonable-business-decisions",
+  "title": "Stop Apologizing For Reasonable Business Decisions",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Wes Kao",
+  "summary": "As a leader, the one thing you are expected to do is make hard decisions. Unfortunately, most of us are wired to avoid conflict. So when it comes time to communicating these decisions, many leaders look for shortcuts, and defaulting to apologizing is one of them.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://chriskiehl.com/article/thoughts-after-10-years",
+  "title": "Software Development Topics I've Changed My Mind On After 10 Years In The Industry",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "CareerAdvice ThoughtPiece",
+  "categories": [
+   "CareerAdvice",
+   "ThoughtPiece"
+  ],
+  "author": "Chris Kiehl",
+  "summary": "Things I now believe, which past me would've squabbled with: (1) Simple is not given. It takes constant work. (2) There is no pride in managing or understanding complexity. (3) Typed languages are essential on teams with mixed experience levels. (4) Java is a great language because it's boring.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://workos.com/radar",
+  "title": "How Will Your App Survive The AI Bot Wars?",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "AI",
+  "categories": [
+   "AI"
+  ],
+  "author": null,
+  "summary": "Today’s bots can easily bypass traditional detection: executing JavaScript, storing cookies, rotating IPs, and even solving advanced CAPTCHAs. Their attacks are advanced by the day, fueled by growth in AI agents. The answer is WorkOS Radar.",
+  "sponsored": true,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://www.edbatista.com/2025/01/looking-under-the-lamppost-on-problem-solving.html",
+  "title": "Looking Under the Lamppost (On Problem-Solving)",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Ed Batista",
+  "summary": "Ed explores how we often avoid solving difficult but necessary problems in favor of easier, more comfortable ones. It argues that while this is understandable, true growth and meaningful solutions require the courage to venture into uncertainty.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://dubroy.com/blog/five-coding-hats/",
+  "title": "Five Coding Hats",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "CareerAdvice BestPractices",
+  "categories": [
+   "CareerAdvice",
+   "BestPractices"
+  ],
+  "author": "Patrick Dubroy",
+  "summary": "The article presents five different approaches to coding, symbolized as hats: (1) Captain’s Hat: methodical, by-the-book. (2) Scrappy Hat: minimal, straight to the point. (3) MacGyver Hat: results-focused, quick-and-dirty. (4) Chef’s Hat: focused on presentation. (5) Teacher’s Hat: emphasizing clarity.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://www.useparagon.com/learn/rag-and-ai-agents-tutorial-series-landing",
+  "title": "[Tutorial Series] Building Interoperable AI Agent Products (RAG & Tool Calling)",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "AI Guide",
+  "categories": [
+   "AI",
+   "Guide"
+  ],
+  "author": null,
+  "summary": "Every product & engineering team is being asked to build AI features. But that requires a deep understanding of a few core concepts: ingesting and indexing customers' external knowledge, reconciling 3rd-party permissions and ACLs, and automating tasks across your customers' other apps via agent tool calling.",
+  "sponsored": true,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://www.seangoedecke.com/how-i-use-llms/",
+  "title": "How I Use LLMs As A Staff Engineer",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "AI Productivity",
+  "categories": [
+   "AI",
+   "Productivity"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "Personally, I feel like I get a lot of value from AI. I think many of the people who don’t feel this way are “holding it wrong”: i.e. they’re not using language models in the most helpful ways. In this post, I’m going to list a bunch of ways I regularly use AI in my day-to-day as a staff engineer.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://explaining.software/archive/the-sudoku-affair/",
+  "title": "The Sudoku Affair",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "CaseStudy SystemDesign",
+  "categories": [
+   "CaseStudy",
+   "SystemDesign"
+  ],
+  "author": "Zach Tellman",
+  "summary": "Zach contrasts two approaches to building a Sudoku solver: Ron Jeffries' incremental, test-driven method versus Peter Norvig's direct, constraint-based solution. While Jeffries struggled with representation, Norvig's AI background led him to an elegant solution using search and constraint propagation.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
+  "title": "Some Terminal Frustrations",
+  "issue": 588,
+  "date": "2025-02-07",
+  "date_display": "7 February 2025",
+  "category": "Terminal Survey",
+  "categories": [
+   "Terminal",
+   "Survey"
+  ],
+  "author": "Julia Evans",
+  "summary": "A few weeks ago I ran a terminal survey and at the end I asked: “What’s the most frustrating thing about using the terminal for you?” 1600 people answered, and I decided to spend a few days categorizing all the responses. Julia shares the categories of responses here.",
+  "sponsored": false,
+  "source_thread_id": "194e0ef6418d1878"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/how-i-give-the-right-amount-of-context",
+  "title": "How I Give The Right Amount Of Context (In Any Situation)",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Wes Kao",
+  "summary": "Giving the right amount of context helps teams move faster. Too much context? Your manager can’t tell what’s important. Too little context? Your manager has to follow up and pull information out of you that you should have mentioned proactively. There is such a thing as being too concise.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://brooker.co.za/blog/2024/02/06/time.html",
+  "title": "How Do You Spend Your Time?",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Marc Brooker",
+  "summary": "You thought you were productive, and getting a lot done, but they weren’t the things you, or your manager, thought were most valuable for your project and team. You’re busy, you’re productive, but it doesn’t feel right. It’s a problem I’ve faced before.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://www.nango.dev/blog/why-is-oauth-still-hard",
+  "title": "Why Is OAuth Still Hard In 2025?",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Management Guide",
+  "categories": [
+   "Management",
+   "Guide"
+  ],
+  "author": "Robin Guldener",
+  "summary": "After implementing OAuth for 50+ popular APIs like Gmail, HubSpot, Salesforce, and Slack, we concluded that OAuth in 2025 is comparable to JavaScript browser APIs in 2008. Why is OAuth still a pain in 2025? We break it down in this article.",
+  "sponsored": true,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://antirez.com/news/145",
+  "title": "We Are Destroying Software",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Trends",
+  "categories": [
+   "Trends"
+  ],
+  "author": "Salvatore Sanfilippo",
+  "summary": "(1) We are destroying software by no longer taking complexity into account when adding features or optimizing some dimension. (2) We are destroying software with complex build systems. (3) We are destroying software with an absurd chain of dependencies, making everything bloated and fragile.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://www.ntietz.com/blog/our-case-study-on-software-documentation/",
+  "title": "Summarizing Our Recommendations For Software Documentation",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Documentation BestPractices",
+  "categories": [
+   "Documentation",
+   "BestPractices"
+  ],
+  "author": "Nicole Tietz-Sokolskaya",
+  "summary": "A software engineer and anthropologist conducted a case study on engineering documentation practices. Their key recommendations include starting with high-level docs, implementing design reviews, considering audience needs, maintaining docs as part of workflow, and documenting test plans.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://dub.link/point-feb11",
+  "title": "WTF Is Activation And Why Should Engineers Care?",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Product",
+  "categories": [
+   "Product"
+  ],
+  "author": "Ian Vanagas",
+  "summary": "Improving activation is one of the most impactful things a product engineer can do, but it’s also weirdly hard to define. People often call it your product’s “aha” moment, i.e. when a user experiences your product's value for the first time. Ian explains what it is and how to nail it.",
+  "sponsored": true,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://zachholman.com/posts/red-teams",
+  "title": "Nontraditional Red Teams",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Security",
+  "categories": [
+   "Security"
+  ],
+  "author": "Zach Holman",
+  "summary": "Most developers know about red teams: a specific group of people chosen to be the antagonist to your system, trying to sniff out vulnerabilities in your code or organization. There are a few other concepts of a red team that every development team should have some exposure to.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://www.allthingsdistributed.com/2025/02/thinking-like-a-fox-a-reading-list-for-the-future.html",
+  "title": "Thinking Like A Fox: A Reading List For The Future",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "Books",
+  "categories": [
+   "Books"
+  ],
+  "author": "Werner Vogels",
+  "summary": "The CTO at Amazon provides us with reading list to help envision what the future might hold. The ancient Greek poet Archilochus wrote, “The fox knows many things, but the hedgehog knows one big thing.” Because the fox roams widely, it accumulates insights and adapts quickly.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://whitep4nth3r.com/blog/how-i-learned-to-code-with-my-voice/",
+  "title": "How I Learned To Code With My Voice",
+  "issue": 589,
+  "date": "2025-02-11",
+  "date_display": "11 February 2025",
+  "category": "UsefulTool",
+  "categories": [
+   "UsefulTool"
+  ],
+  "author": "Salma Alam-Naylor",
+  "summary": "But, I did what every good software engineer does when dealing with a difficult bug: I stripped everything down and pieced the tools and functionality back together, one by one. Next, I’ll detail the tools that worked for me, and I’ll follow with some important advice.",
+  "sponsored": false,
+  "source_thread_id": "194f55279e5de247"
+ },
+ {
+  "url": "https://lethain.com/exploring-for-strategy/",
+  "title": "Exploring For Strategy",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Will Larson",
+  "summary": "Will covers: (1) The goals of the exploration phase of strategy creation. (2) When to explore and when it makes sense to stop exploring. (3) How to explore a topic, including discussion of the most common mechanisms: mining for internal precedent, reading industry papers and books, and leveraging your external network.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/software-quality-94e",
+  "title": "Software Quality",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Abi Noda",
+  "summary": "Google’s Engineering Productivity Research team sharing how they define Software Quality. For engineering leaders focused on quality, this paper provides a helpful framework for articulating what it means and where improvements need to be made. The paper posits there are four types of quality.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://www.moengage.com/blog/transactional-messaging-build-maintain-vs-buy/",
+  "title": "The Million Dollar Question: Build / Maintain Or Buy",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Ramita Rajaa",
+  "summary": "This classic debate takes on a new meaning for transactional messaging infrastructure. When there are hundreds of APIs to integrate on a regular basis, security and reliability at stake, and costs to consider, should you build/maintain or buy? Take a look at this in-depth review analyzing the pros and cons of each side.",
+  "sponsored": true,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://www.seangoedecke.com/taking-a-position/",
+  "title": "Engineers Who Won’t Commit Force Bad Decisions",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "Some engineers think it’s a virtue to remain non-committal in technical discussions. Should our team build a new feature in an event-driven or synchronous way? Well, it depends. This strategy is fine when you’re a junior engineer, but at some point you need to take a position.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://www.greptile.com/blog/founding-engineer",
+  "title": "The Economics Of Being A Founding Engineer",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Daksh Gupta",
+  "summary": "The economics of being a founding engineer are peculiar. You're essentially taking a pay cut and accepting illiquid equity in exchange for a lottery ticket, but it's a lottery ticket where you get to thoroughly inspect the odds beforehand. While most founding engineers will end up with worthless equity.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://go.clerk.com/0qCFwVr",
+  "title": "How To Implement Google Authentication In Next.js 15",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "Guide NextJS",
+  "categories": [
+   "Guide",
+   "NextJS"
+  ],
+  "author": "Alex Booker",
+  "summary": "Implementing Google Authentication in your Next.js application can significantly enhance user experience and security. This blog post provides a detailed, step-by-step guide on integrating Google Auth using Clerk, focusing on best practices and efficient implementation.",
+  "sponsored": true,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://blog.algomaster.io/p/how-to-choose-the-right-database",
+  "title": "How To Choose The Right Database In A System Design Interview",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "InterviewAdvice SystemDesign",
+  "categories": [
+   "InterviewAdvice",
+   "SystemDesign"
+  ],
+  "author": "Ashish Pratap Singh",
+  "summary": "In system design interviews, the quality of your design and its ability to scale depends heavily on the database you choose. Choosing the wrong database can lead to high latency, data loss, or even system downtime. In this article, we will cover the 9 most common use cases.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://zknill.io/posts/patterns-for-building-realtime/",
+  "title": "Patterns For Building Realtime Features",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "BestPractices WebApps",
+  "categories": [
+   "BestPractices",
+   "WebApps"
+  ],
+  "author": "Zak Knill",
+  "summary": "These patterns rely on a connection between the client and the server, where the server can notify the client of some data. This connection could be websockets, SSE, event-streams, or polling (long or short). The connection just needs to allow the server to send data to the client.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+  "title": "Smuggling Arbitrary Data Through An Emoji",
+  "issue": 590,
+  "date": "2025-02-14",
+  "date_display": "14 February 2025",
+  "category": "Unicode",
+  "categories": [
+   "Unicode"
+  ],
+  "author": "Paul Butler",
+  "summary": "Is it really possible to encode arbitrary data in a single emoji? Yes, although I found an approach. In fact, you can encode data in any unicode character. Paul shows us how.",
+  "sponsored": false,
+  "source_thread_id": "19504c517f15e192"
+ },
+ {
+  "url": "https://mitchellh.com/writing/building-large-technical-projects",
+  "title": "My Approach To Building Large Technical Projects",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Management CareerAdvice",
+  "categories": [
+   "Management",
+   "CareerAdvice"
+  ],
+  "author": "Mitchell Hashimoto",
+  "summary": "When I break down my large tasks into chunks that result in seeing tangible forward progress, I tend to finish my work and retain my excitement throughout the project. As a broad generalization, I've not found an engineer who doesn't get excited by a good demo.",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://medium.com/pinterest-engineering/the-quest-to-understand-metric-movements-8ab12ae97cda",
+  "title": "The Quest To Understand Metric Movements",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": null,
+  "summary": "At Pinterest, we have built different quantitative models to understand why metrics move the way they do. This blog outlines the three pragmatic approaches that form the basis of the root-cause analysis (RCA) platform at Pinterest.",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://knock.app/blog/state-of-notification-infrastructure-report-2025",
+  "title": "State Of Notification Infrastructure 2025",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Infrastructure",
+  "categories": [
+   "Infrastructure"
+  ],
+  "author": null,
+  "summary": "In this report, we'll look at how product and engineering teams at companies like Vercel, Webflow and Zapier have built their product notification infrastructure in 2024 and outline predictions for 2025.",
+  "sponsored": true,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://www.seangoedecke.com/what-llms-cant-do/",
+  "title": "To Avoid Being Replaced By LLMs, Do What They Can't",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "It’s a strange time to be a software engineer. Large language models are very good at writing code and rapidly getting better. The rough strategy, putting a reasoning model in a loop with tools, is well-known and seems likely to work. What should we software engineers do to prepare?",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?slide=id.p",
+  "title": "On Bloat",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Trends",
+  "categories": [
+   "Trends"
+  ],
+  "author": "Rob Pike",
+  "summary": "Corporate websites seem so slow these days... What's going on? Everything related to e-commerce websites has gotten slow and sluggish on mobile, on fast desktops, on fast Internet connections. Rob explains why.",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://api.carsxe.com/vehicle-specifications",
+  "title": "Why Accurate Vehicle Specs Matter More Than You Think",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "UsefulTool",
+  "categories": [
+   "UsefulTool"
+  ],
+  "author": null,
+  "summary": "Vehicle specs power everything from insurance quotes to resale values, but inaccurate data can lead to costly mistakes. CarsXE delivers real-time, VIN-verified vehicle specifications, ensuring engineers build reliable, high-performing applications with trusted data at scale.",
+  "sponsored": true,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://www.neilmacy.co.uk/blog/some-cool-terminal-things",
+  "title": "Some Cool Terminal Things I've Found Recently",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Terminal",
+  "categories": [
+   "Terminal"
+  ],
+  "author": "Neil Macy",
+  "summary": "I had the morning off work today. So I did what anyone would do, and started playing around with my Terminal setup. There are some things that have bugged me for a while, and some things that I've meant to try out for a while.",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
+  "title": "How To Add A Directory To Your PATH",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Tips",
+  "categories": [
+   "Tips"
+  ],
+  "author": "Julia Evans",
+  "summary": "I was talking to a friend about how to add a directory to your PATH today. It’s something that feels obvious to me since I’ve been using the terminal for a long time, but when I searched for instructions for how to do it, I couldn’t find something that explained all of the steps.",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb",
+  "title": "Introducing Impressions At Netflix",
+  "issue": 591,
+  "date": "2025-02-18",
+  "date_display": "18 February 2025",
+  "category": "Data",
+  "categories": [
+   "Data"
+  ],
+  "author": "Tulika Bhatt",
+  "summary": "Capturing these moments and turning them into a personalized journey is no simple feat. It requires a state-of-the-art system that can track and process these impressions while maintaining a detailed history of each profile’s exposure.",
+  "sponsored": false,
+  "source_thread_id": "195195de91b3432e"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/eyes-light-up",
+  "title": "Eyes Light Up (ELU)",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Wes Kao",
+  "summary": "Wes introduces Eyes Light Up as a key indicator of effective messaging for leaders. Rather than relying on intellectual feedback, she advises watching for genuine excitement in your audience's eyes. These visceral reactions are more valuable than verbal responses.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://review.firstround.com/the-rotation-program-that-keeps-this-startups-engineers-learning-and-not-leaving/",
+  "title": "The Rotation Program That Keeps This Startup’s Engineers Learning — And Not Leaving",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Krista Moroder",
+  "summary": "Over the past several years, Moroder has helped formalize the rotation program at Checkr, and she's scored some pretty brag-worthy retention stats as a result. Two years ago, non-regrettable attrition was zero, and the year after that, it was 2%.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://workos.com/blog/what-is-device-fingerprinting-and-how-does-it-work",
+  "title": "What Is Device Fingerprinting And How Does It Work?",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "Security Management BestPractices",
+  "categories": [
+   "Security",
+   "Management",
+   "BestPractices"
+  ],
+  "author": "Zack Proser",
+  "summary": "Every time a device connects to your server, it broadcasts a wealth of information through its browser. Some of these signals are obvious, while others are subtle technical artifacts of how browsers and hardware work together. Zack breaks down what servers can see.",
+  "sponsored": true,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://marcgg.com/blog/2025/02/11/high-growth/",
+  "title": "Gaining Years Of Experience In A Few Months",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Marc Gauthier",
+  "summary": "When you get the chance to be faced with an opportunity that could get you in the “fast growth” zone, it’s very important to focus and make the most of it. Projects that can challenge you this much do not always appear, so when they do it’s a great opportunity.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://blog.staysaasy.com/p/judge-your-coworkers",
+  "title": "Judge Your Coworkers",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": null,
+  "summary": "One of the most counterproductive things that companies do is coach people to not judge their coworkers. Having an understanding of your coworkers’ performance means that you understand what they do, and understanding what they do is critical to making sure you collaborate with them effectively.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://go.clerk.com/rVwBHoZ",
+  "title": "Validate Your SaaS Idea While Building An Audience",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "Guide",
+  "categories": [
+   "Guide"
+  ],
+  "author": "Brian Morrison",
+  "summary": "In this guide, you'll learn how to validate market demand for your next SaaS idea before investing resources blindly. Using Clerk's component allows you to capture intent signal as you're building project awareness. Paired with a newsletter platform, you unlock the ability to keep interested parties up to date.",
+  "sponsored": true,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://chadnauseam.com/coding/random/calculator-app",
+  "title": "\"A Calculator App? Anyone Could Make That\"",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "Entertaining",
+  "categories": [
+   "Entertaining"
+  ],
+  "author": "Chad Nauseam",
+  "summary": "A calculator should show you the result of the mathematical expression you entered. That's much, much harder than it sounds. What I'm about to tell you is the greatest calculator app development story ever told.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
+  "title": "My LLM Codegen Workflow ATM",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "LLM",
+  "categories": [
+   "LLM"
+  ],
+  "author": "Harper Reed",
+  "summary": "I have been building so many small products using LLMs. It has been fun, and useful. However, there are pitfalls that can waste so much time. A while back a friend asked me how I was using LLMs to write software, and thus this post.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://careersatdoordash.com/blog/doordash-product-knowledge-graph-for-tagging-and-badging-experience/",
+  "title": "How DoorDash Leveraged Its Product Knowledge Graph To Enable A High-Velocity Tagging And Badging Experience",
+  "issue": 592,
+  "date": "2025-02-21",
+  "date_display": "21 February 2025",
+  "category": "Architecture ML",
+  "categories": [
+   "Architecture",
+   "ML"
+  ],
+  "author": "Irene Chen, Chuanpin Zhu",
+  "summary": "DoorDash launched a number of item badges, user interface components that highlight key product attributes, such as the number of items in stock. Some badges performed well, while some did not. Consumers noticed the badges and changed their behaviors based on their perception of the badge’s value proposition.",
+  "sponsored": false,
+  "source_thread_id": "19528d1815ac9e52"
+ },
+ {
+  "url": "https://chelseatroy.com/2024/10/16/decision-making-pitfalls-for-technical-leaders/",
+  "title": "Decision-Making Pitfalls For Technical Leaders",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Chelsea Troy",
+  "summary": "When programmers become trial-by-fire managers, they realize they don’t know how to do their jobs. Technical leadership roles sneak up on people. Chelsea discusses 3 pitfalls she commonly sees.",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://lethain.com/diagnosis-for-strategy/",
+  "title": "Diagnosis In Engineering Strategy",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Will Larson",
+  "summary": "Will covers: (1) Why diagnosis is the foundation of effective strategy. Conversely, how skipping the diagnosis phase consistently ruins strategies. (2) A step-by-step approach to diagnosing your strategy’s circumstances. (3) How to incorporate data into your diagnosis effectively.",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://www.coderabbit.ai/blog/5-code-review-anti-patterns-you-can-eliminate-with-ai",
+  "title": "5 Code Review Anti-Patterns You Can Eliminate With AI",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "CodeReview AI Management",
+  "categories": [
+   "CodeReview",
+   "AI",
+   "Management"
+  ],
+  "author": "Desmond Obisi, Aravind Putrevu",
+  "summary": "In this guide, you’ll learn about the most common anti-patterns that pop up during code reviews and how to easily tackle them with artificial intelligence (AI).",
+  "sponsored": true,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://www.seangoedecke.com/thoughts-about-engineers/",
+  "title": "How I Know I'm Working With A Strong Engineer",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "I realised the other day that I actually have a straightforward heuristic for this. I count the number of times I have this thought: “Oh nice catch, I didn’t think of that!”",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://lucumr.pocoo.org/2025/2/20/ugly-code/",
+  "title": "Ugly Code And Dumb Things",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "Tips",
+  "categories": [
+   "Tips"
+  ],
+  "author": "Armin Ronacher",
+  "summary": "This week I had a conversation with one of our engineers about “shitty code” which lead me to sharing with him one of my more unusual inspirations: Flamework, a pseudo framework created at Flickr. Armin discusses the framework, which he describes as “messy but effective.”",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://www.datadoghq.com/ebook/enterprise-monitoring-requirements/",
+  "title": "11 Monitoring Requirements For Enterprise DevOps Teams",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "DevOps",
+  "categories": [
+   "DevOps"
+  ],
+  "author": null,
+  "summary": "Isaac Johnson, a Principal Software Engineer and DevOps Architect with experience at multiple Fortune 500 companies, reveals the key capabilities he looks for when evaluating monitoring platforms for enterprise DevOps teams. He offers a candid look at common monitoring pain points.",
+  "sponsored": true,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://vale.rocks/posts/ai-is-stifling-tech-adoption",
+  "title": "AI Is Stifling Tech Adoption",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "AI",
+  "categories": [
+   "AI"
+  ],
+  "author": "Declan Chidlow",
+  "summary": "I propose that the advent and integration of AI models into the workflows of developers has stifled the adoption of new and potentially superior technologies due to training data cutoffs and system prompt influence.",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://www.canva.dev/blog/engineering/behind-the-scenes-of-canvas-designdna-campaign/",
+  "title": "Behind The Scenes Of Canva's DesignDNA Campaign",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "ML",
+  "categories": [
+   "ML"
+  ],
+  "author": "Divya Patel",
+  "summary": "We challenged ourselves to use this opportunity to showcase Canva's AI capabilities. We wanted to leverage generative AI to create a personalized and engaging experience that users could easily share on social media and spark a sense of accomplishment and connection with our brand.",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/",
+  "title": "XOR",
+  "issue": 593,
+  "date": "2025-02-25",
+  "date_display": "25 February 2025",
+  "category": "DeepDive",
+  "categories": [
+   "DeepDive"
+  ],
+  "author": "Simon Tatham",
+  "summary": "Recently I was called on to explain the ‘XOR’ operator to somebody who vaguely knew of its existence, but didn’t have a good intuition for what it was useful for and how it behaved. For me, this was one of those ‘future shock’ moments when you realise the world has moved on.",
+  "sponsored": false,
+  "source_thread_id": "1953d6a9576b5de2"
+ },
+ {
+  "url": "https://blogs.newardassociates.com/blog/2024/management-antipatterns.html",
+  "title": "Manager Antipatterns",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Ted Neward",
+  "summary": "There's a whole host of mistakes that companies often fall prey to with respect to those they have leading teams, and I thought it a good idea to collect them into one place, under the umbrella heading of manager antipatterns.",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://read.perspectiveship.com/p/pause",
+  "title": "Pause – Decision-Making Superpower",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Michał Poczwardowski",
+  "summary": "Press pause and take your time to help yourself by: (1) Detaching from emotions that blur your judgement at the moment. (2) Making sure that you can check for blind spots. (3) Getting a new perspective. People may demand answers immediately, and the pressure can be high.",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://www.useparagon.com/lp/ai-agent-tool-calling-webinar-q1-2025",
+  "title": "[Webinar] Best practices for AI Agent Tool Calling",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "BestPractices AI Management",
+  "categories": [
+   "BestPractices",
+   "AI",
+   "Management"
+  ],
+  "author": null,
+  "summary": "Why doesn’t my AI agent call the right tool? For AI agents that automate work across 3rd-party tools to be adopted, tool calling and tool use accuracy is critical. Join this webinar, where our dev advocate will cover the basics around AI agent tool calling as well as evaluations.",
+  "sponsored": true,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md",
+  "title": "\"A Philosophy of Software Design\" vs \"Clean Code\"",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "BestPractices",
+  "categories": [
+   "BestPractices"
+  ],
+  "author": "John Ousterhout, Robert Martin",
+  "summary": "The document features a dialogue between Robert \"Uncle Bob\" Martin and John Ousterhout discussing their differing software design philosophies. They debate three main topics: method length, comments and test-driven development.",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://benhowdle.im/software-engineer-spectrum",
+  "title": "The Software Engineer Spectrum: Speed vs. Accuracy",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Ben Howdle",
+  "summary": "Over the years, I've spotted a pattern: all engineers exist on a spectrum between speed and accuracy. Some lean towards speed, optimizing for fast iteration and progress, while others prioritize accuracy, ensuring long-term maintainability and scalability.",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://workos.com/blog/what-is-device-fingerprinting-and-how-does-it-work",
+  "title": "What Is Device Fingerprinting And How Does It Work?",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "BestPractices Security Management",
+  "categories": [
+   "BestPractices",
+   "Security",
+   "Management"
+  ],
+  "author": "Zack Proser",
+  "summary": "Every time a device connects to your server, it broadcasts a wealth of information through its browser. Some of these signals are obvious, while others are subtle technical artifacts of how browsers and hardware work together. Zack breaks down what servers can see.",
+  "sponsored": true,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://blog.gitbutler.com/how-git-core-devs-configure-git/",
+  "title": "How Core Git Developers Configure Git",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "Git",
+  "categories": [
+   "Git"
+  ],
+  "author": "Scott Chacon",
+  "summary": "From the co-founder of GitHub: “In this post, I’ll go through some of the perhaps obscure Git config settings that I have personally globally enabled and go into them to explain what they do and why they should probably be the default settings.”",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://www.moderndescartes.com/essays/llm_predictions/",
+  "title": "LLM Ecosystem Predictions",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "Trends LLM",
+  "categories": [
+   "Trends",
+   "LLM"
+  ],
+  "author": "Brian Kihoon Lee",
+  "summary": "I don’t think I’m making any outlandish claims here, merely simple extrapolations of trends that I think have robust foundations, with a dash of history. The world of 2030 will be as unrecognizable to us as the world of cellphones today was in 2010.",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ },
+ {
+  "url": "https://saurabhs.org/advanced-macos-commands",
+  "title": "Advanced MacOS Command-Line Tools",
+  "issue": 594,
+  "date": "2025-02-28",
+  "date_display": "28 February 2025",
+  "category": "CommandLine",
+  "categories": [
+   "CommandLine"
+  ],
+  "author": "Simon Tatham",
+  "summary": "macOS is fortunate to have access to the huge arsenal of standard Unix tools. There are also a good number of macOS-specific command-line utilities that provide unique macOS functionality. To view the full documentation for any of these commands, run man.",
+  "sponsored": false,
+  "source_thread_id": "1954cddf20abfaba"
+ }
+]

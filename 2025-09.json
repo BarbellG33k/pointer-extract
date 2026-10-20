@@ -1,0 +1,1308 @@
+[
+  {
+    "url": "https://workos.com/blog/why-most-enterprise-ai-projects-fail-patterns-that-work",
+    "title": "Build AI For Production",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": null,
+    "categories": [],
+    "author": null,
+    "summary": null,
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://theengineeringmanager.substack.com/p/going-direct",
+    "title": "Going Direct",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "James Stanier",
+    "summary": "A new, more hands-on and direct management style driven by tighter economics and AI-driven efficiency pushes.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://everton.xyz/i-sat-down-with-werner-vogels/",
+    "title": "I Sat Down With Werner Vogels",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Everton Marcelino",
+    "summary": "A distillation of a fireside chat with Amazon CTO Werner Vogels on two decades of building critical infrastructure.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://workos.com/rbac",
+    "title": "How To Add Scalable Access Control To Your App",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "Management Tools",
+    "categories": [
+      "Management",
+      "Tools"
+    ],
+    "author": null,
+    "summary": "WorkOS RBAC offers per-org access control, with APIs and a dashboard for roles, permissions and SSO or SCIM sync.",
+    "sponsored": true,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/",
+    "title": "The Management Skill Nobody Talks About",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Matheus Lima",
+    "summary": "Repair matters more than perfection: acknowledge the mistake, take responsibility and reconnect.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://jsomers.net/blog/the-mcphee-method",
+    "title": "The McPhee Method",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "James Somers",
+    "summary": "Four mechanical writing stages: gather facts, bucket them into themes, structure the buckets, then draft.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://www.sonarsource.com/sem/the-coding-personalities-of-leading-llms/",
+    "title": "The Coding Personalities Of Leading LLMs",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "LLM AI",
+    "categories": [
+      "LLM",
+      "AI"
+    ],
+    "author": null,
+    "summary": "Sonar report on five LLM coding archetypes and the quality of code each produces.",
+    "sponsored": true,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://chrispenner.ca/posts/views-for-debugging",
+    "title": "You Should Add Debug Views To Your DB",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "Database",
+    "categories": [
+      "Database"
+    ],
+    "author": "Chris Penner",
+    "summary": "Use SQL views to encapsulate messy joins once and keep debugging queries short.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://lubeno.dev/blog/rusts-productivity-curve",
+    "title": "The Unexpected Productivity Boost Of Rust",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "Rust",
+    "categories": [
+      "Rust"
+    ],
+    "author": "Bernard Kolobara",
+    "summary": "Wrapping shared state in a mutex showed why Rust's productivity curve pays off.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://wickstrom.tech/2025-08-28-findings-bugs-coding-agent-lightweight-dst.html",
+    "title": "Finding Bugs In A Coding Agent With Lightweight DST",
+    "issue": 646,
+    "date": "2025-09-02",
+    "date_display": "2 September 2025",
+    "category": "AI Debugging",
+    "categories": [
+      "AI",
+      "Debugging"
+    ],
+    "author": "Stefan Marr",
+    "summary": "Lightweight deterministic simulation testing used to find bugs in a coding agent.",
+    "sponsored": false,
+    "source_thread_id": "1990aa1654352b93"
+  },
+  {
+    "url": "https://mikefisher.substack.com/p/frameworks-23e",
+    "title": "Frameworks",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Mike Fisher",
+    "summary": "Reach for a familiar or new framework as a handrail in murky problems, then sketch and test it.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://emdiary.substack.com/p/managing-engineers-more-experienced",
+    "title": "Managing Engineers More Experienced Than You",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Suresh Choudhary",
+    "summary": "Lessons on managing highly experienced engineers by fixing your own mistakes.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://www.augmentcode.com/blog/automating-customer-feedback-and-support-with-ai-agents",
+    "title": "Automating Customer Feedback And Support With AI Agents",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "Management AI",
+    "categories": [
+      "Management",
+      "AI"
+    ],
+    "author": "Andre Chang",
+    "summary": "Augment's Auggie CLI powers a three-agent pipeline for labelling, support and triage.",
+    "sponsored": true,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://newsletter.weskao.com/p/why-no-is-a-complete-sentence-is-dangerous-advice",
+    "title": "Why \"No\" Is A Complete Sentence\" Is Dangerous Advice",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Wes Kao",
+    "summary": "Blunt refusals can sound too harsh in many workplace cultures, so nuance matters.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://substack.com/inbox/post/172538377",
+    "title": "Where's The Shovelware? Why AI Coding Claims Don't Add Up",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "ThoughtPiece AI",
+    "categories": [
+      "ThoughtPiece",
+      "AI"
+    ],
+    "author": "Mike Judge",
+    "summary": "A six-week coin-flip experiment comparing AI-assisted and manual coding time.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://www.withcoherence.com/blog/will-all-user-interfaces-become-ai-chat",
+    "title": "Will All User Interfaces Become AI Chat?",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "AI",
+    "categories": [
+      "AI"
+    ],
+    "author": "George Hastings",
+    "summary": "Coherence on generative UI and whether apps embed in chat or chat embeds in apps.",
+    "sponsored": true,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://testing.googleblog.com/2010/12/test-sizes.html",
+    "title": "Test Sizes",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "Tests",
+    "categories": [
+      "Tests"
+    ],
+    "author": "Simon Stewart",
+    "summary": "Google's data-driven small, medium and large test naming conventions.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://slack.engineering/building-slacks-anomaly-event-response/",
+    "title": "Building Slack's Anomaly Event Response",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "Architecture Security",
+    "categories": [
+      "Architecture",
+      "Security"
+    ],
+    "author": "Ryan Persaud, Nathan Lehotsky",
+    "summary": "Slack's AER automatically terminates sessions of high-confidence threat actors within minutes.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://www.seangoedecke.com/seeing-like-a-software-company/",
+    "title": "Seeing Like A Software Company",
+    "issue": 647,
+    "date": "2025-09-05",
+    "date_display": "5 September 2025",
+    "category": "Management",
+    "categories": [
+      "Management"
+    ],
+    "author": "Sean Goedecke",
+    "summary": "Legibility and illegibility explain counter-productive company behaviour and tolerated rule-breaking.",
+    "sponsored": false,
+    "source_thread_id": "19919fb47d75b8d3"
+  },
+  {
+    "url": "https://shyamal.me/blog/meetings/",
+    "title": "On Meetings",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Shyamal Anadkat",
+    "summary": "Default to solving problems now, since calendar overhead hides weeks of delay.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://andiroberts.com/leadership-questions/how-can-i-deal-with-a-team-member-who-is-always-complaining",
+    "title": "How Can I Deal With A Team Member Who Is Always Complaining?",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Andi Roberts",
+    "summary": "Reframe complaints using inquiry, with practical tools and reflection questions for leaders.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://getunblocked.com/unblocked-mcp/",
+    "title": "Is Your Team Using Cursor Or Claude Code?",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Management Tools",
+    "categories": [
+      "Management",
+      "Tools"
+    ],
+    "author": null,
+    "summary": "With Claude Code plus Unblocked MCP, coding gets context-aware and stops hallucinating about your system.",
+    "sponsored": true,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://substack.com/@abinoda/p-172638561",
+    "title": "The Evolving Role Of DevProd Teams In The AI Era",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Laura Tacho, Abi Noda",
+    "summary": "What DevProd teams should focus on now: vendor selection, measurement, paved paths and AI at scale.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59",
+    "title": "Engineering Excellence Starts On Edge",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "David Heinemeier Hansson",
+    "summary": "The best teams run production on the unreleased next version of the tools they depend on.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://www.augmentcode.com/blog/using-the-auggie-cli-for-automated-code-review/",
+    "title": "Using The Auggie CLI For Automated Code Review",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Management AI Tools",
+    "categories": [
+      "Management",
+      "AI",
+      "Tools"
+    ],
+    "author": "Mayur Nagarsheth, Matt Ball",
+    "summary": "Turning the Auggie CLI into a PR review bot that catches obvious issues automatically.",
+    "sponsored": true,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://tigerstyle.dev/",
+    "title": "Tiger Style",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "LanguageDesign",
+    "categories": [
+      "LanguageDesign"
+    ],
+    "author": "Simon Klee",
+    "summary": "A coding philosophy built on safety, performance and developer experience, inspired by TigerBeetle.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://www.levels.fyi/blog/front-loaded-vesting.html",
+    "title": "The Rise Of Front-Loaded Vesting",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Compensation",
+    "categories": [
+      "Compensation"
+    ],
+    "author": "Brian Nguyen",
+    "summary": "Companies are moving from even four-year vesting to front-loaded schedules such as 40-30-20-10.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://www.uber.com/en-IN/blog/building-ubers-data-lake-batch-data-replication-using-hivesync/",
+    "title": "Building Uber's Data Lake: Batch Data Replication",
+    "issue": 648,
+    "date": "2025-09-09",
+    "date_display": "9 September 2025",
+    "category": "Architecture",
+    "categories": [
+      "Architecture"
+    ],
+    "author": null,
+    "summary": "HiveSync keeps cross-region consistency in Uber's 350 PB dual-region data lake.",
+    "sponsored": false,
+    "source_thread_id": "1992eae0283d2728"
+  },
+  {
+    "url": "https://martinfowler.com/articles/expert-generalist.html",
+    "title": "Expert Generalists",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Gitanjali Venkatraman, Unmesh Joshi, Martin Fowler",
+    "summary": "The expert generalist: a T-shaped skill set valued in the era of LLMs and AI tools.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://lauratacho.com/blog/a-deep-dive-into-developer-experience-surveys",
+    "title": "A Deep Dive Into Developer Experience Surveys",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Laura Tacho",
+    "summary": "Techniques, anonymity, frequency, tooling and sample questions for developer satisfaction surveys.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://refactoring.fm/p/6bc4a48d-d597-4816-8c2f-3fc2227ac06d",
+    "title": "How To Build A Product Engineering Culture",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "Leadership Management Culture",
+    "categories": [
+      "Leadership",
+      "Management",
+      "Culture"
+    ],
+    "author": "Luca Rossi",
+    "summary": "How to run SDLC stages for a high-performing product team, drawing on Atono's documented practices.",
+    "sponsored": true,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://candost.blog/on-good-software-engineers",
+    "title": "On Good Software Engineers",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Candost Dagdeviren",
+    "summary": "A simple definition of what managers should expect from software engineers.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://esafev.com/notes/why-i-do-programming/",
+    "title": "Why I Do Programming",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Vlad Esafev",
+    "summary": "Programming as a way to explore, tinker and satisfy curiosity.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://www.withcoherence.com/blog/will-all-user-interfaces-become-ai-chat",
+    "title": "Will All User Interfaces Become AI Chat?",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "AI",
+    "categories": [
+      "AI"
+    ],
+    "author": "George Hastings",
+    "summary": "Coherence on generative UI and whether apps embed in chat or chat embeds in apps.",
+    "sponsored": true,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://andre.arko.net/2025/06/30/you-should-delete-tests",
+    "title": "You Should Delete Tests",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "Tests",
+    "categories": [
+      "Tests"
+    ],
+    "author": "André Arko",
+    "summary": "The consensus that deleting a test is blasphemy is wrong and actively harmful.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://booking.ai/llm-evaluation-practical-tips-at-booking-com-1b038a0d6662",
+    "title": "LLM Evaluation: Practical Tips at Booking.com",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "LLM AI",
+    "categories": [
+      "LLM",
+      "AI"
+    ],
+    "author": "George Chouliaras",
+    "summary": "An LLM-as-judge framework for near-automated evaluation of GenAI applications.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md",
+    "title": "The Unreasonable Effectiveness Of Modern Sort Algorithms",
+    "issue": 649,
+    "date": "2025-09-12",
+    "date_display": "12 September 2025",
+    "category": "Algo",
+    "categories": [
+      "Algo"
+    ],
+    "author": "Lukas Bergdoll",
+    "summary": "Beating top sort implementations takes domain knowledge and careful benchmarking.",
+    "sponsored": false,
+    "source_thread_id": "1993e20eaa048d0c"
+  },
+  {
+    "url": "https://newsletter.weskao.com/p/7-phrases-i-use-when-giving-feedback",
+    "title": "7 Phrases I Use To Make Giving Feedback Easier For Myself",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Wes Kao",
+    "summary": "Seven phrases that make sharing feedback easier and encourage the recipient to act.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://blog.staysaasy.com/p/the-trauma-you-need-to-learn",
+    "title": "No Pain, No Gain",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": null,
+    "summary": "Hiding from failures blocks the accountability signal that the right trauma provides.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://getunblocked.com/unblocked-mcp",
+    "title": "Is Your Team Using Cursor Or Claude Code?",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "Management Tools",
+    "categories": [
+      "Management",
+      "Tools"
+    ],
+    "author": null,
+    "summary": "Unblocked's MCP server gives Claude and Cursor context from GitHub, Slack, Jira and Confluence.",
+    "sponsored": true,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://hodgkins.io/blog/quiet-influence-a-guide-to-nemawashi-in-engineering/",
+    "title": "Quiet Influence: A Guide To Nemawashi In Engineering",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Matthew Hodgkins",
+    "summary": "The pre-alignment principle of nemawashi, applied to engineering influence.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://medium.com/@elliotgraebert/agentic-ai-has-changed-my-career-2c6e3dd29708",
+    "title": "Agentic AI Has Changed My Career",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "CareerAdvice AI",
+    "categories": [
+      "CareerAdvice",
+      "AI"
+    ],
+    "author": "Elliot Graebert",
+    "summary": "Managers can contribute far more code with agentic AI, shown through the author's work at Skydio.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://blog.duolingo.com/reduced-regression-testing",
+    "title": "Duolingo Cut Manual QA Effort 70% Using GPT Driver For Agentic Mobile Regression Testing",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "Productivity Tests",
+    "categories": [
+      "Productivity",
+      "Tests"
+    ],
+    "author": "Brock Janikowski",
+    "summary": "GPT Driver used by Duolingo, Groupon, Salesforce and Noom to speed up releases and cut regression work.",
+    "sponsored": true,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://www.crunchydata.com/blog/get-excited-about-postgres-18",
+    "title": "Get Excited About Postgres 18",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "PostgreSQL",
+    "categories": [
+      "PostgreSQL"
+    ],
+    "author": "Elizabeth Christensen",
+    "summary": "Postgres 18 brings about 3,000 commits, query planner gains and smoother upgrades.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://bun.com/blog/behind-the-scenes-of-bun-install",
+    "title": "Behind The Scenes Of Bun Install",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "DeepDive",
+    "categories": [
+      "DeepDive"
+    ],
+    "author": "Lydia Hallie",
+    "summary": "Bun installs fast because it treats package installation as a systems programming problem.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://ericcodes.io/blog/gleam-my-new-obsession.html",
+    "title": "Gleam My New Obsession",
+    "issue": 650,
+    "date": "2025-09-16",
+    "date_display": "16 September 2025",
+    "category": "LanguageDesign",
+    "categories": [
+      "LanguageDesign"
+    ],
+    "author": null,
+    "summary": "An enthusiastic take on the Gleam language as a complement to Rust.",
+    "sponsored": false,
+    "source_thread_id": "19952a188ce9a755"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/how-tech-companies-measure-the-impact-of-ai",
+    "title": "How Tech Companies Measure The Impact Of AI On Software Development",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Gergely Orosz, Laura Tacho",
+    "summary": "How companies decide whether AI coding tools are worth their token spend.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://mikefisher.substack.com/p/how-culture-scales-or-doesnt",
+    "title": "How Culture Scales (Or Doesn't)",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Mike Fisher",
+    "summary": "How culture scales unevenly, what tends to break, and how leaders evolve it without losing its soul.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://www.sonarsource.com/sem/products/sonarqube/advanced-security/",
+    "title": "Secure Your Code And Dependencies",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "Management Security",
+    "categories": [
+      "Management",
+      "Security"
+    ],
+    "author": null,
+    "summary": "SonarQube Advanced Security secures first-party, AI-generated and open source code in one place.",
+    "sponsored": true,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://newsletter.weskao.com/p/fundamentals-start-right-before-you-get-eaten-by-the-bear",
+    "title": "Start Right Before You Get Eaten By The Bear",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Wes Kao",
+    "summary": "Explain your situation in the briefest way so the other person has more time to speak.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://www.moderndescartes.com/essays/taste/",
+    "title": "Taste",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Brian Kihoon Lee",
+    "summary": "Refining personal taste by analysing why one option is better and exposing yourself to tasteful work.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://www.browserstack.com/testing-toolkit",
+    "title": "Stop Losing Hours To Tab-Juggling: One Extension For Your Entire Testing Workflow",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "Productivity Tests",
+    "categories": [
+      "Productivity",
+      "Tests"
+    ],
+    "author": null,
+    "summary": "BrowserStack Testing Toolkit combines 10+ testing tools in one Chrome extension.",
+    "sponsored": true,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://dev.to/somadevtoo/9-software-architecture-patterns-for-distributed-systems-2o86",
+    "title": "9 Software Architecture Patterns For Distributed Systems",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "Architecture DistributedSystems",
+    "categories": [
+      "Architecture",
+      "DistributedSystems"
+    ],
+    "author": null,
+    "summary": "Nine patterns for managing data and communication flow with reliability and scalability.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://muratbuffalo.blogspot.com/2025/09/supporting-our-ai-overlords-redesigning.html",
+    "title": "Supporting Our AI Overlords: Redesigning Data Systems To Be Agent-First",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "SystemDesign AI",
+    "categories": [
+      "SystemDesign",
+      "AI"
+    ],
+    "author": "Murat Demirbas",
+    "summary": "Databases should offer approximate answers and shared computation to handle high-throughput agent queries.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://testing.googleblog.com/2025/09/sort-lines-in-source-code.html",
+    "title": "Sort Lines In Source Code",
+    "issue": 651,
+    "date": "2025-09-19",
+    "date_display": "19 September 2025",
+    "category": "BestPractices Tests",
+    "categories": [
+      "BestPractices",
+      "Tests"
+    ],
+    "author": "Kyle Freeman",
+    "summary": "Google's keep-sorted tool makes duplicate or conflicting config lines obvious.",
+    "sponsored": false,
+    "source_thread_id": "19962143977ce78b"
+  },
+  {
+    "url": "https://workos.com/blog/why-oauth-is-the-right-fit-for-the-mcp-registry",
+    "title": "Ship Secure MCP Auth",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": null,
+    "categories": [],
+    "author": null,
+    "summary": null,
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://bjorg.bjornroche.com/management/engineering-management-artifacts/",
+    "title": "Useful Engineering Management Artifacts",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Bjorn Roche",
+    "summary": "Document templates for growing organisations, with notes on how to tweak them.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/",
+    "title": "My Quarterly System Health Check-in",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Srihari Sriraman",
+    "summary": "A 2-4 hour recurring check across reliability, performance, cost, delivery, security and simplicity.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://workos.com/blog/why-most-enterprise-ai-projects-fail-patterns-that-work",
+    "title": "How To Build Enterprise AI Apps That Actually Ship",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "Management AI",
+    "categories": [
+      "Management",
+      "AI"
+    ],
+    "author": "Zack Proser",
+    "summary": "Teams that ship enterprise AI invest early in access control, auditability and identity integration.",
+    "sponsored": true,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://newsletter.antoniokov.com/archive/why-arent-you-a-good-fit",
+    "title": "Why Aren't You A Good Fit?",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "Management Hiring",
+    "categories": [
+      "Management",
+      "Hiring"
+    ],
+    "author": "Anton Iokov",
+    "summary": "Asking why you are not a good fit reveals more about candidates than the usual question.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/",
+    "title": "Keeping Secrets Out Of Logs",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "Logging",
+    "categories": [
+      "Logging"
+    ],
+    "author": "Allan Reyes",
+    "summary": "No single action keeps secrets out of logs; it takes layered measures.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://www.augmentcode.com/blog/announcing-new-mcp-integrations/",
+    "title": "New Augment Code MCP Integrations: Vercel, Honeycomb, Render, and Heroku",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "Tools AI",
+    "categories": [
+      "Tools",
+      "AI"
+    ],
+    "author": "Julia McClellan",
+    "summary": "Augment adds four MCP integrations covering observability, deployment, hosting and infrastructure.",
+    "sponsored": true,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EGqwXt90ZqA",
+    "title": "Inventing On Principle",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "CareerAdvice Video",
+    "categories": [
+      "CareerAdvice",
+      "Video"
+    ],
+    "author": "Bret Victor",
+    "summary": "Passion drives invention, and ideas should be manifested at the speed of thought.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://openai.com/index/why-language-models-hallucinate/",
+    "title": "Why Language Models Hallucinate",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "LLM AI",
+    "categories": [
+      "LLM",
+      "AI"
+    ],
+    "author": null,
+    "summary": "Evaluations reward guessing over honesty about uncertainty, which sustains hallucinations.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://cefboud.com/posts/compression/",
+    "title": "Taking A Look At Compression Algorithms",
+    "issue": 652,
+    "date": "2025-09-23",
+    "date_display": "23 September 2025",
+    "category": "DeepDive Algo",
+    "categories": [
+      "DeepDive",
+      "Algo"
+    ],
+    "author": "Moncef Abboud",
+    "summary": "Compression cuts storage, transmission time and cost, which adds up to millions at scale.",
+    "sponsored": false,
+    "source_thread_id": "19976d007c51b4ec"
+  },
+  {
+    "url": "https://leerob.com/beliefs",
+    "title": "Things I Believe",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Lee Robinson",
+    "summary": "Ten beliefs, including shipping fast, owning outcomes and demos over memos.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://mikefisher.substack.com/p/leading-through-ambiguity",
+    "title": "Leading Through Ambiguity",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Mike Fisher",
+    "summary": "In uncertainty, leadership means durable intent and shared understanding, not prediction.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://www.withcoherence.com/blog/launching-the-agentic-research-platform-talk-to-10x-more-users-with-ai-researchers",
+    "title": "Launching The Agentic Research Platform: Talk To 10x More Users With AI Researchers",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "Management AI",
+    "categories": [
+      "Management",
+      "AI"
+    ],
+    "author": null,
+    "summary": "Coherence's platform runs real AI-led conversations with users and synthesises insights across them.",
+    "sponsored": true,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://boz.com/articles/two-things",
+    "title": "Two Things Can Be True",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Andrew Bosworth",
+    "summary": "An approach to reconciling interpersonal tension so people can keep working together.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html",
+    "title": "An AI Tool I Find Useful",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "Tools AI",
+    "categories": [
+      "Tools",
+      "AI"
+    ],
+    "author": "Bill Mill",
+    "summary": "An AI code-review command that has saved the author from painful errors, even when most suggestions are ignored.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://www.thesys.dev/blogs/how-to-build-generative-ui-applications",
+    "title": "Architecting AI-First Interfaces: Going Beyond Chat & Adopting Context-Aware Runtime UI",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "AI",
+    "categories": [
+      "AI"
+    ],
+    "author": "Anmol Baranwal",
+    "summary": "Generative UI that adapts at runtime to user intent, and the tools to build it.",
+    "sponsored": true,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built",
+    "title": "How Claude Code Is Built",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "DeepDive",
+    "categories": [
+      "DeepDive"
+    ],
+    "author": "Gergely Orosz",
+    "summary": "Insights into how an AI-first engineering team operates, and why engineers remain in demand.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
+    "title": "To Vibe Or Not To Vibe",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "AI",
+    "categories": [
+      "AI"
+    ],
+    "author": "Birgitta Böckeler",
+    "summary": "How closely AI-generated code should be reviewed depends on context.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://netflixtechblog.com/scaling-muse-how-netflix-powers-data-driven-creative-insights-at-trillion-row-scale-aa9ad326fd77",
+    "title": "Scaling Muse: How Netflix Powers Data-Driven Creative Insights at Trillion-Row Scale",
+    "issue": 653,
+    "date": "2025-09-26",
+    "date_display": "26 September 2025",
+    "category": "Architecture",
+    "categories": [
+      "Architecture"
+    ],
+    "author": null,
+    "summary": "Netflix evolves Muse to add capabilities while keeping performance and data accuracy.",
+    "sponsored": false,
+    "source_thread_id": "199863a04cee9a63"
+  },
+  {
+    "url": "https://www.p99conf.io/?latest_sfdc_campaign=701Rb00000XTxD4&campaign_status=Submitted&lead_source_type=pointer",
+    "title": "Free Conference Pass (And 30-Day O’Reilly Book Access Too)",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": null,
+    "categories": [],
+    "author": null,
+    "summary": null,
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://theengineeringmanager.substack.com/p/the-beauty-of-constraints",
+    "title": "The Beauty Of Constraints",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "James Stanier",
+    "summary": "Constraints unlock unconventional thinking and force ruthless prioritisation.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://newsletter.techworld-with-milan.com/p/high-agency-what-separates-top-performers",
+    "title": "How To Develop High Agency",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Dr Milan Milanović",
+    "summary": "How the most successful people build a strong sense of agency, and how to develop it.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://www.p99conf.io/?latest_sfdc_campaign=701Rb00000XTxD4&campaign_status=Submitted&lead_source_type=pointer",
+    "title": "P99 CONF: 60+ Tech Talks On Low Latency Engineering",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "Management Event",
+    "categories": [
+      "Management",
+      "Event"
+    ],
+    "author": null,
+    "summary": "Free virtual conference on low-latency engineering covering AI/ML, Rust, Go, eBPF and distributed databases.",
+    "sponsored": true,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating",
+    "title": "How Can I Influence Others Without Manipulating Them?",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "Leadership Management",
+    "categories": [
+      "Leadership",
+      "Management"
+    ],
+    "author": "Andi Roberts",
+    "summary": "Five doors of influence, and how each becomes a wall when overused.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://www.seangoedecke.com/taste/",
+    "title": "What Is \"Good Taste\" In Software Engineering?",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "CareerAdvice",
+    "categories": [
+      "CareerAdvice"
+    ],
+    "author": "Sean Goedecke",
+    "summary": "Technical taste is distinct from technical skill and develops in a more mysterious way.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://www.augmentcode.com/guides/ai-coding-assistants-for-large-codebases-a-complete-guide",
+    "title": "AI Coding Assistants For Large Codebases: A Complete Guide",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "Guide AI",
+    "categories": [
+      "Guide",
+      "AI"
+    ],
+    "author": null,
+    "summary": "Augment's context engine is built to index and reason over millions of lines of code.",
+    "sponsored": true,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://lucumr.pocoo.org/2025/9/29/90-percent/",
+    "title": "90%",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "AI",
+    "categories": [
+      "AI"
+    ],
+    "author": "Armin Ronacher",
+    "summary": "Over 90% of a new infrastructure component was AI-written, and what the author learned doing it.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://netflixtechblog.com/building-a-resilient-data-platform-with-write-ahead-log-at-netflix-127b6712359a",
+    "title": "Building A Resilient Data Platform With Write-Ahead Log At Netflix",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "Architecture",
+    "categories": [
+      "Architecture"
+    ],
+    "author": null,
+    "summary": "Netflix's generic write-ahead log delivers durable change capture to downstream consumers.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  },
+  {
+    "url": "https://www.postgresql.org/about/news/postgresql-18-released-3142/",
+    "title": "PostgreSQL 18 Released!",
+    "issue": 654,
+    "date": "2025-09-30",
+    "date_display": "30 September 2025",
+    "category": "PostgreSQL",
+    "categories": [
+      "PostgreSQL"
+    ],
+    "author": null,
+    "summary": "Postgres 18 improves I/O performance and makes major-version upgrades less disruptive.",
+    "sponsored": false,
+    "source_thread_id": "1999aef13245daf4"
+  }
+]

@@ -1,0 +1,1336 @@
+[
+ {
+  "url": "https://randsinrepose.com/archives/so-you-want-to-fix-your-all-hands/",
+  "title": "So You Want to Fix Your All Hands",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "Management Communication MeetingDesign",
+  "categories": [
+   "Management",
+   "Communication",
+   "MeetingDesign"
+  ],
+  "author": "Michael Lopp",
+  "summary": "“I will now explain why at least 50% of your team finds your current All Hands to be a waste of their time. They believe: (1) This is information they can easily find elsewhere. (2) This is about you, not them. (3) This is boring.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://rdel.substack.com/p/rdel-150-how-is-ai-adoption-affecting",
+  "title": "How Is AI Adoption Affecting Team Motivation?",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "Management TeamHealth AI",
+  "categories": [
+   "Management",
+   "TeamHealth",
+   "AI"
+  ],
+  "author": "Lizzie Matusov",
+  "summary": "“Ask an engineer why they got into the field, and you’ll likely hear about building things, untangling hard problems, the specific satisfaction of shipping something they designed. But as the tools take over more of the building, the day-to-day shape of the job is shifting.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://fandf.co/4xRY7d0",
+  "title": "Accelerate Engineering Velocity: Unified, Fast Access To Resources",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "DevEx Infrastructure Security",
+  "categories": [
+   "DevEx",
+   "Infrastructure",
+   "Security"
+  ],
+  "author": null,
+  "summary": "Your engineers shouldn’t wait hours for access. Your security team shouldn’t have to piece together audit data across multiple systems. Teleport's unified identity layer eliminates these bottlenecks with: (1) Cryptographic identities for all humans, machines, and AI agents.",
+  "sponsored": true,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://www.seangoedecke.com/saying-the-obvious-thing/",
+  "title": "Saying The Obvious Thing",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "Communication CareerGrowth",
+  "categories": [
+   "Communication",
+   "CareerGrowth"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "“Stating the obvious is surprisingly useful. Most of your knowledge lives below the threshold of conscious awareness, so it’s possible for a piece of writing to remind you of what you already know.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://www.allthingsdistributed.com/2026/06/return-to-two-pizza-culture.html",
+  "title": "A Return To Two-Pizza Culture",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "IndustryTrends Agents AI",
+  "categories": [
+   "IndustryTrends",
+   "Agents",
+   "AI"
+  ],
+  "author": "Werner Vogels",
+  "summary": "“Coding agents are compressing the time between defining the problem and having something real in our hands to evaluate. It is time to amend the way we think about the process that’s brought us this far.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://www.browserstack.com/events/qa-leadership-summit-summer-2026",
+  "title": "How High-Performing QA Teams Are Adapting To AI",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "Event AI Testing",
+  "categories": [
+   "Event",
+   "AI",
+   "Testing"
+  ],
+  "author": null,
+  "summary": "The real challenge with AI isn't getting a demo to work. It's building quality workflows that teams can trust in production. At the QA Leadership Summit, engineering leaders and directors share how they're integrating AI into testing.",
+  "sponsored": true,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://tidydesign.substack.com/p/a-coding-agent-is-six-functions-in",
+  "title": "A Coding Agent Is Six Functions In A Trenchcoat",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "DeepDive AI Agents",
+  "categories": [
+   "DeepDive",
+   "AI",
+   "Agents"
+  ],
+  "author": "Hadley Wickham",
+  "summary": "“Of the six tools above, only three are really essential for a basic coding agent. To prove it, I’m going to build a tiny coding agent in R with ellmer. We’ll start ruthlessly minimal, with just read file, write file, and run command.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://tratt.net/laurie/blog/2026/local_reasoning_for_global_properties.html",
+  "title": "Local Reasoning For Global Properties",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "IndustryTrends AI LanguageDesign",
+  "categories": [
+   "IndustryTrends",
+   "AI",
+   "LanguageDesign"
+  ],
+  "author": "Laurence Tratt",
+  "summary": "“In the last couple of years, I’ve increasingly been asked questions that boil down to: will AI benefit from new kinds of programming languages? My answer has been “probably not” and, so far at least, that answer has held up well.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+  "title": "A Peek Into Reddit's Anti-Spam Internals",
+  "issue": 730,
+  "date": "2026-07-03",
+  "date_display": "3 July 2026",
+  "category": "Architecture Security",
+  "categories": [
+   "Architecture",
+   "Security"
+  ],
+  "author": "Lyra Rebane",
+  "summary": "“I was a moderator of a few fairly small subreddits that’d from time to time get posts automatically removed for spam. However, when I went to actually look at the removed spam, I saw something I was never meant to see.”",
+  "sponsored": false,
+  "source_thread_id": "19f282c9050da1bb"
+ },
+ {
+  "url": "https://luminousmen.substack.com/p/be-the-idiot",
+  "title": "Be The Idiot",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "Communication CareerGrowth",
+  "categories": [
+   "Communication",
+   "CareerGrowth"
+  ],
+  "author": "Kirill Bobrov",
+  "summary": "“I’ve developed a mental checklist of “stupid” questions that have saved me more times than I can count.” The author shares some of these with the understanding that most engineering failures happen because someone was afraid to look stupid.",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://blog.incrementalforgetting.tech/p/key-activities-for-sustainable-engineering",
+  "title": "Key Activities For Sustainable Engineering Team",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "Leadership Management TeamHealth",
+  "categories": [
+   "Leadership",
+   "Management",
+   "TeamHealth"
+  ],
+  "author": "Dunya Kirkali",
+  "summary": "“Sometimes you need to fly high: looking at strategy, direction, and the broader system around the team. Sometimes you need to fly low: joining the details, removing friction, and helping the team through turbulence. The hard part is knowing when to change altitude.”",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://watch.getcontrast.io/register/context-maturity-jul",
+  "title": "[Webinar] 8 Levels Of Context Maturity In AI-Native Engineering",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "Agents AI Event",
+  "categories": [
+   "Agents",
+   "AI",
+   "Event"
+  ],
+  "author": null,
+  "summary": "AI is in your engineering workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. This free webinar maps the 8 levels of context maturity.",
+  "sponsored": true,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
+  "title": "Why I Stopped Arguing With People",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "Communication Influence",
+  "categories": [
+   "Communication",
+   "Influence"
+  ],
+  "author": "Cong Wang",
+  "summary": "“Over the years I’ve slowly stopped arguing. Not because I stopped caring about being right, but because I finally understood what an argument actually is, and what it can and cannot do. Here is what changed my mind.”",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://blog.fsck.com/2026/07/05/new-patterns/",
+  "title": "Some New Agentic Patterns",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "DevEx Agents AI",
+  "categories": [
+   "DevEx",
+   "Agents",
+   "AI"
+  ],
+  "author": "Jesse Vincent",
+  "summary": "“I want to tell you a bit about how we've started shipping some changes to internal production with an 'agentic user in the loop.' Letting an agent work directly with the implementer building its runloop and tooling is getting us higher-quality tools.”",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://www.trmlabs.com/trm-tech-blog/replacing-the-engine-mid-flight-how-a-closed-loop-ai-agent-upgraded-starrocks-across-58-releases-with-zero-downtime",
+  "title": "Replacing The Engine Mid-Flight: How A Closed-loop AI Agent Upgraded StarRocks Across 58 Releases With Zero Downtime",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "CaseStudy Database Agents",
+  "categories": [
+   "CaseStudy",
+   "Database",
+   "Agents"
+  ],
+  "author": "Vijay Shekhawat",
+  "summary": "TRM Labs built an AI agent that upgraded their StarRocks database across 58 releases with zero downtime. A shadow proxy mirrored production traffic while an autonomous agent diagnosed bottlenecks, optimized queries, and validated fixes.",
+  "sponsored": true,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+  "title": "Understanding Is The New Bottleneck",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "CodeQuality AI",
+  "categories": [
+   "CodeQuality",
+   "AI"
+  ],
+  "author": "Geoffrey Litt",
+  "summary": "“Hot take: I think it's still important to understand the code that our agents write! In this talk I'll explain why that's the case, and show some ideas for how to efficiently understand code. Alright, let's dive in.”",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://newsletter.francofernando.com/p/when-to-repeat-yourself",
+  "title": "When To Repeat Yourself",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "CodeQuality TechDebt",
+  "categories": [
+   "CodeQuality",
+   "TechDebt"
+  ],
+  "author": "Franco Fernando",
+  "summary": "“In this issue, we will see when keeping duplication is a reasonable tradeoff, and when it is worth the effort to remove it.”",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://fabiensanglard.net/keyboards/index.html",
+  "title": "My Favorite Keyboards",
+  "issue": 731,
+  "date": "2026-07-07",
+  "date_display": "7 July 2026",
+  "category": "Tools+Setup",
+  "categories": [
+   "Tools+Setup"
+  ],
+  "author": "Fabien Sanglard",
+  "summary": "“When I started using computers, we had a Sinclair ZX Spectrum at home and a nano-reseau of Thomson MO5s at elementary school. I distinctly remember how unpleasant it was to type with them. Here is the list of my all-time favorites.”",
+  "sponsored": false,
+  "source_thread_id": "19f3cd39ede11a0e"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/in-job-interviews-keep-your-backstory",
+  "title": "In Job Interviews, Keep Your Backstory Short",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "Communication CareerGrowth InterviewAdvice",
+  "categories": [
+   "Communication",
+   "CareerGrowth",
+   "InterviewAdvice"
+  ],
+  "author": "Wes Kao",
+  "summary": "“The problem is, when you spend too much time describing the situation (i.e. the context or background), you take time away from the other parts of STAR, all of which are more interesting and relevant.”",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://registerspill.thorstenball.com/p/ownership",
+  "title": "Ownership",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "Management Culture",
+  "categories": [
+   "Management",
+   "Culture"
+  ],
+  "author": "Thorsten Ball",
+  "summary": "“Just had a (great) conversation about ownership and engineering here and I realized that I often use the phrase “ownership” or allude to it, but haven’t explained what “ownership” means to me in a while.”",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://www.gauntletai.com/night-school/the-gauntlet-learning-model",
+  "title": "Free Gauntlet AI Night School: Why the Environment Matters More Than the Curriculum",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "AI Event",
+  "categories": [
+   "AI",
+   "Event"
+  ],
+  "author": null,
+  "summary": "Online Wednesday July 15 at 5CT. Byron Mackay breaks down the Gauntlet learning model and argues that the environment beats the curriculum, explaining what makes it unlike college or a coding camp.",
+  "sponsored": true,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://randsinrepose.com/archives/the-mario-meeting/",
+  "title": "The Mario Meeting",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "Leadership Management Compensation",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Compensation"
+  ],
+  "author": "Michael Lopp",
+  "summary": "“Everyone cares about the compensation (base salary, bonus, and stock). That’s the data they care about, but where did this pile of compensation come from? Who decided how big it is? And how is it allocated?”",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://www.youtube.com/watch?v=2n41YjR5QfU",
+  "title": "Software Engineering At The Tipping Point",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "IndustryTrends Scale Architecture",
+  "categories": [
+   "IndustryTrends",
+   "Scale",
+   "Architecture"
+  ],
+  "author": "Adam Bender",
+  "summary": "Adam explores software ecology as a framework for understanding sociotechnical systems. By examining the impact of emerging technologies and rapid growth on developer ecosystems, he investigates how culture and technical choices navigate the challenges of scaling environments.",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://lore.link/blog/how-a-3000-person-company-got-95-percent-using-ai",
+  "title": "How A 3,000-Person Company Got 95% Of Its Employees Using AI Every Week",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "Management CaseStudy AI",
+  "categories": [
+   "Management",
+   "CaseStudy",
+   "AI"
+  ],
+  "author": "Kaia Colban",
+  "summary": "We sat down with their AI Platform Manager, who walked us through the three-layer skills system behind it: company, team, and personal skills that stay versioned and cascade down. Steal the structure for your own org.",
+  "sponsored": true,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://verraes.net/2026/07/software-design-in-the-agentic-age/",
+  "title": "Software Design In The Agentic Age: Place Your Bets",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "IndustryTrends Architecture Agents",
+  "categories": [
+   "IndustryTrends",
+   "Architecture",
+   "Agents"
+  ],
+  "author": "Mathias Verraes",
+  "summary": "“This week, I participated in Thoughtworks’ Future of Software Engineering retreat in Engelberg, Switzerland. It was an invite-only event with about 60 industry leaders, hosted by Martin Fowler. The event used an open space format.”",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://lukasniessen.medium.com/how-to-make-architecture-decisions-rfcs-adrs-and-getting-everyone-aligned-ab82e5384d2f",
+  "title": "How to Make Architecture Decisions: RFCs, ADRs, and Getting Everyone Aligned",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "Leadership Architecture",
+  "categories": [
+   "Leadership",
+   "Architecture"
+  ],
+  "author": "Lukas Niessen",
+  "summary": "“The thing is, architecture decisions are different from regular code decisions. They’re harder to reverse, they affect more people, and they often involve trade-offs that aren’t purely technical. You need buy-in.”",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://discord.com/blog/cost-attribution-in-discords-api",
+  "title": "Cost Attribution In Discord’s API",
+  "issue": 732,
+  "date": "2026-07-10",
+  "date_display": "10 July 2026",
+  "category": "DeepDive Metrics Infrastructure",
+  "categories": [
+   "DeepDive",
+   "Metrics",
+   "Infrastructure"
+  ],
+  "author": "Jim Benton",
+  "summary": "“One observability gap that we wanted to improve last year was our understanding of how hosting costs were allocated across product features. For example, how much does it cost to operate the parts of API that are used to send and receive messages?”",
+  "sponsored": false,
+  "source_thread_id": "19f4c5581f04b8c1"
+ },
+ {
+  "url": "https://lethain.com/durably-excellent-teams/",
+  "title": "Staying On The Path To High Performing Teams",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Will Larson",
+  "summary": "“When you talk about growing an organization, the conversation usually leads to hiring. While I believe hiring is a very important approach to growing organizations, I believe we reach for it too often.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/five-studies-that-are-changing-how",
+  "title": "Five Studies Changing How I Think About AI In Software Engineering",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "Management AI",
+  "categories": [
+   "Management",
+   "AI"
+  ],
+  "author": "Brian Houck",
+  "summary": "“Each paper tackles a different question. Some measure the productivity impact of AI coding assistants. Others examine how those gains propagate through the software delivery process, explore what developers actually want from future AI systems.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://na2.hubs.ly/H06F0xr0",
+  "title": "Leverage Moves Upstream: The Infrastructure Layer Reshaping Product Teams",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "Management AI Product",
+  "categories": [
+   "Management",
+   "AI",
+   "Product"
+  ],
+  "author": null,
+  "summary": "Nine out of ten engineering teams adopted AI for delivery. One in three actually believe they're ready to hand work off to it. That gap isn't a tooling problem. When production becomes cheap, the constraint doesn't stay there.",
+  "sponsored": true,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://alifeengineered.substack.com/p/5-things-world-class-engineers-do",
+  "title": "5 Things World-Class Engineers Do That You Don't",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": "Steve Huynh",
+  "summary": "“After participating in many such conversations, both through my podcast and during my time at Amazon, I have recognized a handful of patterns that have held over the decades and across different companies. There are five of them.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+  "title": "Why AI Hasn't Replaced Software Engineers, And Won't",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "IndustryTrends AI",
+  "categories": [
+   "IndustryTrends",
+   "AI"
+  ],
+  "author": "Arvind Narayanan, Sayash Kapoor",
+  "summary": "“In this essay, we argue that there is enough evidence to reject the narrative that once AI capabilities reach a certain threshold, it will cause mass layoffs. Given that this is true even in a sector with very few regulatory barriers, most other professions are likely to be even more cushioned.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://workos.com/docs/pipes",
+  "title": "WorkOS Pipes: Connect The Tools Your Users Already Use",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "Tools+Setup",
+  "categories": [
+   "Tools+Setup"
+  ],
+  "author": null,
+  "summary": "Every integration gives your product more context, and most of it lives in your users' other apps like GitHub, Slack, Google, and Salesforce. Pipes connects them. Users authorize once through a drop-in widget.",
+  "sponsored": true,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+  "title": "When AI Costs More Than The Engineer",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "Management",
+  "categories": [
+   "Management"
+  ],
+  "author": "Tomasz Tunguz",
+  "summary": "“Anthropic spends 2.3x its payroll on compute — $515k per engineer per year at today's $224k fully-loaded salary. The top 1% of software companies spend $89k, the median $137. Three 2029 scenarios bracket how that gap closes.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://pivotal.substack.com/p/on-data-quality-1-basics",
+  "title": "On Data Quality",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "DataEngineering Architecture",
+  "categories": [
+   "DataEngineering",
+   "Architecture"
+  ],
+  "author": "Abraham Thomas",
+  "summary": "“Data quality. We love it, we want it, we praise it, we aspire to it. Even in these benighted and degenerate times, if there’s one belief that unites all sensible individuals, it is the belief that data quality is a Good Thing.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://www.bcs.org/articles-opinion-and-research/a-software-architecture-reading-list",
+  "title": "A Software Architecture Reading List",
+  "issue": 733,
+  "date": "2026-07-14",
+  "date_display": "14 July 2026",
+  "category": "Books Architecture",
+  "categories": [
+   "Books",
+   "Architecture"
+  ],
+  "author": "Dr Andrew Leigh",
+  "summary": "“Dr Andrew Leigh reflects on 25 years of professional experience as a software architect and offers his insights and a reading list of recommendations.”",
+  "sponsored": false,
+  "source_thread_id": "19f60e053a495ec9"
+ },
+ {
+  "url": "https://andiroberts.com/leadership-questions/team-members-resisting-change",
+  "title": "How Do I Deal With My Team Members Who Are Resisting Change?",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "Management ConflictResolution",
+  "categories": [
+   "Management",
+   "ConflictResolution"
+  ],
+  "author": "Andi Roberts",
+  "summary": "“Every leader eventually meets the same person. Arms folded in the meeting. The one who says “we tried this before” before you have finished the sentence. It is tempting to label this person difficult, negative, or stuck. It is also, usually, the wrong diagnosis.”",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://theengineeringmanager.substack.com/p/code-yellow-code-red",
+  "title": "Code Yellow, Code Red",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "Management Incidents CaseStudy",
+  "categories": [
+   "Management",
+   "Incidents",
+   "CaseStudy"
+  ],
+  "author": "James Stanier",
+  "summary": "Here’s what we’re going to cover: (1) What Code Yellow and Code Red actually mean, and where the terms come from. (2) How we ran ours at Provet: the structure, the work, and what we learned. (3) A generalised template you can adapt.",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://www.gauntletai.com/night-school/mcp-factory",
+  "title": "Free Gauntlet AI Night School: MCP Factory — Build Any MCP You Want",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "Event AI Agents",
+  "categories": [
+   "Event",
+   "AI",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "Aaron Gallant breaks down MCP Factory, a repository that lets you spin up any MCP server you want instead of hand-building each integration from scratch. MCP servers are how AI agents plug into real tools and data.",
+  "sponsored": true,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://www.seangoedecke.com/playing-politics/",
+  "title": "What Does “Playing Politics” Mean For Software Engineers?",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "CareerGrowth Influence",
+  "categories": [
+   "CareerGrowth",
+   "Influence"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "“Playing politics isn’t about plotting and scheming, and it isn’t just about being a friendly, likeable person (although that helps). It’s about figuring out how your company actually operates: who makes the decisions, who gets consulted.”",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://performance.dev/chatgpt",
+  "title": "Reverse Engineering ChatGPT Web: How OpenAI Built for a Billion Users",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "DeepDive AI Architecture",
+  "categories": [
+   "DeepDive",
+   "AI",
+   "Architecture"
+  ],
+  "author": "Dennis Brotzky",
+  "summary": "“On the surface it seems like a simple interface, but after digging in it's anything but. I spent days reverse engineering their web app by digging through the page source, bundled code, and network requests to understand how it was built.”",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://fandf.co/4faWVJ8",
+  "title": "Why Stitched-Together AI Architectures Backfire",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "DeepDive AI Architecture",
+  "categories": [
+   "DeepDive",
+   "AI",
+   "Architecture"
+  ],
+  "author": "Chanh Tran",
+  "summary": "Building context and memory for production AI agents usually means stitching together a fragile tool zoo of vector dbs, sync pipelines, and external session caches. Redis Iris fixes this by unifying context orchestration, persistent agent memory, and semantic caching.",
+  "sponsored": true,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://vatsalbakshi.com/blog/benfords-law/",
+  "title": "Benford's Law: The Strange Law That Catches Financial Fraudsters",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "Security Algo",
+  "categories": [
+   "Security",
+   "Algo"
+  ],
+  "author": "Vatsal Bakshi",
+  "summary": "In almost any large dataset drawn from the real world (populations of cities, lengths of rivers, prices, earthquake depths, company revenues) the leading digit is not uniformly distributed. The digit 1 appears as the first digit about 30% of the time.",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+  "title": "Using Local Coding Agents",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "Guide AI Agents",
+  "categories": [
+   "Guide",
+   "AI",
+   "Agents"
+  ],
+  "author": "Sebastian Raschka",
+  "summary": "“This article is a tutorial on setting up a production-ready coding agent with a fully local stack. We will use a locally served LLM together with a local coding harness that can read files, make edits, run commands, and verify changes as shown in the figure above.”",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+  "title": "Quadrupling Code Performance With A \"Useless\" If",
+  "issue": 734,
+  "date": "2026-07-17",
+  "date_display": "17 July 2026",
+  "category": "Debugging Performance DeepDive",
+  "categories": [
+   "Debugging",
+   "Performance",
+   "DeepDive"
+  ],
+  "author": "Alisa Sireneva",
+  "summary": "“We don’t expect too many chunks, so next_j[i][j] is quite likely to just be equal to j. If we could tell the CPU to predict that j stays intact, the loop would become throughput-bound rather than latency-bound.”",
+  "sponsored": false,
+  "source_thread_id": "19f6ff479a399f92"
+ },
+ {
+  "url": "https://mikefisher.substack.com/p/a-small-problem",
+  "title": "A Small Problem",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "Leadership Management Communication",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Communication"
+  ],
+  "author": "Mike Fisher",
+  "summary": "“In an organization you are always broadcasting on more than one channel at once, whether you intend to or not. Your exec team needs the unvarnished situation. The wider company needs enough to stay oriented without spinning out.”",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://www.lucasfcosta.com/blog/laws-of-software-project-management",
+  "title": "Lucas' Laws of Project Management",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "Management Tips",
+  "categories": [
+   "Management",
+   "Tips"
+  ],
+  "author": "Lucas Costa",
+  "summary": "(1) A project succeeds when it solves the problem. Compliance with the original specification is merely one possible way to get there. (2) Scope cannot be known before the work begins. It can only become less wrong as the work proceeds.",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://watch.getcontrast.io/register/context-maturity-jul",
+  "title": "[Webinar] 8 Levels Of Context Maturity In AI-Native Engineering",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "Event AI Agents",
+  "categories": [
+   "Event",
+   "AI",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "AI is in your engineering workflow. While the token spend shows it, the throughput doesn't. The human is very much still in the loop, and that's a context problem. This free webinar maps the 8 levels of context maturity.",
+  "sponsored": true,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://ianreppel.org/how-successful-companies-go-blind/",
+  "title": "How Successful Companies Go Blind",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "Leadership Culture Strategy",
+  "categories": [
+   "Leadership",
+   "Culture",
+   "Strategy"
+  ],
+  "author": "Ian Reppel",
+  "summary": "“Companies who have forgotten what it took to become successful are similar: they stop recognizing competence, because the environment has stopped expressing the trait in anyone the company hires. Call it competence blindness.”",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+  "title": "In Defense Of Not Understanding Your Codebase",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "CareerGrowth CodeQuality",
+  "categories": [
+   "CareerGrowth",
+   "CodeQuality"
+  ],
+  "author": "Sean Goedeckey",
+  "summary": "“These are two largely different ways of programming with different methods, practices and cultures. However, the first group is over-represented in online discussion about software engineering. I want to defend the second group against the first.”",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://www.signadot.com/case-studies/how-bitso-scaled-delivery-with-coding-agents/",
+  "title": "How Bitso Cut Change Failure Rate 83% While Scaling Delivery With Coding Agents",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "CaseStudy Agents",
+  "categories": [
+   "CaseStudy",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "Bitso's 250+ engineers and their coding agents push changes across 200+ microservices, and shared staging was always broken. They replaced full-stack preview environments with Signadot sandboxes that fork only the changed services per PR.",
+  "sponsored": true,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://softwaredoug.com/blog/2026/07/13/who-want-to-be",
+  "title": "Don't Ask What You Want. Ask Who You Want To Be",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "CareerGrowth Wellbeing",
+  "categories": [
+   "CareerGrowth",
+   "Wellbeing"
+  ],
+  "author": "Doug Turnbull",
+  "summary": "In almost any large dataset drawn from the real world (populations of cities, lengths of rivers, prices, earthquake depths, company revenues) the leading digit is not uniformly distributed. The digit 1 appears as the first digit about 30% of the time.",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://blog.gaborkoos.com/posts/2026-07-19-Beyond-Happy-Path-Engineering-Time/",
+  "title": "Beyond Happy Path Engineering: Time",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "DeepDive DistributedSystems",
+  "categories": [
+   "DeepDive",
+   "DistributedSystems"
+  ],
+  "author": "Gabor Koos",
+  "summary": "This series is about making your programs more resilient. Each post looks at one part of the system we take for granted: networks, time, databases, storage, users, dependencies, deployments, queues, and concurrency.",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://newsletter.francofernando.com/p/the-depth-first-search-pattern-exploring",
+  "title": "The Depth-First Search Pattern: Exploring Trees And Graphs",
+  "issue": 735,
+  "date": "2026-07-21",
+  "date_display": "21 July 2026",
+  "category": "DeepDive Algo",
+  "categories": [
+   "DeepDive",
+   "Algo"
+  ],
+  "author": "Franco Fernando",
+  "summary": "“DFS is the pattern you reach for when you need to find a path, check if something is reachable, or explore all possible paths through a structure. It works on trees, graphs, and many problems that can be represented as graphs.”",
+  "sponsored": false,
+  "source_thread_id": "19f848d26bdc59ec"
+ },
+ {
+  "url": "https://annievella.com/posts/the-productivity-experience-paradox/",
+  "title": "The Productivity-Experience Paradox",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Leadership AI DevEx",
+  "categories": [
+   "Leadership",
+   "AI",
+   "DevEx"
+  ],
+  "author": "Annie Vella",
+  "summary": "“If experience and productivity really are decoupling with AI, will leaders still be able to justify caring about developer experience? I really hope so, but the case for investing in it was always that it paid off in output.”",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://alifeengineered.substack.com/p/the-art-of-dealing-with-ambiguity-89d",
+  "title": "The Art Of Dealing With Ambiguity",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Leadership Management CareerGrowth",
+  "categories": [
+   "Leadership",
+   "Management",
+   "CareerGrowth"
+  ],
+  "author": "Steve Huynh",
+  "summary": "“The magic happens when you reframe ambiguity as an opportunity to define the problem space. Once you've established clear boundaries, success metrics, and constraints, the fog lifts, and the path forward materializes.”",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://coderabbit.link/pointer",
+  "title": "Review The Actual Change, Not The File List.",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Tools+Setup AI CodeReview",
+  "categories": [
+   "Tools+Setup",
+   "AI",
+   "CodeReview"
+  ],
+  "author": null,
+  "summary": "AI writes more code than ever. Reviewing it shouldn't mean scrolling forty files in alphabetical order. CodeRabbit Review reorganizes any pull request from a flat file list into a structured, layer-by-layer walkthrough.",
+  "sponsored": true,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/defensible-but-not-good",
+  "title": "Defensible, But Not Good",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Leadership DecisionMaking Culture",
+  "categories": [
+   "Leadership",
+   "DecisionMaking",
+   "Culture"
+  ],
+  "author": "Wes Kao",
+  "summary": "“It’s a natural human tendency to optimize for “not getting into trouble” rather than “figuring out the truth.” Even environments that pride themselves on rejecting mediocrity can fall into this trap of surface-level adequacy.”",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+  "title": "Good Tools Are Invisible",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Tools+Setup DevEx",
+  "categories": [
+   "Tools+Setup",
+   "DevEx"
+  ],
+  "author": null,
+  "summary": "“A good tool is and ought to be invisible - striving to make such tools is the goal of a toolmaker. One habit I see a lot, and have to push back on, is taking a tool’s shortcomings and reselling them as a “puzzle game” which is “fun” to solve.”",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://www.signadot.com/blog/scaling-coding-agents-enterprise-kubernetes/",
+  "title": "Agents Write The Code. Environments Are The Bottleneck.",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Infrastructure DevEx Agents",
+  "categories": [
+   "Infrastructure",
+   "DevEx",
+   "Agents"
+  ],
+  "author": null,
+  "summary": "Coding agents pass unit tests but break things that only show up against real services and real data. Shared staging can't keep up: agents multiply PR volume and every change queues behind the last. Signadot gives each agent their own environment.",
+  "sponsored": true,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
+  "title": "Prefactoring: Clear The Way For Your New Feature",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Testing Guide",
+  "categories": [
+   "Testing",
+   "Guide"
+  ],
+  "author": "Rahul Singal",
+  "summary": "Prefactoring (short for 'preparatory refactoring') is the practice of reworking existing code to make it more suitable for an upcoming change before you actually implement the new functionality. Instead of cleaning up code as an afterthought.",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+  "title": "Everyone Should Know SIMD",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "Algo DeepDive Performance",
+  "categories": [
+   "Algo",
+   "DeepDive",
+   "Performance"
+  ],
+  "author": "Mitchell Hashimoto",
+  "summary": "“SIMD has a reputation for being complex. I've met many very good software engineers who dismiss it as something too complex to learn or a niche optimization meant for only the highest-performance software, not useful in everyday programming.”",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://ratfactor.com/cards/git-commit-size",
+  "title": "How Big Is A Git Commit?",
+  "issue": 736,
+  "date": "2026-07-24",
+  "date_display": "24 July 2026",
+  "category": "DeepDive Git",
+  "categories": [
+   "DeepDive",
+   "Git"
+  ],
+  "author": "Dave Gauer",
+  "summary": "It depends. Git stores objects as zlib compressed data. So the exact size of a commit will depend on the compressibility of your files (which is basically a function of the amount of repetition in them).",
+  "sponsored": false,
+  "source_thread_id": "19f945202fe86309"
+ },
+ {
+  "url": "https://blog.staysaasy.com/p/the-best-prioritization-is-no-prioritization",
+  "title": "The Best Prioritization Is No Prioritization",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "Management Strategy",
+  "categories": [
+   "Management",
+   "Strategy"
+  ],
+  "author": null,
+  "summary": "“Prioritization is a trap. It wastes time, wastes effort, and delivers worse results than just executing faster. Instead of spending your time prioritizing: (1) Spend more time focusing on building faster.”",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://www.anniez.xyz/p/mission-to-metrics",
+  "title": "Mission To Metrics",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Leadership Management Metrics",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Metrics"
+  ],
+  "author": "Annie Zhou",
+  "summary": "“Mission to Metrics is a written cascade, running from why the org exists down to the numbers that measure whether it’s getting there. Every team’s plan is a more detailed version of one slice of the layer above. Every metric traces back to the mission.”",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://mikefisher.substack.com/p/the-vital-few",
+  "title": "The Vital Few",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Leadership Management Retention",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Retention"
+  ],
+  "author": "Mike Fisher",
+  "summary": "“Stewardship is the actual work. It means giving your strongest people air cover, not just assignments. It means defending their focus from the steady drizzle of interruptions that drifts toward competence.”",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://coderabbit.link/pointer",
+  "title": "Review The Actual Change, Not The File List.",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Tools+Setup AI CodeReview",
+  "categories": [
+   "Tools+Setup",
+   "AI",
+   "CodeReview"
+  ],
+  "author": null,
+  "summary": "AI writes more code than ever. Reviewing it shouldn't mean scrolling forty files in alphabetical order. CodeRabbit Review reorganizes any pull request from a flat file list into a structured, layer-by-layer walkthrough.",
+  "sponsored": true,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://lethain.com/make-no-assumptions/",
+  "title": "Make No Assumptions",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Leadership AI CodeReview",
+  "categories": [
+   "Leadership",
+   "AI",
+   "CodeReview"
+  ],
+  "author": "Will Larson",
+  "summary": "“When that architect leaves, they are replaced by someone who aspires to operate in the same code layer, but simply cannot because they lack enough context to do so. As a result, that new replacement creates a new code layer, despite not intending to.”",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/the-state-of-ai-impact-in-engineering",
+  "title": "The State Of AI Impact In Engineering: Q2 2026",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Survey AI IndustryTrends",
+  "categories": [
+   "Survey",
+   "AI",
+   "IndustryTrends"
+  ],
+  "author": "Justin Reock",
+  "summary": "“Engineering leaders are now under immense pressure to justify exponentially-increasing AI budgets. The data from our Q2 report reveals that while AI is delivering objective gains in velocity, those gains are highly uneven.”",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://workos.com/pipes",
+  "title": "WorkOS Pipes: More Context Makes For Smarter Products",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Tools+Setup",
+  "categories": [
+   "Tools+Setup"
+  ],
+  "author": null,
+  "summary": "Users expect apps and agents to reach the tools they already work in. Every integration is a different OAuth flow, token lifecycle, and weeks of infra before you write product code. WorkOS Pipes handles it in one API call: 100+ pre-built connectors.",
+  "sponsored": true,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://careersatdoordash.com/blog/building-ask-doordash-part-four-a-platform-for-building_and_evolving_agents/",
+  "title": "Building Ask DoorDash: A Platform For Building and Evolving Agents",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Architecture PlatformEng Agents",
+  "categories": [
+   "Architecture",
+   "PlatformEng",
+   "Agents"
+  ],
+  "author": "Lucas Arango, Fabio Flores",
+  "summary": "“We built Ask DoorDash on a common platform that lets domain teams build and evolve their agents without rebuilding the systems beneath them. We judged the platform by two practical outcomes: how quickly teams could add features and domains.”",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://x.com/trq212/status/2080710971228918066?s=46",
+  "title": "The New Rules Of Context Engineering For Claude 5 Models",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Guide AI",
+  "categories": [
+   "Guide",
+   "AI"
+  ],
+  "author": "Thariq Shihipar",
+  "summary": "“Here’s what we’ve learned about prompting this new class of models, and how you can utilize it to update your context engineering. We’ve put these best practices in claude doctor, use the command /doctor in Claude Code to rightsize your skills, and CLAUDE.md files.”",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://lalitm.com/post/git-history/",
+  "title": "The Git History Command Deserves More Attention",
+  "issue": 737,
+  "date": "2026-07-28",
+  "date_display": "28 July 2026",
+  "category": "Git",
+  "categories": [
+   "Git"
+  ],
+  "author": "Lalit Maganti",
+  "summary": "Working with lots of changes in parallel on git can be painful. You end up juggling branches and commits, and running scary rebase -i commands that can leave your tree in a half-broken state if you so much as sneeze.",
+  "sponsored": false,
+  "source_thread_id": "19fa8ecab4ae71c1"
+ },
+ {
+  "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+  "title": "You Don't Have To Be Smart If You Can Think Clearly",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "The difference between a “smart” engineer and a “strong” engineer is how they react to problems that aren’t solved instantly. A smart engineer might flail and struggle, hoping to find that flash of insight that eluded them; a strong engineer will have some process for methodically plodding away.",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://coderabbit.link/pointer",
+  "title": "Review The Actual Change, Not The File List.",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "Tools+Setup AI CodeReview",
+  "categories": [
+   "Tools+Setup",
+   "AI",
+   "CodeReview"
+  ],
+  "author": null,
+  "summary": "AI writes more code than ever. Reviewing it shouldn't mean scrolling forty files in alphabetical order. CodeRabbit Review reorganizes any pull request from a flat file list into a structured, layer-by-layer walkthrough.",
+  "sponsored": true,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+  "title": "How I Find Problems To Solve As A Staff Engineer",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "CareerGrowth Staff+",
+  "categories": [
+   "CareerGrowth",
+   "Staff+"
+  ],
+  "author": "Lalit Maganti",
+  "summary": "“How do you find problems worth working on?” a senior engineer I mentor asked me recently. He’s trying to make the jump to staff engineer and realized that the role isn’t just about doing the work he’s assigned.",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+  "title": "The Economic Benefit Of Refactoring",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "TechDebt AI Agents",
+  "categories": [
+   "TechDebt",
+   "AI",
+   "Agents"
+  ],
+  "author": "Giles Edwards-Alexander",
+  "summary": "“The goal of refactoring an agentic code base is to spend tokens now in refactoring to make token consumption for future work lower. An experiment should be able to show that as this file was refactored the token cost of making separate feature implementations would decrease.”",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://falconer.com/notes/cerebras-knowledge-base",
+  "title": "Why Everything Breaks At 150 People",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "Management KnowledgeManagement Scale",
+  "categories": [
+   "Management",
+   "KnowledgeManagement",
+   "Scale"
+  ],
+  "author": "Dave Nunez",
+  "summary": "Cerebras's engineering post on building their internal knowledge base received millions of views. Here's what they got right, what they missed, and how to build a knowledge base that compounds as your company and swarm of agents grows.",
+  "sponsored": true,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
+  "title": "How Building Software Is Changing At Anthropic",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "DeepDive IndustryTrends AI",
+  "categories": [
+   "DeepDive",
+   "IndustryTrends",
+   "AI"
+  ],
+  "author": "Gergely Orosz",
+  "summary": "“A deepdive on what’s changed in how the leading AI lab makes software. Ever more code review and testing is done by AI, two-pizza teams very much alive, and more.”",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://sinja.io/blog/data-landscape-guide-for-developers",
+  "title": "Guide To Data Tools Landscape For Developers",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "Guide Tools+Setup DataEngineering",
+  "categories": [
+   "Guide",
+   "Tools+Setup",
+   "DataEngineering"
+  ],
+  "author": "Oleh Korniienko",
+  "summary": "In this article, we will briefly go over the data lifecycle: where data comes from, how it's handled, how it's stored, and how it's displayed. You will understand to which stage each particular tool belongs and which tasks it solves for people working with data.",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ },
+ {
+  "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+  "title": "How's Linear So Fast? A Technical Breakdown",
+  "issue": 738,
+  "date": "2026-07-31",
+  "date_display": "31 July 2026",
+  "category": "Architecture Performance DeepDive",
+  "categories": [
+   "Architecture",
+   "Performance",
+   "DeepDive"
+  ],
+  "author": "Dennis Brotzky",
+  "summary": "“A few milliseconds is all it takes to update an issue in Linear. A traditional CRUD app doing the same thing takes about 300ms. How do they do it? There's no secret silver bullet to performance. The reality is that it's built from the ground up on the right foundation.”",
+  "sponsored": false,
+  "source_thread_id": "19fb8442b870fe8e"
+ }
+]

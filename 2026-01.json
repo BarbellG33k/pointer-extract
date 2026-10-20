@@ -1,0 +1,1135 @@
+[
+ {
+  "url": "https://www.subbu.org/articles/2025/five-more-leadership-lessons/",
+  "title": "Five More Leadership Lessons",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Subbu Allamaraju",
+  "summary": "“A year ago, I compiled twenty tiny leadership lessons. That article resonated with many. Here are five more based on what I observed and felt in 2025. I hope you find these ideas helpful”: (1) Learn to deliver big things. (2) Don’t start with resources. (3) Share space. (4) There is more to technic",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://shreyasdoshi.substack.com/p/10-ideas-for-2026",
+  "title": "10 Ideas For 2026",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Shreyas Doshi",
+  "summary": "“Thinking is the foundation of everything we do and, for most of us that foundation has many cracks. Here are 10 ideas to consider in 2026. These ideas are not for everyone, but useful for some.”",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://resolve.ai/blog/how-to-evaluate-an-ai-sre",
+  "title": "6 Criteria For Evaluating An AI SRE",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "BestPractices AI",
+  "categories": [
+   "BestPractices",
+   "AI"
+  ],
+  "author": "Manveer Sahota, Mayank Agarwal",
+  "summary": "AI has become a part of engineering, from code to prod. This year, more companies are mandated to utilize and optimize their workflows and output with AI. Discussions shift from “should we?” to “how do we choose the best tools?” This post covers the 6 evaluation criteria every engineering leader sho",
+  "sponsored": true,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://blog.staysaasy.com/p/delegating-complex-tasks",
+  "title": "Delegating Complex Tasks",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": null,
+  "summary": "Most leaders can delegate simple things - e.g. teams, metrics - pretty well. Most leaders struggle with delegating complex skills or responsibilities. Herein we’ll discuss two proven methods for delegating complex tasks that you can use right away - exponential training and suboptimal standardizatio",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://addyosmani.com/blog/ai-coding-workflow/",
+  "title": "My LLM Coding Workflow Going Into 2026",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "LLM Productivity",
+  "categories": [
+   "LLM",
+   "Productivity"
+  ],
+  "author": "Addy Osmani",
+  "summary": "“In this article, I’ll share how I plan, code, and collaborate with AI going into 2026, distilling tips and best practices from my experience and the community’s collective learning. It’s a more disciplined “AI-assisted engineering” approach - leveraging AI aggressively while staying proudly account",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://www.browserstack.com/test-reporting-and-analytics/ai-agents",
+  "title": "What If Test Failure Analysis Took Minutes, Not Hours?",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "Performance AI",
+  "categories": [
+   "Performance",
+   "AI"
+  ],
+  "author": null,
+  "summary": "As AI helps teams ship more code, the real slowdown has shifted to test failures. Every red build still kicks off a manual 28-minute hunt across logs, past runs, stack traces, and Jira tickets. BrowserStack's Test Failure Analysis Agent eliminates that hunt by synthesising test reports, logs, stack",
+  "sponsored": true,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/",
+  "title": "Stop Forwarding Errors, Start Designing Them",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "Tests",
+  "categories": [
+   "Tests"
+  ],
+  "author": null,
+  "summary": "“We have a name for this. We call it “Error Handling.” But in reality, it’s just Error Forwarding. We treat errors like hot potatoes—catch them, wrap them (maybe), and throw them up the stack as fast as possible.”",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://arpitbhayani.me/blogs/clock-sync-nightmare/",
+  "title": "Clock Synchronization Is A Nightmare",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "LanguageDesign",
+  "categories": [
+   "LanguageDesign"
+  ],
+  "author": "Arpit Bhayani",
+  "summary": "“Clock synchronization sits at the core of some of the most challenging problems in distributed systems, affecting everything from database consistency to debugging to financial transactions.”",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://muratbuffalo.blogspot.com/2026/01/too-close-to-our-own-image.html",
+  "title": "Too Close to Our Own Image?",
+  "issue": 679,
+  "date": "2026-01-06",
+  "date_display": "6 January 2026",
+  "category": "TimeData DeepDive",
+  "categories": [
+   "TimeData",
+   "DeepDive"
+  ],
+  "author": "Murat Demirbas",
+  "summary": "“A paper in Nature reports that GPT-4 exhibits “state anxiety”. When exposed to traumatic narratives, the model’s responses score much higher on a standard psychological anxiety inventory. The jump is large, from “low anxiety” to levels comparable to highly anxious humans. The same study finds that",
+  "sponsored": false,
+  "source_thread_id": "19b93d43f4a7f3c9"
+ },
+ {
+  "url": "https://longform.asmartbear.com/focus/",
+  "title": "Creating Space",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Jason Cohen",
+  "summary": "“A single word of advice, given to all startups, and to CEOs of large companies, and they in turn to their teams: “Focus!” But what does that mean, precisely? And anyway isn’t quantity sometimes in fact better than quality? Don’t we need to test a bunch of stuff instead of trying to make one thing w",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://brianguthrie.com/p/the-move-faster-manifesto/",
+  "title": "The Move Faster Manifesto",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Brian Guthrie",
+  "summary": "“Moving slowly is often a choice: everyone involved has decided that speed is a subordinate requirement to talking to all the right people, writing all the right documents, and ticking all the right boxes. Sometimes that’s necessary. But the hardest part of moving fast isn’t execution; it’s deciding",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://upsun.com/blog/when-the-cloud-goes-dark/",
+  "title": "What Every IT Leader Should Have Ready Before The Next Outage",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": null,
+  "summary": "Outages don’t fail because of code. They fail because of hidden dependencies, brittle environments, and assumptions no one remembers making. This deep dive breaks down: (1) What actually fails first in cloud outages. (2) Why “multi-AZ” isn’t a safety net. (3) How teams design for failure before it h",
+  "sponsored": true,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://mikefisher.substack.com/p/culture-debt",
+  "title": "Culture Debt",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Leadership Management Culture",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Culture"
+  ],
+  "author": "Mike Fisher",
+  "summary": "“Technical debt, as I’ve written before, isn’t a moral failing, it’s a strategic tradeoff. You cut a corner today to move faster, knowing you’ll need to revisit that corner tomorrow. The danger isn’t the debt itself, but ignoring its interest. Culture debt works the same way, except the corners you",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://addyosmani.com/blog/next-two-years/",
+  "title": "The Next Two Years Of Software Engineering",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Addy Osmani",
+  "summary": "“Below are five critical questions that may shape software engineering through 2026, with two contrasting scenarios for each. These aren’t really predictions, but lenses for preparation. The goal is a clear roadmap for handling what comes next, grounded in current data and tempered by the healthy sk",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://fusionauth.link/3Yrzq6J",
+  "title": "User Identity Isn’t Complete Without Authorization",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Security Guide",
+  "categories": [
+   "Security",
+   "Guide"
+  ],
+  "author": "Mark Van Oppen",
+  "summary": "Engineering teams solved authentication, but authorization has become the bottleneck. Separate AuthN/AuthZ systems create fragmentation and performance issues. FusionAuth's acquisition of Permify unifies identity and authorization, and delivers sub-10ms permission checks with fine-grained control (R",
+  "sponsored": true,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://www.workingsoftware.dev/the-ultimate-list-of-software-architecture-books",
+  "title": "The Ultimate List Of Best Software Architecture Books (2026)",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Architecture Books",
+  "categories": [
+   "Architecture",
+   "Books"
+  ],
+  "author": "Patrick Roos",
+  "summary": "“In this blog post, I present you a list of the best software architecture books you should read in 2026, and what interesting software architecture books will be published in 2026.”",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
+  "title": "Databases In 2025: A Year In Review",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Database",
+  "categories": [
+   "Database"
+  ],
+  "author": "Andy Pavlo",
+  "summary": "Postgres kept consolidating power in 2025: major DBaaS buys, new sharding efforts, and cloud vendors doubling down. Meanwhile, DBs raced to add MCP for LLM / agent access-raising serious guardrail / security needs. File formats reignited, consolidation accelerated, and GPU-first DBs fizzled.",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
+  "title": "A Data Model For Git",
+  "issue": 680,
+  "date": "2026-01-09",
+  "date_display": "9 January 2026",
+  "category": "Git",
+  "categories": [
+   "Git"
+  ],
+  "author": "Julia Evans",
+  "summary": "“I asked for test readers on Mastodon to read the current version of documentation and tell me what they find confusing or what questions they have. About 80 test readers left comments, and I learned so much!”",
+  "sponsored": false,
+  "source_thread_id": "19ba36835cc07e65"
+ },
+ {
+  "url": "https://scalingimpacteng.substack.com/p/manager-director-difference-what-how-why",
+  "title": "The Difference Between Manager And Director",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Nick Zylkowski",
+  "summary": "“I was recently asked: “What’s the difference between a manager and a director?” I answered back then, focusing on the business orientation of the role, operating at a higher level, and redefining how you know if your team is operating well. But the question stayed with me. It’s a good one.”",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://abdulapopoola.com/2025/12/01/the-quiet-discipline-of-great-engineering-teams/",
+  "title": "The Quiet Discipline of Great Engineering Teams",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "AbdulFattah Popoola",
+  "summary": "“Engineering fundamentals are the systems and disciplines that make performance predictable: uptime, security, compliance, performance, and quality. They’re not temporary initiatives or quarterly projects; they’re ongoing practices that prevent drift. Strong fundamentals bring peace of mind.”",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://wingassistant.com/newsletter/",
+  "title": "Your Team Is Losing Hours to Invisible Admin Work",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "Leadership Management Productivity",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Productivity"
+  ],
+  "author": null,
+  "summary": "Wing gives you a dedicated, trained assistant who handles scheduling, follow-ups, and daily coordination. Reclaim 20-25 hours a week and keep your team focused on momentum, not inbox management.",
+  "sponsored": true,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://marcgg.com/blog/2024/11/20/standup/",
+  "title": "The Way I Run Standup Meetings",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Marc Gauthier",
+  "summary": "“I love the concept of a daily standup meeting. That’s even usually the first thing I setup when joining a team if it’s not there already. However I don’t really run standups like daily scrums, so I figured it’d be interesting to share.”",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://bastrich.tech/perfect-code-review/",
+  "title": "The PERFECT Code Review: How to Reduce Cognitive Load While Improving Quality",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "CodeReview",
+  "categories": [
+   "CodeReview"
+  ],
+  "author": "Daniil Bastrich",
+  "summary": "“I’ve distilled a healthy, sustainable review process into an acronym: PERFECT. It prioritizes what truly matters - from business logic and edge cases to reliability and readability - while keeping subjective opinions in check. Here is how you can apply these principles to bring structure, clarity,",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://workos.com/docs/pipes",
+  "title": "How to Ship Third-Party Integrations Without Rebuilding OAuth",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "Guide",
+  "categories": [
+   "Guide"
+  ],
+  "author": null,
+  "summary": "Integrations with services like GitHub, Slack, Google, or Salesforce all require the same plumbing, including OAuth flows, token storage, refresh logic, and provider quirks. WorkOS Pipes removes that overhead. Users connect accounts through a simple widget, and your app makes one API call to retriev",
+  "sponsored": true,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://blog.alexewerlof.com/p/ai-systems-engineering-patterns",
+  "title": "AI Systems Engineering Patterns",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "AI",
+  "categories": [
+   "AI"
+  ],
+  "author": "Alex Ewerlöf",
+  "summary": "“My goal is to break the barrier for senior engineers and technical leaders (CTO, Principal, Staff) to show you that “AI” is in fact our home turf where our hard gained experience still applies slightly different perspectives and nuances.”",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://tomtunguz.com/2026-predictions/",
+  "title": "12 Predictions For 2026",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "ThoughtPiece",
+  "categories": [
+   "ThoughtPiece"
+  ],
+  "author": "Tomasz Tunguz",
+  "summary": "“Every year I make a list of predictions & score last year’s predictions. 2025 was a good year : I scored 7.85 out of 10. I will release the scoring tomorrow. For today, here are my predictions for 2026.”",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://slack.engineering/streamlining-security-investigations-with-agents/",
+  "title": "Streamlining Security Investigations With Agents",
+  "issue": 681,
+  "date": "2026-01-13",
+  "date_display": "13 January 2026",
+  "category": "AI",
+  "categories": [
+   "AI"
+  ],
+  "author": "Dominic Marks",
+  "summary": "“We’re going to show you how we’re using AI agents to optimize our working efficiency and strengthen Slack’s security defenses. This post is the first in a series that will unpack some of the design choices we’ve made and the many things we’ve learnt along the way.”",
+  "sponsored": false,
+  "source_thread_id": "19bb828b47b8d825"
+ },
+ {
+  "url": "https://boz.com/articles/prioritize-relatively",
+  "title": "Prioritize Relatively",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Andrew Bosworth",
+  "summary": "“Too often, people debate new work in absolute terms. They describe how good an idea is. How exciting. How valuable it could be. That framing is almost always unproductive.”",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://www.annashipman.co.uk/jfdi/engineer-exec-translation.html",
+  "title": "The Engineer To Executive Translation Layer",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Anna Shipman",
+  "summary": "“As a CTO, I know that engineers on my team have had that experience; and as a member of the executive team I also know that there can be multiple challenges that get in the way of requests, suggestions or ideas from engineering. Today I’d like to demystify this and give you some practical steps you",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://upsun.com/blog/multi-cloud-made-simple/",
+  "title": "Multi-Cloud Without The Headaches",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Management Cloud",
+  "categories": [
+   "Management",
+   "Cloud"
+  ],
+  "author": null,
+  "summary": "Most teams don’t need “multi-cloud.” They need freedom to move without rewriting everything. This article explains: (1) What multi-cloud actually means in practice. (2) When it’s worth the complexity (and when it’s not). (3) How engineering teams keep portability without slowing delivery. No buzzwor",
+  "sponsored": true,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://theengineeringmanager.substack.com/p/one-bottleneck-at-a-time",
+  "title": "One Bottleneck At A Time",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "James Stanier",
+  "summary": "“Most leaders spread their effort across many initiatives simultaneously, making partial progress on everything and completing nothing. The insight we’ll explore is that systems don’t work that way: there’s always one constraint that matters most, and focusing elsewhere is, at best, wasted effort.”",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://addyosmani.com/blog/good-spec/",
+  "title": "How To Write A Good Spec For AI Agents",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Guide AI",
+  "categories": [
+   "Guide",
+   "AI"
+  ],
+  "author": "Addy Osmani",
+  "summary": "“Aim for a clear spec covering just enough nuance (this may include structure, style, testing, boundaries) to guide the AI without overwhelming it. Break large tasks into smaller ones vs. keeping everything in one large prompt. Plan first in read-only mode, then execute and iterate continuously.”",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://buf.build/resources/data-engineering-design-patterns",
+  "title": "Data Engineering Design Patterns",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Guide Design",
+  "categories": [
+   "Guide",
+   "Design"
+  ],
+  "author": null,
+  "summary": "Buf Schema Registry brings type safety to data pipelines with Protobuf. Manage schemas centrally, validate changes, and generate Python code automatically. Plus: Buf is giving away an O'Reilly Media book, Data Engineering Design Patterns with proven solutions to idempotency, error handling, observab",
+  "sponsored": true,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://www.ablg.io/blog/no-management-needed",
+  "title": "No Management Needed: Anti-Patterns In Early-Stage Engineering Teams",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Leadership Management Antipattern",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Antipattern"
+  ],
+  "author": "Antoine Boulanger",
+  "summary": "“This article is for early-stage (Seed, Series A) founders who think they have engineering management problems - building eng teams, motivating and performance-managing engineers, structuring work/projects, prioritizing, shipping on time.”",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://www.uber.com/en-IN/blog/from-static-rate-limiting-to-intelligent-load-management",
+  "title": "How Uber Conquered Database Overload",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Architecture",
+  "categories": [
+   "Architecture"
+  ],
+  "author": null,
+  "summary": "“The cost of getting overload protection wrong is steep. This blog shares how we built an intelligent load manager that detects overload from multiple signals to keep our databases stable and fair under pressure.”",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://dropbox.tech/machine-learning/feature-store-powering-realtime-ai-in-dropbox-dash",
+  "title": "Inside The Feature Store Powering Real-Time AI In Dropbox Dash",
+  "issue": 682,
+  "date": "2026-01-16",
+  "date_display": "16 January 2026",
+  "category": "Architecture AI",
+  "categories": [
+   "Architecture",
+   "AI"
+  ],
+  "author": "Artem Nabirkin, Jason Shang",
+  "summary": "“In this post, we’ll walk through how we built the feature store behind Dash’s ranking system, why off-the-shelf solutions didn’t fit, how we designed for speed and scale, and what it takes to keep features fresh as user behavior changes. Along the way, we’ll share the tradeoffs we made and the less",
+  "sponsored": false,
+  "source_thread_id": "19bc709622f9a502"
+ },
+ {
+  "url": "https://boz.com/articles/think-pavlov",
+  "title": "Think Of Pavlov",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Andrew Bosworth",
+  "summary": "“Every interaction is training the people around you. After it’s over, they’ll like you a little more or a little less. They’ll be more or less likely to bring you problems. They’ll be more or less likely to recommend you or avoid you. And just as important, you’re training them on the type of probl",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://martinfowler.com/articles/stop-picking-sides.html",
+  "title": "Stop Picking Sides",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Jim Highsmith",
+  "summary": "“Many teams have turned into tribes wedded to exclusively adaptation or optimization. But this misses the point that both of these are important, and we need to manage the tension between them. We can do this by thinking of two operating modes: explore (adaptation-dominant) and exploit (optimization",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://app0.resolve.ai/",
+  "title": "Farming For Dissent - Resolve AI Playground",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Management Tools",
+  "categories": [
+   "Management",
+   "Tools"
+  ],
+  "author": null,
+  "summary": "Resolve AI works across your observability tools, infra, and code to provide real-time root cause analysis, prescriptive remediation, and continuous learning from every incident. Try it out for yourself in the Resolve AI playground. Ask Resolve AI to do things like: “Find traces where latency was lo",
+  "sponsored": true,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
+  "title": "Why Senior Engineers Let Bad Projects Fail",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Lalit Maganti",
+  "summary": "“So if you cannot stop all the bad projects, what do you do? You get strategic. Instead of trying to fix everything, view your influence as a bank account. You have a certain amount of “influence” coming in every month as you do your job, help people, ship successful projects, and generally remain l",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://andreasfragner.com/writing/three-ways-to-solve-problems",
+  "title": "Three Ways To Solve Problems",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Andreas Fragner",
+  "summary": "One of my favorite definitions of a problem comes from the late Gerald Weinberg: “A problem is the difference between things as perceived and desired.” This definition is great because it’s actionable. It tells you that there are three ways to approach a problem.",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://www.propelauth.com/post/oauth2-in-simple-terms",
+  "title": "OAuth 2.1 In Simple Terms",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Guide",
+  "categories": [
+   "Guide"
+  ],
+  "author": "Andrew Israel",
+  "summary": "OAuth 2.1 is used in everything from Sign in with Google to integrating with third parties to MCP server authentication. Learn how it works with this article.",
+  "sponsored": true,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything",
+  "title": "LLM Predictions For 2026",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "AI LLM",
+  "categories": [
+   "AI",
+   "LLM"
+  ],
+  "author": "Simon Willison",
+  "summary": "“Bryan Cantrill started the episode by declaring that he’s never been so unsure about what’s coming in the next year. I share that uncertainty — the significant advances in coding agents just in the last two months have left me certain that things will change significantly, but unclear as to what th",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://www.notion.com/blog/how-we-made-notion-available-offline",
+  "title": "How We Made Notion Available Offline",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Architecture",
+  "categories": [
+   "Architecture"
+  ],
+  "author": "Raymond Xu",
+  "summary": "“Last August, we announced that users could create, edit, and view Notion pages without an internet connection. “Offline Mode” was our #1 requested feature for many years, but Notion's unique block architecture meant we had to solve several challenging problems around reference tracking, background",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://howbrowserswork.com/",
+  "title": "How Browsers Work",
+  "issue": 683,
+  "date": "2026-01-20",
+  "date_display": "20 January 2026",
+  "category": "Browser Guide",
+  "categories": [
+   "Browser",
+   "Guide"
+  ],
+  "author": null,
+  "summary": "“The guide is for engineers and curious people who use the web every day, but never built a mental model of how browsers work. I find most guides too technical, too detailed, or too shallow, so I have decided to take a different approach. I built the guide with many tiny interactive examples you can",
+  "sponsored": false,
+  "source_thread_id": "19bdb9b22fd39674"
+ },
+ {
+  "url": "https://larahogan.me/blog/creating-momentum-when-an-employee-is-stuck/",
+  "title": "Creating Momentum When An Employee Is Stuck",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Lara Hogan",
+  "summary": "“So what do you do when you’re working with a teammate who is stuck in a cycle of unhelpful or unproductive behavior? You’ve got empathy for them; you don’t want to be a jerk about it. But you still need this person to change course and start moving forward.”",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/avoid-asap-and-high-strung-words",
+  "title": "Avoid “ASAP” And Other High-Strung, Non-Specific Words",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Wes Kao",
+  "summary": "“Vague language can have a large (negative) blast radius when used haphazardly. It can create anything from avoidable anxiety to hours spent going in the wrong direction due to miscommunication. Yet, it’s surprisingly common in the workplace. Most of us have used vague language at work, and have bee",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://upsun.com/blog/yard-cws-25m-requests-zero-downtime/",
+  "title": "25M Requests. Zero Downtime.",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Management Cloud",
+  "categories": [
+   "Management",
+   "Cloud"
+  ],
+  "author": null,
+  "summary": "Scaling isn’t about traffic spikes. It’s about removing fragile steps before they break production. In this case study, see how Yard handled: (1) 25M+ requests in production. (2) Zero-downtime deployments. (3) Predictable scaling without infra rewrites. A real-world look at reliability under pressur",
+  "sponsored": true,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://hawksley.org/2026/01/14/beyond-senior.html",
+  "title": "Beyond Senior: Consider The Staff Path!",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Leadership Management CareerAdvice",
+  "categories": [
+   "Leadership",
+   "Management",
+   "CareerAdvice"
+  ],
+  "author": "Joel Hawksley",
+  "summary": "“The senior role is a crossroads. At many companies, it’s the farthest you can go as an individual contributor. You basically have one option for promotion: management. But it doesn’t have to be this way. Your journey as an individual contributor doesn’t have to stop at senior. There is sometimes an",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer",
+  "title": "The Product-Minded Engineer: The Importance Of Good Errors And Warnings",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Guide",
+  "categories": [
+   "Guide"
+  ],
+  "author": "Gergely Orosz",
+  "summary": "“Crafting well-structured diagnostics with useful messages is an incredibly valuable and high-leverage way to spend your time. For many applications and platforms with complex and open-ended inputs, diagnostics are the primary interface - the vast majority of the user’s time will be spent dealing wi",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://fandf.co/4pMORBJ",
+  "title": "What We Learned Accelerating 100 Million Builds In 2025",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Platform Tools",
+  "categories": [
+   "Platform",
+   "Tools"
+  ],
+  "author": "Kyle Galbraith",
+  "summary": "Kyle Galbraith, CEO of Depot, shares insights from processing 100 million builds in 2025 and saving teams 968 years of build time. Learn why external systems can be the biggest scaling challenge, how data becomes infrastructure, and why AI coding agents mean the bottleneck has shifted from writing c",
+  "sponsored": true,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns",
+  "title": "Life Altering Postgresql Patterns",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "PostgreSQL",
+  "categories": [
+   "PostgreSQL"
+  ],
+  "author": "Ethan McCue",
+  "summary": "“There is a set of things that you can do when working with a Postgres database which I have found made my and my coworker's lives much more pleasant. Each one is by itself small, but in aggregate have a noticeable effect.”",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://steveklabnik.com/writing/agentic-development-basics/",
+  "title": "Agentic Development Basics",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "Agents AI",
+  "categories": [
+   "Agents",
+   "AI"
+  ],
+  "author": "Steve Klabnik",
+  "summary": "“I’m going to warn you about this post: I hope that by the end of it, you’re a little frustrated. This is because I don’t think it’s productive to skip to the tools and techniques that experienced users use yet. We have to walk before we run. And more importantly, we have to understand how and why w",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://endler.dev/2025/how-to-review-code",
+  "title": "How To Review Code",
+  "issue": 684,
+  "date": "2026-01-23",
+  "date_display": "23 January 2026",
+  "category": "CodeReview Guide",
+  "categories": [
+   "CodeReview",
+   "Guide"
+  ],
+  "author": "Matthias Endler",
+  "summary": "“I’ve been reviewing other people’s code for a while now, more than two decades to be precise. Nowadays, I spend around 50-70% of my time reviewing code in some form or another. It’s what I get paid to do, alongside systems design. Over time, I learned a thing or two about how to review code effecti",
+  "sponsored": false,
+  "source_thread_id": "19beb0ea56e3399b"
+ },
+ {
+  "url": "https://mikefisher.substack.com/p/the-shape-of-leadership",
+  "title": "The Shape Of Leadership",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Mike Fisher",
+  "summary": "“I’ve been thinking about these two patterns as a metaphor for leadership, because they reveal something important that many leaders struggle to articulate: there isn’t one “right” way to organize people. There are only patterns that fit the moment, and patterns that don’t.”",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://bjorg.bjornroche.com/management/autonomy-vs-clarity/",
+  "title": "Autonomy And Clarity In Leadership Styles",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Bjorn Roche",
+  "summary": "“Over the years I’ve gone back and forth about the right approach to management and leadership – should you give your team autonomy and trust to develop solutions themselves, or should you give them specific objectives and direct the team in a hands-on way? Should you come to the table with a strong",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://hubs.la/Q03_tCrG0",
+  "title": "Why Pentests Break Engineering Workflows (And What Actually Works Instead)",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "Management Tests",
+  "categories": [
+   "Management",
+   "Tests"
+  ],
+  "author": "Sherif Koussa",
+  "summary": "After a few cycles, you begin to notice recurring negative patterns in penetration testing. The severity levels do not align with actual risks, leading to a loss of trust in the process. As a result, the report turns into a static document rather than a useful tool for teams. The most effective test",
+  "sponsored": true,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://lethain.com/curiosity-first-step-problem-solving/",
+  "title": "Curiosity Is The First-Step In Problem Solving",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Will Larson",
+  "summary": "“Of everything I’ve tried, demonstrating curiosity is consistently the best technique I’ve found to reduce the cost of being wrong. These days, if I regret being wrong about something, it’s almost always because I engaged in problem solving before exercising curiosity. I feel this so strongly that “",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://www.seangoedecke.com/how-i-estimate-work/",
+  "title": "How I Estimate Work As A Staff Software Engineer",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "Sean Goedecke",
+  "summary": "“The common view is that a manager proposes some technical project, the team gets together to figure out how long it would take to build, and then the manager makes staffing and planning decisions with that information. In fact, it’s the reverse: a manager comes to the team with an estimate already",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://hello.descope.com/mcp-webinar-2025",
+  "title": "Take AI Agents From Playground To Production",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "Agents AI",
+  "categories": [
+   "Agents",
+   "AI"
+  ],
+  "author": null,
+  "summary": "Everyone is experimenting with AI agents and MCP servers, but how many are truly production-ready? Identity, auth, and access control are often the hidden blockers. In this on-demand webinar, we explore real-world MCP use cases, the agentic identity challenges teams hit in production, and actionable",
+  "sponsored": true,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04",
+  "title": "Welcome To Gas Town",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "ThoughtPiece AI",
+  "categories": [
+   "ThoughtPiece",
+   "AI"
+  ],
+  "author": "Steve Yegge",
+  "summary": "“Gas Town workers are regular coding agents, each prompted to play one of seven well-defined worker roles. There are some other key concepts I’ll briefly introduce, along with the roles, like Towns and Rigs.”",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://atlas9.dev/blog/soft-delete.html",
+  "title": "The Challenges Of Soft Delete",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "BestPractices",
+  "categories": [
+   "BestPractices"
+  ],
+  "author": null,
+  "summary": "Software projects often implement \"soft delete\", maybe with a deleted boolean or an archived_at timestamp column. If customers accidentally delete their data, they can recover it, which makes work easier for customer support teams. Perhaps archived records are even required for compliance or audit r",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://tiespetersen.substack.com/p/i-got-paid-minimum-wage-to-solve",
+  "title": "I Got Paid Minimum Wage To Solve An Impossible Problem",
+  "issue": 685,
+  "date": "2026-01-27",
+  "date_display": "27 January 2026",
+  "category": "DeepDive",
+  "categories": [
+   "DeepDive"
+  ],
+  "author": "Ties Petersen",
+  "summary": "“Sweeping the entire Albert Heijn floor. Sounds simple. And should’ve been simple. But I’m a Computer Science student, with a problem: I can’t stop trying to optimize things that (probably) don’t need optimizing. So instead of just doing my job and, well… sweeping… I did what any “reasonable” person",
+  "sponsored": false,
+  "source_thread_id": "19c001490e909930"
+ },
+ {
+  "url": "https://edbatista.com/2026/01/how-to-facilitate-a-conflict-on-your-team.html",
+  "title": "How To Facilitate A Conflict On Your Team",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Ed Batista",
+  "summary": "“As a leader there’s an easy way to conclude any conflict on your team: simply decide who’s right. And there are times when you must arbitrate disputes. But leaders sometimes adopt this approach reflexively, in part because it offers certain rewards: It’s efficient. It feels good to be viewed as an",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://www.jampa.dev/p/lessons-learned-after-10-years-as",
+  "title": "Things I’ve Learned In My 10 Years As An Engineering Manager",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Jampa Uchoa",
+  "summary": "“I’ve worked across four companies as a manager, one as a founder, and another as a manager of managers. I will skip the standard advice and lessons on Engineering Management and focus on the non-obvious ones.”",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://hubs.ly/Q03_tC0J0",
+  "title": "How to Ship Fast Without Shipping Risk: The Security Of AI-Assisted Software Development",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "Security AI",
+  "categories": [
+   "Security",
+   "AI"
+  ],
+  "author": "Sherif Koussa",
+  "summary": "The data is clear: AI coding assistants have crossed the chasm from experimental to enterprise-critical. With 90% of Fortune 100 companies now using GitHub Copilot and over 20 million developers adopting AI coding tools as of July 2025, we're witnessing the fastest technology adoption curve in softw",
+  "sponsored": true,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://www.ctologic.pro/p/how-to-measure-engineering-roi",
+  "title": "The Hitchhiker’s Guide To Measuring Engineering ROI",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Itzy Sabo",
+  "summary": "“The engineering department’s job is to build and maintain the company’s core revenue engine. Engineering, therefore, obviously plays a central role in the company’s success. Attempts to attribute a fair portion of the company’s business outcomes to the engineering department are seriously challenge",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://cutlefish.substack.com/p/tbm-399-10-prioritization-traps",
+  "title": "10 Prioritization Traps",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "CareerAdvice",
+  "categories": [
+   "CareerAdvice"
+  ],
+  "author": "John Cutler",
+  "summary": "“I work at a startup where every second feels like a prioritization decision. There simply aren’t enough seconds in the day, and there’s an endless list of “should-haves” and “musts.” One thing I try to remind myself is that it isn’t about making perfect decisions, but about making marginally better",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://www.sonarsource.com/sem/the-state-of-code/developer-survey-report/",
+  "title": "2026 State Of Code Developer Survey Results Are In",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "Survey",
+  "categories": [
+   "Survey"
+  ],
+  "author": null,
+  "summary": "Did you know that 72% of developers who have tried AI use it every day? But while 96% of developers don’t fully trust its output, only 48% always verify it before committing. Download Sonar’s State of Code Developer Survey report to learn the impact of AI on software engineering workflows and how de",
+  "sponsored": true,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://hakibenita.com/postgresql-unconventional-optimizations",
+  "title": "Unconventional PostgreSQL Optimizations",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "PostgreSQL",
+  "categories": [
+   "PostgreSQL"
+  ],
+  "author": "Haki Benita",
+  "summary": "“When it comes to database optimization, developers often reach for the same old tools: rewrite the query slightly differently, slap an index on a column, denormalize, analyze, vacuum, cluster, repeat. Conventional techniques are effective, but sometimes being creative can really pay off!”",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
+  "title": "Assessing Internal Quality While Coding With An Agent",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "AI Agents",
+  "categories": [
+   "AI",
+   "Agents"
+  ],
+  "author": "Erik Doernenburg",
+  "summary": "“Let’s take a closer look at how the AI tooling performs when it comes to internal code quality. We’ll add a feature to an existing application with the help of an agent and look at what’s happening along the way. Of course, this makes it “just” an anecdote. This memo is by no means a study.”",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ },
+ {
+  "url": "https://www.linkedin.com/blog/engineering/search/reimagining-linkedins-search-stack",
+  "title": "Reimagining LinkedIn’s Search Tech Stack",
+  "issue": 686,
+  "date": "2026-01-30",
+  "date_display": "30 January 2026",
+  "category": "Search LLM",
+  "categories": [
+   "Search",
+   "LLM"
+  ],
+  "author": "Fedor Borisyuk",
+  "summary": "“In this blog, we’ll share how we transformed our overarching search experience at LinkedIn, including the challenges and decisions that went into creating a scalable LLM-based stack and how the technology is powering a smarter, faster, and more personalized experience that helps every member find t",
+  "sponsored": false,
+  "source_thread_id": "19c0f365ebe5878c"
+ }
+]

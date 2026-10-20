@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pointer.io Article Index</title>
+<style>
+:root{--bg:#f7f7f5;--fg:#1d1d1f;--mut:#6b6b6b;--line:#e2e2de;--acc:#2a5bd7;--card:#fff}
+*{box-sizing:border-box}
+body{margin:0;font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--fg)}
+header{padding:14px 20px;background:var(--card);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:2}
+h1{font-size:18px;margin:0 0 10px}
+h1 span{color:var(--mut);font-weight:normal;font-size:14px}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input[type=search]{flex:1 1 260px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;font:inherit}
+select,button{padding:7px 8px;border:1px solid var(--line);border-radius:6px;background:#fff;font:inherit;cursor:pointer}
+.meta{color:var(--mut);margin-left:auto}
+main{padding:12px 20px}
+.wrap{overflow:auto;border:1px solid var(--line);background:var(--card);max-height:calc(100vh - 150px)}
+table{width:100%;border-collapse:collapse}
+th,td{padding:7px 9px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{position:sticky;top:0;background:#fafaf8;cursor:pointer;user-select:none;white-space:nowrap;z-index:1}
+th.sorted::after{content:attr(data-arrow);margin-left:4px;color:var(--acc)}
+td.num{white-space:nowrap}
+td.sum{color:var(--mut);min-width:260px;max-width:460px}
+a{color:var(--acc);text-decoration:none}a:hover{text-decoration:underline}
+.tag{display:inline-block;padding:1px 7px;margin:1px;border-radius:10px;background:#eef1fb;color:#2a3f7a;font-size:12px;cursor:pointer;white-space:nowrap}
+.spon{background:#fff4e0;color:#8a5200;cursor:default}
+.url{display:inline-block;max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom}
+footer{padding:12px 20px;color:var(--mut);font-size:12px}
+</style></head>
+<body>
+<header>
+<h1>Pointer.io article index <span id="total"></span></h1>
+<div class="controls">
+<input id="q" type="search" placeholder="Search title, summary, author, category, URL, issue, date…">
+<select id="fMonth"><option value="">All months</option></select>
+<span id="catFilters" style="display:contents"></span>
+<select id="fSpon"><option value="">Sponsored: all</option><option value="no">Editorial only</option><option value="yes">Sponsored only</option></select>
+<select id="fIssue"><option value="">All issues</option></select>
+<button id="reset">Reset</button>
+<button id="csv">Export CSV</button>
+<span class="meta" id="count"></span>
+</div>
+</header>
+<main>
+<div class="wrap"><table>
+<thead><tr>
+<th data-k="date">Date</th><th data-k="issue">Issue</th><th data-k="title">Title</th><th data-k="category">Category</th><th data-k="author">Author</th><th data-k="sponsored">Sponsored</th><th data-k="url">URL</th><th data-k="summary">Summary</th>
+</tr></thead>
+<tbody id="rows"></tbody>
+</table></div>
+</main>
+<footer>Source: Gmail label Newsletters/Technical/Pointer.io. One record per article link. Tracking parameters (utm_*, aid) removed. Click a category tag to filter by it. Click a column header to sort.</footer>
+<script>
+const DATA = /*__DATA__*/[];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const uniq = a => [...new Set(a)];
+let sortK = 'date', sortDir = -1; // newest first by default
+
+uniq(DATA.map(r => r.date.slice(0, 7))).sort().reverse()
+  .forEach(m => $('fMonth').insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`));
+uniq(DATA.map(r => r.issue)).sort((a, b) => b - a)
+  .forEach(i => $('fIssue').insertAdjacentHTML('beforeend', `<option value="${i}">#${i}</option>`));
+$('total').textContent = `(${DATA.length} articles across ${uniq(DATA.map(r => r.issue)).length} issues)`;
+
+// Cascading category filters. categories[0] is the top level and each next
+// entry is a sublevel of the previous one. Matching is case-insensitive;
+// option labels keep the data's original casing.
+const catSels = [];
+const catWrap = $('catFilters');
+const catDepth = Math.max(1, ...DATA.map(r => (r.categories || []).length));
+for (let i = 0; i < catDepth; i++) {
+  const sel = document.createElement('select');
+  catWrap.appendChild(sel);
+  catSels.push(sel);
+}
+const catMatches = (r, lvl, val) =>
+  (r.categories || [])[lvl] && r.categories[lvl].toLowerCase() === val.toLowerCase();
+const catRows = lvl => DATA.filter(r =>
+  catSels.every((sel, i) => i >= lvl || !sel.value || catMatches(r, i, sel.value)));
+const catOptions = (rows, lvl) => {
+  const seen = [], keys = new Set();
+  rows.forEach(r => {
+    const c = (r.categories || [])[lvl];
+    if (!c) return;
+    const k = c.toLowerCase();
+    if (!keys.has(k)) { keys.add(k); seen.push(c); }
+  });
+  return seen.sort((a, b) => a.localeCompare(b));
+};
+function fillCat(sel, lvl) {
+  const cur = sel.value;
+  const opts = catOptions(catRows(lvl), lvl);
+  sel.innerHTML = `<option value="">${lvl ? 'All subcategories' : 'All categories'}</option>`;
+  opts.forEach(c => sel.insertAdjacentHTML('beforeend', `<option value="${esc(c)}">${esc(c)}</option>`));
+  sel.value = opts.find(c => c.toLowerCase() === cur.toLowerCase()) || '';
+}
+function refreshCats(changed) {
+  for (let i = changed + 1; i < catDepth; i++) {
+    fillCat(catSels[i], i);
+    catSels[i].hidden = i > 0 && (!catSels[i - 1].value || !catOptions(catRows(i), i).length);
+    if (catSels[i].hidden) catSels[i].value = '';
+  }
+  render();
+}
+catSels.forEach((sel, i) => sel.addEventListener('change', () => refreshCats(i)));
+refreshCats(-1);
+
+function filtered() {
+  const q = $('q').value.trim().toLowerCase();
+  const m = $('fMonth').value, s = $('fSpon').value, iss = $('fIssue').value;
+  const rows = DATA.filter(r =>
+    (!m || r.date.startsWith(m)) &&
+    catSels.every((sel, i) => !sel.value || catMatches(r, i, sel.value)) &&
+    (!s || (s === 'yes' ? r.sponsored : !r.sponsored)) &&
+    (!iss || String(r.issue) === iss) &&
+    (!q || [r.title, r.summary, r.author, r.category, r.url, '#' + r.issue, r.date, r.date_display]
+            .some(v => v && String(v).toLowerCase().includes(q))));
+  const k = sortK;
+  rows.sort((a, b) => {
+    let x = a[k], y = b[k];
+    if (k === 'sponsored') { x = a.sponsored ? 1 : 0; y = b.sponsored ? 1 : 0; }
+    if (k === 'issue') { x = +x; y = +y; }
+    x = x ?? ''; y = y ?? '';
+    if (x < y) return -1 * sortDir;
+    if (x > y) return 1 * sortDir;
+    return 0;
+  });
+  return rows;
+}
+
+function render() {
+  const rows = filtered();
+  $('rows').innerHTML = rows.map(r => `<tr>
+    <td class="num">${esc(r.date_display)}</td>
+    <td class="num">#${r.issue}</td>
+    <td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a></td>
+    <td>${(r.categories || []).length
+      ? r.categories.map((c, i) => `<span class="tag" data-lvl="${i}" data-cat="${esc(c)}">${esc(c)}</span>`).join('')
+      : (r.category ? `<span class="tag">${esc(r.category)}</span>` : '')}</td>
+    <td>${esc(r.author || '')}</td>
+    <td>${r.sponsored ? '<span class="tag spon">Sponsored</span>' : ''}</td>
+    <td><a class="url" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.url)}</a></td>
+    <td class="sum">${esc(r.summary || '')}</td></tr>`).join('');
+  $('count').textContent = `${rows.length} of ${DATA.length} shown`;
+  document.querySelectorAll('th').forEach(th => {
+    const on = th.dataset.k === sortK;
+    th.classList.toggle('sorted', on);
+    th.dataset.arrow = on ? (sortDir > 0 ? '▲' : '▼') : '';
+  });
+}
+
+['q', 'fMonth', 'fSpon', 'fIssue'].forEach(id => $(id).addEventListener('input', render));
+document.querySelectorAll('th').forEach(th => th.addEventListener('click', () => {
+  const k = th.dataset.k;
+  if (sortK === k) sortDir *= -1;
+  else { sortK = k; sortDir = (k === 'date' || k === 'issue') ? -1 : 1; }
+  render();
+}));
+const modeOf = (rows, lvl) => {
+  const cnt = {};
+  rows.forEach(r => { const c = (r.categories || [])[lvl]; if (c) cnt[c] = (cnt[c] || 0) + 1; });
+  return Object.entries(cnt).sort((a, b) => b[1] - a[1])[0]?.[0] || '';
+};
+$('rows').addEventListener('click', e => {
+  const t = e.target.closest('.tag[data-cat]');
+  if (!t) return;
+  const lvl = +t.dataset.lvl, val = t.dataset.cat;
+  const rows = DATA.filter(r => catMatches(r, lvl, val));
+  for (let i = 0; i < catDepth; i++) {
+    const sel = catSels[i];
+    if (i < lvl) sel.value = modeOf(rows, i);
+    fillCat(sel, i);
+    if (i === lvl) sel.value = [...sel.options].find(o => o.value.toLowerCase() === val.toLowerCase())?.value || '';
+    else if (i > lvl) sel.value = '';
+  }
+  refreshCats(-1);
+});
+$('reset').addEventListener('click', () => {
+  $('q').value = ''; ['fMonth', 'fSpon', 'fIssue'].forEach(id => $(id).value = '');
+  catSels.forEach(s => s.value = '');
+  refreshCats(-1);
+});
+function csvCell(v) {
+  v = v == null ? '' : String(v);
+  return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+}
+$('csv').addEventListener('click', () => {
+  const cols = ['date', 'issue', 'title', 'category', 'author', 'sponsored', 'url', 'summary'];
+  const lines = [cols.join(',')].concat(filtered().map(r =>
+    cols.map(c => csvCell(c === 'sponsored' ? (r.sponsored ? 'yes' : 'no') : r[c])).join(',')));
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([lines.join('\n')], {type: 'text/csv'}));
+  a.download = 'pointer-io-articles.csv';
+  a.click();
+});
+render();
+</script>
+</body></html>

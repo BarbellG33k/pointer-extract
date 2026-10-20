@@ -1,0 +1,1300 @@
+[
+ {
+  "url": "https://news.theuncommonexecutive.com/p/how-to-be-direct-and-strategic",
+  "title": "How To Be Direct And Strategic",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "Leadership Communication",
+  "categories": [
+   "Leadership",
+   "Communication"
+  ],
+  "author": "Yue Zhao",
+  "summary": "\"I saw an issue with a process on my team recently and brought it up directly in a team meeting a few days later. I was very direct about the problem, gave all the details, and explained how it impacted everyone. To my surprise, my manager shut it down completely, and now I cannot get any buy-in fro",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+  "title": "Drunk Post: Things I’ve Learned As A Senior Engineer",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "CareerGrowth BestPractices Entertaining",
+  "categories": [
+   "CareerGrowth",
+   "BestPractices",
+   "Entertaining"
+  ],
+  "author": "Kirill Bobrov",
+  "summary": "“A few years ago, a data engineer got drunk and wrote down everything he learned in 10 years of engineering. The original account is deleted, but the post captures something real — the kind of honesty you only get after a few glasses of wine. Preserving it here, typos and all.”",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://watch.getcontrast.io/register/unblocked-how-to-stop-babysitting-your-agents",
+  "title": "[Webinar] How To Stop Babysitting Your Agents",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "AI Agents Event",
+  "categories": [
+   "AI",
+   "Agents",
+   "Event"
+  ],
+  "author": null,
+  "summary": "Agents can generate code. Getting it right for your system is the hard part – you end up wasting time and tokens in the back and forth. More MCPs solve access but not understanding. Join us for a FREE webinar on May 6 to see how to give agents exactly what they need to generate mergeable code the fi",
+  "sponsored": true,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/speak-in-the-affirmative-do-this",
+  "title": "Speak In The Affirmative: \"Do This\" Versus \"Don't Do That\"",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "Leadership Management Communication",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Communication"
+  ],
+  "author": "Wes Kao",
+  "summary": "“It’s to your benefit to be as clear as possible when you speak or write, because clear communication helps you get what you need. One way to do this is to speak in the affirmative, rather than the negative... If you speak in negatives, your recipient has to take an extra mental step.”",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://www.chrismdp.com/coding-with-ai/",
+  "title": "How I Use AI To Code",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "AI Guide BestPractices",
+  "categories": [
+   "AI",
+   "Guide",
+   "BestPractices"
+  ],
+  "author": "Chris Parsons",
+  "summary": "A practitioner's guide to AI-assisted coding in 2026. Senior engineers should shift from reviewing AI-generated diffs to training the harness that produces them via CLAUDE.md files, skill files, and feedback loops. The bottleneck has moved from code generation to verification.",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://www.browserstack.com/events/breakpoint-2026",
+  "title": "How Engineering Leaders Are Actually Using AI To Improve Software Quality",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "AI Event",
+  "categories": [
+   "AI",
+   "Event"
+  ],
+  "author": null,
+  "summary": "Most teams aren't struggling with whether to use AI, they're struggling with how to use it well. At Breakpoint, speakers like Jason Huggins (creator of Selenium), Keith Klain, Ashley Hunsberger, and many more cover the real decisions quality engineering leaders are facing: how to scale AI across you",
+  "sponsored": true,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://martinfowler.com/articles/structured-prompt-driven/",
+  "title": "Structured-Prompt-Driven Development",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "AI Guide BestPractices",
+  "categories": [
+   "AI",
+   "Guide",
+   "BestPractices"
+  ],
+  "author": "Wei Zhang, Jessie Jie Xia",
+  "summary": "“Instead of relying on ad hoc chats, SPDD turns prompts into assets that can be: version controlled, reviewed, reused, and improved over time. Teams use structured prompts to capture requirements, domain language, design intent, constraints, and a task breakdown. Then the LLM generates code within a",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://samkhawase.com/blog/email-is-crazy/",
+  "title": "Email Is Crazy",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "Infrastructure DeepDive",
+  "categories": [
+   "Infrastructure",
+   "DeepDive"
+  ],
+  "author": "Saurabh Khawase",
+  "summary": "“Email evolved organically over the years, tracing its origins to the academic labs of ARPANET in the ’70s. Its various components were designed by different people, at different times, facing different challenges. The email ecosystem is a very complex beast with more than 100 RFCs mandating its var",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://zef-lang.dev/implementation",
+  "title": "How To Make A Fast Dynamic Language Interpreter",
+  "issue": 712,
+  "date": "2026-05-01",
+  "date_display": "1 May 2026",
+  "category": "SystemDesign DeepDive",
+  "categories": [
+   "SystemDesign",
+   "DeepDive"
+  ],
+  "author": "Fil Pizlo",
+  "summary": "“This post is about optimizing an extremely simple AST-walking interpreter for a dynamic language called Zef that I created for fun to the point where it is competitive with the likes of Lua, QuickJS, and CPython.”",
+  "sponsored": false,
+  "source_thread_id": "19de36a5aa188bf2"
+ },
+ {
+  "url": "https://randsinrepose.com/archives/managing-up/",
+  "title": "Managing Up",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "Management Communication ManagingUp",
+  "categories": [
+   "Management",
+   "Communication",
+   "ManagingUp"
+  ],
+  "author": "Michael Lopp",
+  "summary": "“In this piece, I will explain the projects, people, and political developments you always want to share - no matter what. While I will strive to make this complete, there is one type of development you must always report.”",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://luminousmen.substack.com/p/be-the-idiot",
+  "title": "Be The Idiot",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "Communication CareerGrowth",
+  "categories": [
+   "Communication",
+   "CareerGrowth"
+  ],
+  "author": "Kirill Bobrov",
+  "summary": "“I’ve developed a mental checklist of “stupid” questions that have saved me more times than I can count.” The author shares some of these with the understanding that most engineering failures happen because someone was afraid to look stupid.",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://atono.io/blog/feature-riffing-ai-refine-product-ideas-before-design",
+  "title": "Feature Riffing: How AI Helps PMs Refine Ideas Before Design",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "AI Product",
+  "categories": [
+   "AI",
+   "Product"
+  ],
+  "author": null,
+  "summary": "Better specs = fewer refinement cycles = faster shipping. Most acceptance criteria look solid on paper until engineering starts building. This post shows how product teams are using AI to validate feature logic through interactive mockups—surfacing edge cases and hierarchical complexity before specs",
+  "sponsored": true,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://kimmalonescott.medium.com/fun-feedback-exercises-activities-to-do-with-your-team-67faacccb77c",
+  "title": "Fun Feedback Exercises & Activities To Do With Your Team",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "Management Guide Feedback",
+  "categories": [
+   "Management",
+   "Guide",
+   "Feedback"
+  ],
+  "author": "Kim Scott",
+  "summary": "“Engaging your team with fun feedback exercises can help create a culture of open communication and continuous improvement. Here are a few ideas you might find helpful.”",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://jordanlord.co.uk/blog/3-constraints/",
+  "title": "3 Constraints Before I Build Anything",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "AI Guide BestPractices",
+  "categories": [
+   "AI",
+   "Guide",
+   "BestPractices"
+  ],
+  "author": "Jordan Lord",
+  "summary": "“I’ve been a builder for 10 years, and I've built products that went nowhere because they were either too complex or had no identity. These are the constraints that I landed on after making those mistakes.”",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://fandf.co/4tiqz4S",
+  "title": "To Make SLMs Think Bigger, Orchestration Is The Key",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "AI DeepDive Guide",
+  "categories": [
+   "AI",
+   "DeepDive",
+   "Guide"
+  ],
+  "author": null,
+  "summary": "Small language models often fail at multi-step reasoning, but agent-based architectures can bridge the gap. By layering search and control flow over LLM calls, the agent-reasoning framework adds 16 research-backed strategies to any Ollama model with zero code changes.",
+  "sponsored": true,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://makemeacto.substack.com/p/how-to-run-a-technical-due-diligence",
+  "title": "How to Run a Technical Due Diligence?",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "Leadership Guide Business",
+  "categories": [
+   "Leadership",
+   "Guide",
+   "Business"
+  ],
+  "author": "Sergio Visinoni",
+  "summary": "A walkthrough of running a technical due diligence during M&A. Covers what the data room actually is, the four types of deals - brand acquisition, independent operation, full integration, acqui-hire - and what to prioritize in each - from security and compliance to talent assessment to data portabil",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://philpearl.github.io/post/swissing_a_table/",
+  "title": "Swissing A Table",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "DeepDive Performance",
+  "categories": [
+   "DeepDive",
+   "Performance"
+  ],
+  "author": "Philip Pearl",
+  "summary": "“This year I chose to investigate “Swiss tables”, the new hash table idea behind recent improvements to Go’s maps. Why am I interested in this? I’ve written a number of specialist hash tables, and I wondered if these approaches would lead to any performance improvements.”",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://blog.cloudflare.com/internal-ai-engineering-stack/",
+  "title": "The AI Engineering Stack We Built Internally - On The Platform We Ship",
+  "issue": 713,
+  "date": "2026-05-05",
+  "date_display": "5 May 2026",
+  "category": "AI Infrastructure CaseStudy",
+  "categories": [
+   "AI",
+   "Infrastructure",
+   "CaseStudy"
+  ],
+  "author": "Rajesh Bhatia, Scott Roe-Meschke, Ayush Thakur",
+  "summary": "“Eleven months ago, we undertook a major project: to truly integrate AI into our engineering stack. We needed to build the internal MCP servers, access layer, and AI tooling necessary for agents to be useful at Cloudflare. We pulled together engineers from across the company to form a tiger team cal",
+  "sponsored": false,
+  "source_thread_id": "19df8047bde5df05"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/designing-the-ai-native-engineering",
+  "title": "Designing The AI-Native Engineering Organization",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Leadership Management AI",
+  "categories": [
+   "Leadership",
+   "Management",
+   "AI"
+  ],
+  "author": "Justin Reock",
+  "summary": "“A discussion with Tim Bozarth (CVP, CoreAI at Microsoft), Nancy Wang (CTO, 1Password), and Taroon Mandhana (CTO of AI & Teamwork at Atlassian) to learn how they’re adapting to the impact AI is having now and in the future. The panel covered topics such as org design, managing costs, and how the dev",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://ben.balter.com/2026/04/27/one-on-one-playbook/",
+  "title": "How To One-On-One",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Management Guide",
+  "categories": [
+   "Management",
+   "Guide"
+  ],
+  "author": "Ben Balter",
+  "summary": "Most 1:1s fail in one of three ways: (1) Spending your team’s only protected synchronous time on information that belongs in writing. (2) Sugarcoating hard feedback until nobody walks away clear on what actually needs to change. (3) The 1:1 that keeps getting canceled because “something came up,” un",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://pscale.link/B636YUk",
+  "title": "”Literally The Only Team We Trusted Enough To Leave Aurora”",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Database",
+  "categories": [
+   "Database"
+  ],
+  "author": null,
+  "summary": "That's a real quote from a real customer, and he's not alone. Cursor, Cash App, Intercom, and thousands of other companies all trust PlanetScale for their most demanding workloads. PlanetScale is an opinionated database platform for Postgres and MySQL designed to eliminate the pain of managing datab",
+  "sponsored": true,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://rdel.substack.com/p/rdel-141-how-can-engineering-leaders",
+  "title": "How Can Engineering Leaders Calculate The Return On Their AI Investments?",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Leadership BestPractices AI",
+  "categories": [
+   "Leadership",
+   "BestPractices",
+   "AI"
+  ],
+  "author": "Lizzie Matusov",
+  "summary": "“AI usage has crossed the line from experiment to default. As that usage scales, the conversation among engineering leaders has shifted from “should we adopt” to “what is all of this actually worth,” and ROI has become a regular topic in staff meetings, board prep, and budget reviews.”",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://kevingoldsmith.substack.com/p/becoming-a-business-leader-not-just",
+  "title": "Becoming A Business Leader, Not Just A Technical One",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Leadership Business CareerGrowth",
+  "categories": [
+   "Leadership",
+   "Business",
+   "CareerGrowth"
+  ],
+  "author": "Kevin Goldsmith",
+  "summary": "“Most directors, VPs, and CTOs are technically excellent and organizationally capable by the time they earn their titles. A lot of them hit a ceiling not because of either of those things, but because the conversation moves from “is this the right architecture” to “is this the right business.”",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://www.blueoptima.com/post/ai-coding-benchmarks-are-measuring-the-wrong-things",
+  "title": "Why AI Benchmarks Are Misleading",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "AI Metrics",
+  "categories": [
+   "AI",
+   "Metrics"
+  ],
+  "author": null,
+  "summary": "AI coding benchmarks report 80–90% success rates. But those numbers don’t hold up in real systems. Even top models succeed on fewer than 1 in 4 refactoring tasks without errors. New research across 57 LLMs reveals why most software development teams are measuring the wrong things, and what it means",
+  "sponsored": true,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://www.lucavall.in/blog/platform-engineering-end-to-end",
+  "title": "Platform Engineering End-To-End",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Infrastructure DeepDive",
+  "categories": [
+   "Infrastructure",
+   "DeepDive"
+  ],
+  "author": "Luca Cavallin",
+  "summary": "A comprehensive walkthrough of platform engineering as a discipline - from why it exists to what success looks like. Covers team structure, product thinking, migrations, stakeholder management, and operations.",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://testing.googleblog.com/2026/05/construct-with-collaborators-call-with.html",
+  "title": "Construct With Collaborators, Call With Work",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "BestPractices",
+  "categories": [
+   "BestPractices"
+  ],
+  "author": "Shahar Roth",
+  "summary": "A design guideline from Google: inject long-lived dependencies through the constructor and pass per-call data as method parameters. The separation promotes reusability, testability, cleaner APIs, and predictable behavior — though what counts as a 'collaborator' versus 'work' depends on the object's",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+  "title": "10 Lessons For Agentic Coding",
+  "issue": 714,
+  "date": "2026-05-08",
+  "date_display": "8 May 2026",
+  "category": "Agents BestPractices DeveloperProductivity",
+  "categories": [
+   "Agents",
+   "BestPractices",
+   "DeveloperProductivity"
+  ],
+  "author": "Drew Breunig",
+  "summary": "“I’ve been keeping a running list of tips for agentic coding: guidelines or rules one might give to someone just getting started with Codex, Claude Code, Pi, or any other agent. Ideally each tip is generalizable guidance, relevant to any agentic programming.”",
+  "sponsored": false,
+  "source_thread_id": "19e07adc1091c679"
+ },
+ {
+  "url": "https://www.annashipman.co.uk/jfdi/exec-ai-principles.html",
+  "title": "Three AI Principles Every Exec Leader Needs To Understand",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "Leadership Strategy AI",
+  "categories": [
+   "Leadership",
+   "Strategy",
+   "AI"
+  ],
+  "author": "Anna Shipman",
+  "summary": "Anna identifies three principles she considers non-negotiable for any executive making AI decisions today: (1) AI is non-deterministic: you’re managing probabilities, not certainties. (2) The economics have flipped: it’s no longer about what you build, but what you buy and what that costs you long-t",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://mollyg.substack.com/p/the-case-for-caring-less",
+  "title": "The Case For Caring Less",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Molly Graham",
+  "summary": "“It’s so hard to realize this when you’ve built your career and your brand on caring, but the person who takes everything personally, who needs things to turn out a specific way — that person isn’t more invested than everyone else. They’ve just lost their objectivity.”",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://getunblocked.com/blog/unblocked-context-engine-for-agents/",
+  "title": "Your AI Agents Are Missing Context",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "Agents DeveloperProductivity",
+  "categories": [
+   "Agents",
+   "DeveloperProductivity"
+  ],
+  "author": "Dennis Pilarinos",
+  "summary": "For agents to work at scale, they need to deeply understand how your team works. Rules, skills, and separate MCPs give access to information, but not understanding. Read how Unblocked built a context engine that gives agents what they need to generate mergeable code the first time.",
+  "sponsored": true,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://martinfowler.com/articles/reduce-friction-ai/",
+  "title": "Patterns For Reducing Friction In AI-Assisted Development",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "DeveloperProductivity BestPractices",
+  "categories": [
+   "DeveloperProductivity",
+   "BestPractices"
+  ],
+  "author": "Rahul Garg",
+  "summary": "“The practices that make human pair programming effective - onboarding, structured design discussion, shared standards - apply equally to working with AI coding assistants. I propose five patterns that bring this collaborative scaffolding to AI-assisted development, shifting the experience from corr",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://handyai.substack.com/p/the-slop-cannons-in-your-engineering",
+  "title": "The Slop Cannons In Your Engineering Org",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "Management Agents AI",
+  "categories": [
+   "Management",
+   "Agents",
+   "AI"
+  ],
+  "author": "Jake Handy",
+  "summary": "A field guide to the 'slop cannon' - the engineer running multiple AI agents in parallel, shipping huge PRs they can't explain, and confusing velocity for progress. Jake includes a manager's checklist for spotting the pattern and practical fixes for managing such developers.",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://www.propelauth.com/post/common-customer-questions-enterprise-sso",
+  "title": "Decoding Common Customer Questions About Enterprise SSO",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "Security Guide",
+  "categories": [
+   "Security",
+   "Guide"
+  ],
+  "author": "Victoria Krauchunas",
+  "summary": "Enterprise SSO might feel complicated, but it's one of the simplest ways to win trust and close deals faster. Most customers won't even say the words 'Enterprise SSO'. They'll ask if you support Okta, or SAML, or SCIM syncing. This guide decodes what they're really asking, so you can answer with con",
+  "sponsored": true,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+  "title": "The Two Abstractions Of System Design: Hide Or Reduce",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "SystemDesign DeepDive",
+  "categories": [
+   "SystemDesign",
+   "DeepDive"
+  ],
+  "author": "Murat Demirbas",
+  "summary": "There are two kinds of abstraction conflated under the same umbrella term. (1) Modularity abstraction: This is the traditional abstraction taught in CS curricula as ADTs, APIs, layered design, etc. It is all about encapsulation, drawing boundaries, and hiding internals. (2) Modeling abstraction: Thi",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+  "title": "Small Programming Tricks",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "DeveloperProductivity",
+  "categories": [
+   "DeveloperProductivity"
+  ],
+  "author": "Will Keleher",
+  "summary": "“But I think there are some nuggets of knowledge that are particularly valuable and don’t require a lot of supporting mental infrastructure. You don’t need to know any python to use python3 -m http.server to start a simple server in a directory, but it might still make your work marginally easier.”",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+  "title": "The 8 Levels Of Agentic Engineering",
+  "issue": 715,
+  "date": "2026-05-12",
+  "date_display": "12 May 2026",
+  "category": "Agents Guide",
+  "categories": [
+   "Agents",
+   "Guide"
+  ],
+  "author": "Bassim Eledath",
+  "summary": "“That gap doesn't close overnight. It closes in levels. 8 of them. Most of you reading this are likely past the first few, and you should be eager to reach the next one because each subsequent level is a huge leap in output, and every improvement in model capability amplifies those gains further.”",
+  "sponsored": false,
+  "source_thread_id": "19e1c61faca3423d"
+ },
+ {
+  "url": "https://us06web.zoom.us/webinar/register/6817788013811/WN_WJLzMq9cQc2ARpWAnTGedA#/",
+  "title": "Gauntlet AI Night School: Building Braid on Claude Managed Agents - Wednesday 5/20 at 5CT",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Event AI",
+  "categories": [
+   "Event",
+   "AI"
+  ],
+  "author": null,
+  "summary": "Join Gauntlet instructors as they provide insight into Infrastructure for multi-agent applications. You bring the front and backend, and Anthropic handles the agentic sessions and environments. We're going to build a web-based multi-agent multimedia UI for creatives. Stitching together prompts, mode",
+  "sponsored": true,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/the-ai-native-developer",
+  "title": "The AI-Native Developer",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "CareerGrowth DevEx AI",
+  "categories": [
+   "CareerGrowth",
+   "DevEx",
+   "AI"
+  ],
+  "author": "Brian Houck",
+  "summary": "“In this study, we explore how AI is reshaping software engineering by analyzing survey data from over 1,300 developers and interviews with 22 AI-fluent practitioners. We specifically look at what developers want from AI and how AI fluency develops, and discuss three possible futures for the develop",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://www.makeworkbetter.info/p/can-one-bad-apple-ruin-your-team",
+  "title": "Can One Bad Apple Ruin Your Team?",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Leadership Management Culture",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Culture"
+  ],
+  "author": "Bruce Daisley",
+  "summary": "“Across decades of research, it turns the best predictor of team performance isn’t the talent of the team or whether it includes superstar individuals, but rather it’s the behaviour of the worst person. A bad apple really can ruin a team.”",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://www.subbu.org/essays/2026/a-lesson-from-the-cockpit/",
+  "title": "A Lesson From The Cockpit",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Leadership Management AI",
+  "categories": [
+   "Leadership",
+   "Management",
+   "AI"
+  ],
+  "author": "Subbu Allamaraju",
+  "summary": "Aviation faced the same automation debates we're having now about AI in software engineering - cognitive surrender, rising entropy in codebases, and productivity perception gap. Despite these challenges and shrinking team sizes, the author argues there's a playbook worth borrowing for engineering le",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://eugeneyan.com//writing/working-with-ai/",
+  "title": "How To Work And Compound With AI",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Guide AI Productivity",
+  "categories": [
+   "Guide",
+   "AI",
+   "Productivity"
+  ],
+  "author": "Eugene Yan",
+  "summary": "“How can we work effectively with AI? What’s the workflow, how does it scale, and how do we improve our systems over time? And ideally, it should compound. Every finished artifact—code, docs, analysis, decisions—becomes context for the next session. And each correction updates a config that reduces",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://uplevelteam.com/blog/microservices-ai",
+  "title": "AI Adoption Is Repeating The Microservices Mistake",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Leadership AI Architecture",
+  "categories": [
+   "Leadership",
+   "AI",
+   "Architecture"
+  ],
+  "author": "Amy Carrillo Cotten",
+  "summary": "Fifteen years ago, conference talks sold engineering leaders on microservices as a universal fix. The same hype cycle is now running on AI. What microservices got wrong - and why recognizing the pattern early is how you avoid paying for it later.",
+  "sponsored": true,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://medium.com/wix-ux/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f",
+  "title": "When Life Gives You Lemons, Write Better Error Messages",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Product CaseStudy",
+  "categories": [
+   "Product",
+   "CaseStudy"
+  ],
+  "author": "Jenni Nadler",
+  "summary": "Jenni covers what makes both good and bad error messages. For bad error messages, she gives cites: inappropriate tone, technical jargon, passing the blame and generic messages that have no reason. Good messages say what happened and why, provide reassurance, are empathetic, help the user fix the iss",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://careersatdoordash.com/blog/doordash-built-an-ai-code-reviewer-engineers-actually-listen-to/",
+  "title": "How DoorDash Built An AI code Reviewer Engineers Actually Listen To",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "CaseStudy CodeReview AI",
+  "categories": [
+   "CaseStudy",
+   "CodeReview",
+   "AI"
+  ],
+  "author": "Adam Rogal, Adam Yarger",
+  "summary": "“Over the last few months, we've been rolling out a code review agent across DoorDash's engineering org. The central challenge turned out to be attention: helping the agent focus on the parts of a change that deserve review, and stay quiet when it has nothing useful to add. The bar we set for oursel",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://testing.googleblog.com/2026/05/code-review-responses-add-context-when.html",
+  "title": "Code Review Responses: Add Context When It Counts",
+  "issue": 716,
+  "date": "2026-05-15",
+  "date_display": "15 May 2026",
+  "category": "Management CodeReview Tips",
+  "categories": [
+   "Management",
+   "CodeReview",
+   "Tips"
+  ],
+  "author": "Saicharan Nimmala",
+  "summary": "“When responding to code review comments, responses like “Done,” “Updated,” or “Fixed” are commonly used to indicate addressing a suggestion. However, sometimes, a little extra context adds a lot of clarity.”",
+  "sponsored": false,
+  "source_thread_id": "19e2bba875360b0f"
+ },
+ {
+  "url": "https://turbopuffer.com/",
+  "title": "Reduce Your Vector Database Bill By 90%+",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "Scale Database Infrastructure",
+  "categories": [
+   "Scale",
+   "Database",
+   "Infrastructure"
+  ],
+  "author": null,
+  "summary": "Agents are only as good as the context they can retrieve. If they miss a doc, they miss the answer. turbopuffer is a fast search engine that makes every byte searchable at a fraction of the cost of traditional vector databases. Cursor, Cognition, and Notion run retrieval on turbopuffer.",
+  "sponsored": true,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/im-an-introvert-this-is-how-i-get-myself-to-speak-up",
+  "title": "I’m An Introvert. This Is How I Get Myself To Speak Up.",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "CareerGrowth Communication",
+  "categories": [
+   "CareerGrowth",
+   "Communication"
+  ],
+  "author": "Wes Kao",
+  "summary": "“Prepare go-to phrases to insert yourself in meetings, ask a colleague to keep you accountable, and other tactics I personally use to get myself to speak up.”",
+  "sponsored": false,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://theengineeringmanager.substack.com/p/distilling-leadership-wisdom",
+  "title": "Distilling Leadership Wisdom",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "Leadership AI CareerGrowth",
+  "categories": [
+   "Leadership",
+   "AI",
+   "CareerGrowth"
+  ],
+  "author": "James Stanier",
+  "summary": "“This month, we’re going to explore a practical technique for learning from leaders you’ll never have access to: distilling their thinking into an AI role you can query on demand.”",
+  "sponsored": false,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://www.sonarsource.com/resources/buyers-guide-to-code-quality-and-security-checklist/?s_category=Paid&s_source=Paid%20Other&s_origin=pointer",
+  "title": "AI Is Writing Code Faster Than Ever, But Who Checks It?",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "Guide CodeReview AI",
+  "categories": [
+   "Guide",
+   "CodeReview",
+   "AI"
+  ],
+  "author": null,
+  "summary": "When speed is prioritized over reliability, technical debt and security risks accumulate silently. To realize the full ROI of AI, organizations must shift from manual reviews to an automated verification layer. Evaluate your next vendor with: (1) Six evaluation pillars for modern code review. (2) St",
+  "sponsored": true,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+  "title": "Interrogatory LLM",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "Productivity AI",
+  "categories": [
+   "Productivity",
+   "AI"
+  ],
+  "author": "Martin Fowler",
+  "summary": "When we need an LLM to perform a complex task, we often need to feed it a lot of context. Coming up with a design for a new feature requires descriptions of how we want the feature to appear to the user, guidelines on how it should be implemented, information on external systems to consult, and so o",
+  "sponsored": false,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+  "title": "I Don't Think AI Will Make Your Processes Go Faster",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "Management Business AI",
+  "categories": [
+   "Management",
+   "Business",
+   "AI"
+  ],
+  "author": "Frederick Vanbrabant",
+  "summary": "“I have the feeling that every organization out there is, at least partially, focusing on process optimization, something that often happens when the market is down. These days there is also the AI angle to the entire thing, and the unrealistic expectations that follow it.” Frederick shares why thro",
+  "sponsored": false,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://ntietz.com/blog/using-an-engineering-notebook/",
+  "title": "Using An Engineering Notebook",
+  "issue": 717,
+  "date": "2026-05-19",
+  "date_display": "19 May 2026",
+  "category": "Productivity CareerGrowth",
+  "categories": [
+   "Productivity",
+   "CareerGrowth"
+  ],
+  "author": "Nicole Tietz-Sokolskaya",
+  "summary": "“One of my core software engineering practices is writing, by hand, in a physical notebook. It's one of the most important things I do to remain productive and effective. Maybe the single most important. And it's a practice that I see very few others using!”",
+  "sponsored": false,
+  "source_thread_id": "19e406e85a6cba0d"
+ },
+ {
+  "url": "https://us06web.zoom.us/webinar/register/8717793839025/WN_wyyDayS-RkyFPXU6XZAkzg",
+  "title": "Gauntlet AI Night School: Why System Design Is So Critical With AI And How To Learn It - Wednesday 5/27 6ET",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "AI Event",
+  "categories": [
+   "AI",
+   "Event"
+  ],
+  "author": null,
+  "summary": "Join Byron Mackay as he breaks down why system design is becoming one of the most important skills for software engineers in an AI-first job market. In this session, you’ll learn how to: (1) Understand why system design is becoming a critical skill for software engineers in an AI-first market.",
+  "sponsored": true,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://mikefisher.substack.com/p/from-metrics-to-meaning",
+  "title": "From Metrics To Meaning",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "Leadership Management Communication",
+  "categories": [
+   "Leadership",
+   "Management",
+   "Communication"
+  ],
+  "author": "Mike Fisher",
+  "summary": "“The retention curve that goes down is actually a more powerful narrative tool than the one that goes up, because it creates urgency, names an enemy, and invites the team into the fight. Honest reckoning builds more trust than optimistic reporting.” Mike shares The Story Frame - a framework for how",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://newsletter.getdx.com/p/ai-productivity-debate",
+  "title": "AI Productivity Debate",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "Management AI DevEx",
+  "categories": [
+   "Management",
+   "AI",
+   "DevEx"
+  ],
+  "author": "Justin Reock",
+  "summary": "A panel of senior engineering and research leaders who debated the following: (1) Will AI mean fewer engineers? (2) Is AI accelerating technical debt? (3) Will most code be AI-generated within five years? (4) Is the future of engineering about managing agents? (5) Do leaders need to mandate AI adopt",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://randsinrepose.com/archives/barely-treading-water/",
+  "title": "Barely Treading Water",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Michael Lopp",
+  "summary": "Michael describes the moment his chief of staff told him he was the problem - barely treading water as a senior leader. The fix: admit you're failing, ruthlessly prioritize with a trusted other, delegate even when you think people aren't ready, and say no to everything else.",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html",
+  "title": "Software's Centaur Era",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "CareerGrowth AI",
+  "categories": [
+   "CareerGrowth",
+   "AI"
+  ],
+  "author": "Richard Marmorstein",
+  "summary": "Richard argues we're not in software's centaur era yet - the point where human-AI teams outperform either alone. AI coding agents still can't reliably make independent progress on long projects, which is why software engineers are valuable. Even when they can, human jobs don't disappear until AI tea",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://agentfield.ai/blog/harness-as-membrane",
+  "title": "The Production Version Of Wiring Claude Code Into Your Pipeline",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "Architecture AI",
+  "categories": [
+   "Architecture",
+   "AI"
+  ],
+  "author": "Santosh Kumar Radha",
+  "summary": "If your team has chained Claude Code to write, then to review, you already know the pattern. Harness orchestration is the architectural discipline behind it, a first look at how Claude Code, Codex, and Gemini compose as primitives. Read the breakdown — written for engineering leaders evaluating the",
+  "sponsored": true,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
+  "title": "Maintainability Sensors For Coding Agents",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "CodeReview AI",
+  "categories": [
+   "CodeReview",
+   "AI"
+  ],
+  "author": "Birgitta Böckeler",
+  "summary": "“Internal quality problems affect AI agents in similar ways that they affect human developers. An agent working in a tangled codebase might look in the wrong place for an existing implementation, create inconsistencies because it has not noticed a duplicate, or be forced to load more context than a",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+  "title": "Learnings From 100K Lines Of Rust With AI",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "Rust CaseStudy AI",
+  "categories": [
+   "Rust",
+   "CaseStudy",
+   "AI"
+  ],
+  "author": "Cheng Huang",
+  "summary": "“This post shares my most valuable learnings on: ensuring correctness with code contracts, applying lightweight spec-driven development, and pursuing aggressive performance optimization - plus my wish list for the future of AI-assisted coding.”",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://matklad.github.io/2026/05/18/always-be-blaming.html",
+  "title": "Always Be Blaming",
+  "issue": 718,
+  "date": "2026-05-22",
+  "date_display": "22 May 2026",
+  "category": "DeepDive Git",
+  "categories": [
+   "DeepDive",
+   "Git"
+  ],
+  "author": "Alex Kladov",
+  "summary": "Alex walks through his advanced git blame workflows in service of understanding code history and the why behind code changes. He describes this as a 4D approach to reading code.",
+  "sponsored": false,
+  "source_thread_id": "19e4fc6ea6d220a2"
+ },
+ {
+  "url": "https://randsinrepose.com/archives/the-ask/",
+  "title": "The Ask",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "Leadership Management",
+  "categories": [
+   "Leadership",
+   "Management"
+  ],
+  "author": "Michael Lopp",
+  "summary": "A senior leader's real job is figuring out what people actually need from you - The Ask - across three types of meetings: the easy ones (someone on your team wants a promotion), the cross-team ones (another team needs to build with you but doesn't know how), and the long-game ones.",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+  "title": "The Anatomy Of An AI-Native Org",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "Leadership OrgDesign AI",
+  "categories": [
+   "Leadership",
+   "OrgDesign",
+   "AI"
+  ],
+  "author": "Ajey Gore",
+  "summary": "“For thirty years we were glorified translators - business asked why, product defined what, engineering translated to how. AI just ate the translation step. The anatomy of the team that's left looks nothing like the one you have today.”",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://getunblocked.com/blog/context-aware-dev-tools-arent-quite-there-yet/",
+  "title": "Your AI Agents Are Missing Context",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "AI DevEx",
+  "categories": [
+   "AI",
+   "DevEx"
+  ],
+  "author": "Dennis Pilarinos",
+  "summary": "For agents to work at scale, they need to deeply understand how your team works. Rules, skills, and separate MCPs give access to information, but not understanding. Read how a context engine gives agents exactly what they need for the task at hand.",
+  "sponsored": true,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://newsletter.weskao.com/p/detail-oriented",
+  "title": "What To Do If You're Not “Detail Oriented\"",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "Management CareerGrowth",
+  "categories": [
+   "Management",
+   "CareerGrowth"
+  ],
+  "author": "Wes Kao",
+  "summary": "Ask yourself: (1) If I were signing off with my name, would I make this better? (2) Is there sloppiness that might reflect poorly on me or my company? (3) Am I passing the burden to others to fix my errors? (4) Does the work I’m shipping represent my ability?",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://andiroberts.com/executive-coaching/how-to-stay-resilient-in-a-difficult-job",
+  "title": "How To Stay Resilient In A Difficult Job",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "Wellbeing",
+  "categories": [
+   "Wellbeing"
+  ],
+  "author": "Andi Roberts",
+  "summary": "“How do you stay resilient, motivated, and mentally healthy in a difficult job with poor management, shift work, or constant stress? This guide explores practical, science-informed ways to protect your well-being while navigating a demanding current role.”",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://agentfield.ai/blog/harness-as-membrane",
+  "title": "The Production Version Of Wiring Claude Code Into Your Pipeline",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "Architecture AI",
+  "categories": [
+   "Architecture",
+   "AI"
+  ],
+  "author": "Santosh Kumar Radha",
+  "summary": "If your team has chained Claude Code to write, then to review, you already know the pattern. Harness orchestration is the architectural discipline behind it, a first look at how Claude Code, Codex, and Gemini compose as primitives. Read the breakdown — written for engineering leaders evaluating the",
+  "sponsored": true,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://brooker.co.za/blog/2026/05/18/whats-easy-whats-hard.html",
+  "title": "What’s Easy Now? What’s Hard Now?",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "SystemDesign AI",
+  "categories": [
+   "SystemDesign",
+   "AI"
+  ],
+  "author": "Marc Brooker",
+  "summary": "“I’ve been spending a lot of time thinking about the shape of the capabilities of coding agents. What they’re good at now, what they’re going to be good at. What they’re bad at now, how much of that is inherent and how much is transient. This is worth thinking about, because it’s the most important",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://medium.com/pinterest-engineering/making-user-sequence-data-more-cost-efficient-faster-and-easier-to-use-2a56a928cae1",
+  "title": "Making User-Sequence Data More Cost-Efficient, Faster, and Easier to Use",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "Scale Infrastructure ML",
+  "categories": [
+   "Scale",
+   "Infrastructure",
+   "ML"
+  ],
+  "author": null,
+  "summary": "This article walks through how the Pinterest engineering team redesigned their user-sequence platform to make sequences cheaper to run, faster to extend, and easier to debug, while still supporting demanding production use cases.",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://simonwillison.net/guides/agentic-engineering-patterns",
+  "title": "Agentic Engineering Patterns",
+  "issue": 719,
+  "date": "2026-05-26",
+  "date_display": "26 May 2026",
+  "category": "DevEx AI Guide",
+  "categories": [
+   "DevEx",
+   "AI",
+   "Guide"
+  ],
+  "author": "Simon Willison",
+  "summary": "“I’ve started a new project to collect and document Agentic Engineering Patterns—coding practices and patterns to help get the best results out of this new era of coding agent development we find ourselves entering.”",
+  "sponsored": false,
+  "source_thread_id": "19e64977946203c2"
+ },
+ {
+  "url": "https://shreyasdoshi.substack.com/p/get-to-the-core-of-the-thing",
+  "title": "Get To The Core Of The Thing",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "Leadership Product Communication",
+  "categories": [
+   "Leadership",
+   "Product",
+   "Communication"
+  ],
+  "author": "Shreyas Doshi",
+  "summary": "“In every product conversation, the framing decides the discussion. People rise to whatever level of abstraction the question opens up. Board conversations especially. But it’s the same with executive staff conversations and team conversations.”",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://larahogan.me/blog/be-a-thermostat-not-a-thermometer/",
+  "title": "Be A Thermostat, Not A Thermometer",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "Management Communication",
+  "categories": [
+   "Management",
+   "Communication"
+  ],
+  "author": "Lara Hogan",
+  "summary": "We are easily influenced by the mood of those around us — “one person’s behavior change can cause others to change their behavior,” and by setting the whole temperature for the room, they’re being a thermostat. As leaders, Lara advises us to pick up on these negative mood changes early and become th",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://jobs.fidelity.com/en/technology-careers",
+  "title": "Build The Future Of Tech At Fidelity",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "CareerGrowth",
+  "categories": [
+   "CareerGrowth"
+  ],
+  "author": null,
+  "summary": "At Fidelity, we’re a community of technologists committed to boldly building the next generation of fintech—and helping you advance. By investing in your technical skills, supporting training and education opportunities, and encouraging career reinvention, we empower you to follow your curiosity and",
+  "sponsored": true,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://yusufaytas.com/when-too-many-maps-overlap-on-one-person",
+  "title": "When Too Many Maps Overlap On One Person",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "Leadership OrgDesign DecisionMaking",
+  "categories": [
+   "Leadership",
+   "OrgDesign",
+   "DecisionMaking"
+  ],
+  "author": "Yusuf Aytas",
+  "summary": "“You have a proposal. And someone suggested checking with Mike. It does not sound like a problem. It sounds like due diligence, like someone being careful, like a team that knows its own limits. And in the moment, it usually is all of those things. But if you have seen this before, you start to noti",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://arps18.github.io/posts/claude-code-mastery/",
+  "title": "Beyond The Prompt: Claude Code",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "Guide Agents AI",
+  "categories": [
+   "Guide",
+   "Agents",
+   "AI"
+  ],
+  "author": "Arpan Patel",
+  "summary": "“The casual user types prompts, accepts suggestions, and treats it like a fancier autocomplete. The daily driver uses it like a programmable agent with memory, custom commands, parallel sessions, and a project setup that compounds over time. This guide is for the second kind of person, assuming you",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://turbopuffer.com/blog/reinforcement-learning-sid-ai",
+  "title": "Training An Agentic Search Model To Be 20x Faster Than GPT-5",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "AI DeepDive",
+  "categories": [
+   "AI",
+   "DeepDive"
+  ],
+  "author": "Sam Dauncey, Max Rumpf",
+  "summary": "Frontier LLMs are incredible generalists, but expensive specialists. As token usage comes under scrutiny, there’s an emerging trend toward small models trained for specific tasks. SID-1 is an agentic search model that runs complex retrieval tasks 20x faster than frontier LLMs with 99% fewer tokens -",
+  "sponsored": true,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://blog.singleton.io/posts/2026-03-21-cheap-turpentine/",
+  "title": "Cheap Turpentine",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "Management EarlyStage",
+  "categories": [
+   "Management",
+   "EarlyStage"
+  ],
+  "author": "David Singleton",
+  "summary": "“There’s a whole genre of writing about company building that reads like art criticism — frameworks, principles, taxonomies of culture. Useful, sometimes. But the conversations I find myself actually wanting to have with other founders are the turpentine ones: what’s your offer letter template, what",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+  "title": "How's Linear So Fast? A Technical Breakdown",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "Architecture Performance DeepDive",
+  "categories": [
+   "Architecture",
+   "Performance",
+   "DeepDive"
+  ],
+  "author": "Dennis Brotzky",
+  "summary": "“A few milliseconds is all it takes to update an issue in Linear. A traditional CRUD app doing the same thing takes about 300ms. How do they do it? There's no secret silver bullet to performance. The reality is that it's built from the ground up on the right foundation, then improved by countless de",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ },
+ {
+  "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+  "title": "Using AI To Write Better Code More Slowly",
+  "issue": 720,
+  "date": "2026-05-29",
+  "date_display": "29 May 2026",
+  "category": "DevEx CodeReview AI",
+  "categories": [
+   "DevEx",
+   "CodeReview",
+   "AI"
+  ],
+  "author": "Nolan Lawson",
+  "summary": "“A lot of people seem convinced that the point of AI coding is to write low-quality code as fast as possible. Spew out barely-passable slop, open massive PRs, and merge them unvetted. Ship it! But the thing is, LLMs are very flexible. And you can use them just as effectively to write high-quality co",
+  "sponsored": false,
+  "source_thread_id": "19e73fcae017c8f4"
+ }
+]

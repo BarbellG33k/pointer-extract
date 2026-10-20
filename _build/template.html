@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pointer.io Article Index</title>
+<style>
+/* Reading-ledger theme: cool mist paper, spruce ink, amber sponsored clip.
+   Depth in the category hierarchy is encoded by chip fill: level 0 filled,
+   level 1 outlined, level 2 dashed. */
+:root{
+  --paper:#edf1ec; --card:#fbfdfb; --ink:#1c2a26; --mut:#5d6f68; --line:#d3ddd5;
+  --acc:#0f6b5c; --acc-soft:#e0eee8; --spon:#a05e14; --spon-soft:#f6e8d4;
+  --hover:#f0f5f0; --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  --shadow:0 1px 2px rgba(28,42,38,.06),0 4px 16px rgba(28,42,38,.05);
+}
+@media (prefers-color-scheme: dark){ :root{
+  --paper:#111713; --card:#181f1b; --ink:#e3e9e4; --mut:#8fa39a; --line:#2a3630;
+  --acc:#57c2a4; --acc-soft:#1d2f29; --spon:#d9a45c; --spon-soft:#332916;
+  --hover:#1e2722; --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.3);
+}}
+*{box-sizing:border-box}
+::selection{background:var(--acc-soft)}
+body{margin:0;font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--paper);color:var(--ink)}
+header{position:sticky;top:0;z-index:3;background:var(--card);border-bottom:1px solid var(--line);box-shadow:var(--shadow)}
+.mast{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin:0 24px;padding:20px 0 14px;border-bottom:3px double var(--line)}
+h1{margin:0;font:italic 700 26px/1.1 "Iowan Old Style",Palatino,"Palatino Linotype",Georgia,serif;letter-spacing:-.01em}
+h1 .tld{color:var(--acc);font-style:normal}
+h1 em{font-style:italic;font-weight:400;font-size:17px;color:var(--mut);margin-left:4px}
+.total{margin:0;font:12px/1 var(--mono);color:var(--mut);letter-spacing:.02em}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:12px 24px 16px}
+input[type=search]{flex:1 1 240px;min-width:180px;padding:8px 12px;border:1px solid var(--line);border-radius:8px;font:inherit;background:var(--card);color:var(--ink)}
+input[type=search]::placeholder{color:var(--mut)}
+select,button{padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink);font-size:13px;cursor:pointer}
+select:hover,button:hover{border-color:var(--mut)}
+.meta{color:var(--mut);margin-left:auto;font:12px/1 var(--mono)}
+:is(input,select,button):focus-visible{outline:2px solid var(--acc);outline-offset:1px}
+main{padding:14px 24px}
+.wrap{overflow:auto;border:1px solid var(--line);border-radius:12px;background:var(--card);max-height:calc(100vh - 195px);box-shadow:var(--shadow)}
+table{width:100%;border-collapse:collapse}
+th,td{padding:9px 12px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{position:sticky;top:0;z-index:1;background:var(--card);box-shadow:0 1px 0 var(--line);cursor:pointer;user-select:none;white-space:nowrap;font:600 10.5px/1.4 var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--mut)}
+th.sorted{color:var(--acc)}
+th.sorted::after{content:attr(data-arrow);margin-left:4px}
+tbody tr:last-child td{border-bottom:none}
+@media (prefers-reduced-motion: no-preference){ tbody tr{transition:background .12s} }
+tbody tr:hover{background:var(--hover)}
+td{font-size:13.5px}
+td.num{white-space:nowrap;font:12.5px/1.6 var(--mono);color:var(--mut)}
+td.sum{color:var(--mut);font-size:13px;min-width:260px;max-width:460px}
+td a{color:var(--acc);text-decoration:none}
+tbody td:nth-child(3) a{color:var(--ink);font-weight:550}
+a:hover{text-decoration:underline}
+/* Category chips form a breadcrumb: level 0 filled, deeper levels quieter. */
+.tag{position:relative;display:inline-block;padding:2px 9px;margin:1px 0;border-radius:999px;background:var(--acc-soft);color:var(--acc);font-size:12px;font-weight:500;line-height:1.4;white-space:nowrap;cursor:pointer}
+.tag + .tag{margin-left:14px}
+.tag + .tag::before{content:'›';position:absolute;left:-11px;top:50%;transform:translateY(-50%);color:var(--mut);font-weight:400}
+.tag[data-lvl="1"]{background:transparent;border:1px solid var(--line);color:var(--ink)}
+.tag[data-lvl="2"]{background:transparent;border:1px dashed var(--line);color:var(--mut)}
+.tag:hover{border-color:var(--acc)}
+.spon{background:var(--spon-soft);color:var(--spon);cursor:default;font-size:10.5px;text-transform:uppercase;letter-spacing:.07em;font-family:var(--mono)}
+.url{display:inline-block;max-width:280px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;vertical-align:bottom;font:11.5px/1.5 var(--mono);color:var(--mut)}
+footer{padding:14px 24px 20px;color:var(--mut);font-size:12px}
+@media (max-width:720px){
+  .mast{margin:0 14px;padding-top:14px}
+  h1{font-size:21px}
+  .controls{padding:10px 14px 12px}
+  main{padding:10px 14px}
+  .wrap{max-height:calc(100vh - 170px)}
+}
+</style></head>
+<body>
+<header>
+<div class="mast">
+<h1>Pointer<span class="tld">.io</span> <em>article index</em></h1>
+<p class="total" id="total"></p>
+</div>
+<div class="controls">
+<input id="q" type="search" placeholder="Search title, summary, author, category, URL, issue, date…">
+<select id="fMonth"><option value="">All months</option></select>
+<span id="catFilters" style="display:contents"></span>
+<select id="fSpon"><option value="">Sponsored: all</option><option value="no">Editorial only</option><option value="yes">Sponsored only</option></select>
+<select id="fIssue"><option value="">All issues</option></select>
+<button id="reset">Reset</button>
+<button id="csv">Export CSV</button>
+<span class="meta" id="count"></span>
+</div>
+</header>
+<main>
+<div class="wrap"><table>
+<thead><tr>
+<th data-k="date">Date</th><th data-k="issue">Issue</th><th data-k="title">Title</th><th data-k="category">Category</th><th data-k="author">Author</th><th data-k="sponsored">Sponsored</th><th data-k="url">URL</th><th data-k="summary">Summary</th>
+</tr></thead>
+<tbody id="rows"></tbody>
+</table></div>
+</main>
+<footer>Source: Gmail label Newsletters/Technical/Pointer.io. One record per article link. Tracking parameters (utm_*, aid) removed. Click a category tag to filter by it. Click a column header to sort.</footer>
+<script>
+const DATA = /*__DATA__*/[];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const uniq = a => [...new Set(a)];
+let sortK = 'date', sortDir = -1; // newest first by default
+
+uniq(DATA.map(r => r.date.slice(0, 7))).sort().reverse()
+  .forEach(m => $('fMonth').insertAdjacentHTML('beforeend', `<option value="${m}">${m}</option>`));
+uniq(DATA.map(r => r.issue)).sort((a, b) => b - a)
+  .forEach(i => $('fIssue').insertAdjacentHTML('beforeend', `<option value="${i}">#${i}</option>`));
+$('total').textContent = `(${DATA.length} articles across ${uniq(DATA.map(r => r.issue)).length} issues)`;
+
+// Cascading category filters. categories[0] is the top level and each next
+// entry is a sublevel of the previous one. Matching is case-insensitive;
+// option labels keep the data's original casing.
+const catSels = [];
+const catWrap = $('catFilters');
+const catDepth = Math.max(1, ...DATA.map(r => (r.categories || []).length));
+for (let i = 0; i < catDepth; i++) {
+  const sel = document.createElement('select');
+  catWrap.appendChild(sel);
+  catSels.push(sel);
+}
+const catMatches = (r, lvl, val) =>
+  (r.categories || [])[lvl] && r.categories[lvl].toLowerCase() === val.toLowerCase();
+const catRows = lvl => DATA.filter(r =>
+  catSels.every((sel, i) => i >= lvl || !sel.value || catMatches(r, i, sel.value)));
+const catOptions = (rows, lvl) => {
+  const seen = [], keys = new Set();
+  rows.forEach(r => {
+    const c = (r.categories || [])[lvl];
+    if (!c) return;
+    const k = c.toLowerCase();
+    if (!keys.has(k)) { keys.add(k); seen.push(c); }
+  });
+  return seen.sort((a, b) => a.localeCompare(b));
+};
+function fillCat(sel, lvl) {
+  const cur = sel.value;
+  const opts = catOptions(catRows(lvl), lvl);
+  sel.innerHTML = `<option value="">${lvl ? 'All subcategories' : 'All categories'}</option>`;
+  opts.forEach(c => sel.insertAdjacentHTML('beforeend', `<option value="${esc(c)}">${esc(c)}</option>`));
+  sel.value = opts.find(c => c.toLowerCase() === cur.toLowerCase()) || '';
+}
+function refreshCats(changed) {
+  for (let i = changed + 1; i < catDepth; i++) {
+    fillCat(catSels[i], i);
+    catSels[i].hidden = i > 0 && (!catSels[i - 1].value || !catOptions(catRows(i), i).length);
+    if (catSels[i].hidden) catSels[i].value = '';
+  }
+  render();
+}
+catSels.forEach((sel, i) => sel.addEventListener('change', () => refreshCats(i)));
+refreshCats(-1);
+
+function filtered() {
+  const q = $('q').value.trim().toLowerCase();
+  const m = $('fMonth').value, s = $('fSpon').value, iss = $('fIssue').value;
+  const rows = DATA.filter(r =>
+    (!m || r.date.startsWith(m)) &&
+    catSels.every((sel, i) => !sel.value || catMatches(r, i, sel.value)) &&
+    (!s || (s === 'yes' ? r.sponsored : !r.sponsored)) &&
+    (!iss || String(r.issue) === iss) &&
+    (!q || [r.title, r.summary, r.author, r.category, r.url, '#' + r.issue, r.date, r.date_display]
+            .some(v => v && String(v).toLowerCase().includes(q))));
+  const k = sortK;
+  rows.sort((a, b) => {
+    let x = a[k], y = b[k];
+    if (k === 'sponsored') { x = a.sponsored ? 1 : 0; y = b.sponsored ? 1 : 0; }
+    if (k === 'issue') { x = +x; y = +y; }
+    x = x ?? ''; y = y ?? '';
+    if (x < y) return -1 * sortDir;
+    if (x > y) return 1 * sortDir;
+    return 0;
+  });
+  return rows;
+}
+
+function render() {
+  const rows = filtered();
+  $('rows').innerHTML = rows.map(r => `<tr>
+    <td class="num">${esc(r.date_display)}</td>
+    <td class="num">#${r.issue}</td>
+    <td><a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a></td>
+    <td>${(r.categories || []).length
+      ? r.categories.map((c, i) => `<span class="tag" data-lvl="${i}" data-cat="${esc(c)}">${esc(c)}</span>`).join('')
+      : (r.category ? `<span class="tag">${esc(r.category)}</span>` : '')}</td>
+    <td>${esc(r.author || '')}</td>
+    <td>${r.sponsored ? '<span class="tag spon">Sponsored</span>' : ''}</td>
+    <td><a class="url" href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.url)}</a></td>
+    <td class="sum">${esc(r.summary || '')}</td></tr>`).join('');
+  $('count').textContent = `${rows.length} of ${DATA.length} shown`;
+  document.querySelectorAll('th').forEach(th => {
+    const on = th.dataset.k === sortK;
+    th.classList.toggle('sorted', on);
+    th.dataset.arrow = on ? (sortDir > 0 ? '▲' : '▼') : '';
+  });
+}
+
+['q', 'fMonth', 'fSpon', 'fIssue'].forEach(id => $(id).addEventListener('input', render));
+document.querySelectorAll('th').forEach(th => th.addEventListener('click', () => {
+  const k = th.dataset.k;
+  if (sortK === k) sortDir *= -1;
+  else { sortK = k; sortDir = (k === 'date' || k === 'issue') ? -1 : 1; }
+  render();
+}));
+const modeOf = (rows, lvl) => {
+  const cnt = {};
+  rows.forEach(r => { const c = (r.categories || [])[lvl]; if (c) cnt[c] = (cnt[c] || 0) + 1; });
+  return Object.entries(cnt).sort((a, b) => b[1] - a[1])[0]?.[0] || '';
+};
+$('rows').addEventListener('click', e => {
+  const t = e.target.closest('.tag[data-cat]');
+  if (!t) return;
+  const lvl = +t.dataset.lvl, val = t.dataset.cat;
+  const rows = DATA.filter(r => catMatches(r, lvl, val));
+  for (let i = 0; i < catDepth; i++) {
+    const sel = catSels[i];
+    if (i < lvl) sel.value = modeOf(rows, i);
+    fillCat(sel, i);
+    if (i === lvl) sel.value = [...sel.options].find(o => o.value.toLowerCase() === val.toLowerCase())?.value || '';
+    else if (i > lvl) sel.value = '';
+  }
+  refreshCats(-1);
+});
+$('reset').addEventListener('click', () => {
+  $('q').value = ''; ['fMonth', 'fSpon', 'fIssue'].forEach(id => $(id).value = '');
+  catSels.forEach(s => s.value = '');
+  refreshCats(-1);
+});
+function csvCell(v) {
+  v = v == null ? '' : String(v);
+  return /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+}
+$('csv').addEventListener('click', () => {
+  const cols = ['date', 'issue', 'title', 'category', 'author', 'sponsored', 'url', 'summary'];
+  const lines = [cols.join(',')].concat(filtered().map(r =>
+    cols.map(c => csvCell(c === 'sponsored' ? (r.sponsored ? 'yes' : 'no') : r[c])).join(',')));
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([lines.join('\n')], {type: 'text/csv'}));
+  a.download = 'pointer-io-articles.csv';
+  a.click();
+});
+render();
+</script>
+</body></html>
